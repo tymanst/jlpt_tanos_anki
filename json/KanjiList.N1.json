@@ -1,244 +1,244 @@
 [
 	{
 		"kandji": "氏",
-		"katakana": "シ",
-		"hiragana": "うじ -うじ",
+		"on":"シ",
+		"kun":"うじ -うじ",
 		"eng": "family name, surname, clan",
 		"russian": "Господин"
 	},
 	{
 		"kandji": "統",
-		"katakana": "トウ ホビ.",
-		"hiragana": "す.べる",
+		"on":"トウ ホビ.",
+		"kun":"す.べる",
 		"eng": "overall, relationship, ruling, governing",
 		"russian": "Объединять"
 	},
 	{
 		"kandji": "保",
-		"katakana": "ホ ホウ タモ.",
+		"on":"ホ ホウ タモ.",
 		"eng": "protect, guarantee, keep, preserve, sustain, support",
 		"russian": "Сохранять"
 	},
 	{
 		"kandji": "第",
-		"katakana": "ダイ テイ",
+		"on":"ダイ テイ",
 		"eng": "No., residence",
 		"russian": "Префикс числительных"
 	},
 	{
 		"kandji": "結",
-		"katakana": "ケツ ケチ ユ.ワエ",
-		"hiragana": "むす.ぶ ゆ.う",
+		"on":"ケツ ケチ ユ.ワエ",
+		"kun":"むす.ぶ ゆ.う",
 		"eng": "tie, bind, contract, join, organize, do up hair, fasten",
 		"russian": "Узел"
 	},
 	{
 		"kandji": "派",
-		"katakana": "ハ",
+		"on":"ハ",
 		"eng": "faction, group, party, clique, sect, school",
 		"russian": "Группировка"
 	},
 	{
 		"kandji": "案",
-		"katakana": "アン",
-		"hiragana": "つくえ",
+		"on":"アン",
+		"kun":"つくえ",
 		"eng": "plan, suggestion, draft, ponder, fear, proposition, idea, expectation, bill, worry",
 		"russian": "Проект"
 	},
 	{
 		"kandji": "策",
-		"katakana": "サク",
+		"on":"サク",
 		"eng": "scheme, plan, policy, step, means",
 		"russian": "Мероприятия"
 	},
 	{
 		"kandji": "基",
-		"katakana": "キ モト",
-		"hiragana": "もと",
+		"on":"キ モト",
+		"kun":"もと",
 		"eng": "fundamentals, radical (chem), counter for machines, foundation",
 		"russian": "Основа"
 	},
 	{
 		"kandji": "価",
-		"katakana": "カ ケ",
-		"hiragana": "あたい",
+		"on":"カ ケ",
+		"kun":"あたい",
 		"eng": "value, price",
 		"russian": "Цена"
 	},
 	{
 		"kandji": "提",
-		"katakana": "テイ チョウ ダイ",
-		"hiragana": "さ.げる",
+		"on":"テイ チョウ ダイ",
+		"kun":"さ.げる",
 		"eng": "propose, take along, carry in hand",
 		"russian": "Предлагать"
 	},
 	{
 		"kandji": "挙",
-		"katakana": "キョ コゾ.",
-		"hiragana": "あ.げる あ.がる",
+		"on":"キョ コゾ.",
+		"kun":"あ.げる あ.がる",
 		"eng": "raise, plan, project, behavior, actions",
 		"russian": "Поднимать"
 	},
 	{
 		"kandji": "応",
-		"katakana": "オウ ヨウ -ノウ コタ.エ",
-		"hiragana": "あた.る まさに",
+		"on":"オウ ヨウ -ノウ コタ.エ",
+		"kun":"あた.る まさに",
 		"eng": "apply, answer, yes, OK, reply, accept",
 		"russian": "Реагирование"
 	},
 	{
 		"kandji": "企",
-		"katakana": "キ",
-		"hiragana": "くわだ.てる",
+		"on":"キ",
+		"kun":"くわだ.てる",
 		"eng": "undertake, scheme, design, attempt, plan",
 		"russian": "Замысел"
 	},
 	{
 		"kandji": "検",
-		"katakana": "ケン",
-		"hiragana": "しら.べる",
+		"on":"ケン",
+		"kun":"しら.べる",
 		"eng": "examination, investigate",
 		"russian": "Расследовать"
 	},
 	{
 		"kandji": "藤",
-		"katakana": "トウ ドウ フ",
+		"on":"トウ ドウ フ",
 		"eng": "wisteria",
 		"russian": "Глициния"
 	},
 	{
 		"kandji": "沢",
-		"katakana": "タク ツ",
-		"hiragana": "さわ うるお.い うるお.す",
+		"on":"タク ツ",
+		"kun":"さわ うるお.い うるお.す",
 		"eng": "swamp",
 		"russian": "Болото"
 	},
 	{
 		"kandji": "裁",
-		"katakana": "サイ",
-		"hiragana": "た.つ さば.く",
+		"on":"サイ",
+		"kun":"た.つ さば.く",
 		"eng": "tailor, judge, decision, cut out (pattern)",
 		"russian": "Судить"
 	},
 	{
 		"kandji": "証",
-		"katakana": "ショウ",
-		"hiragana": "あかし",
+		"on":"ショウ",
+		"kun":"あかし",
 		"eng": "evidence, proof, certificate",
 		"russian": "Свидетельство"
 	},
 	{
 		"kandji": "援",
-		"katakana": "エン",
+		"on":"エン",
 		"eng": "abet, help, save",
 		"russian": "Помощь"
 	},
 	{
 		"kandji": "施",
-		"katakana": "シ セ",
-		"hiragana": "ほどこ.す",
+		"on":"シ セ",
+		"kun":"ほどこ.す",
 		"eng": "alms, apply bandages, administer first-aid",
 		"russian": "Осуществлять"
 	},
 	{
 		"kandji": "井",
-		"katakana": "セイ ショウ",
+		"on":"セイ ショウ",
 		"eng": "well, well crib, town, community",
 		"russian": "Колодец"
 	},
 	{
 		"kandji": "護",
-		"katakana": "ゴ マモ.",
+		"on":"ゴ マモ.",
 		"eng": "safeguard, protect",
 		"russian": "Защищать"
 	},
 	{
 		"kandji": "展",
-		"katakana": "テ",
+		"on":"テ",
 		"eng": "unfold, expand",
 		"russian": "Выставка"
 	},
 	{
 		"kandji": "態",
-		"katakana": "タイ",
-		"hiragana": "わざ.と",
+		"on":"タイ",
+		"kun":"わざ.と",
 		"eng": "attitude, condition, figure, appearance, voice (of verbs)",
 		"russian": "Состояние"
 	},
 	{
 		"kandji": "鮮",
-		"katakana": "セン",
-		"hiragana": "あざ.やか",
+		"on":"セン",
+		"kun":"あざ.やか",
 		"eng": "fresh, vivid, clear, brilliant, Korea",
 		"russian": "Свежий"
 	},
 	{
 		"kandji": "視",
-		"katakana": "シ ミ.",
+		"on":"シ ミ.",
 		"eng": "inspection, regard as, see, look at",
 		"russian": "Зрение"
 	},
 	{
 		"kandji": "条",
-		"katakana": "ジョウ チョウ デキ",
-		"hiragana": "えだ すじ",
+		"on":"ジョウ チョウ デキ",
+		"kun":"えだ すじ",
 		"eng": "article, clause, item, stripe, streak",
 		"russian": "Статья"
 	},
 	{
 		"kandji": "幹",
-		"katakana": "カン ミ",
+		"on":"カン ミ",
 		"eng": "tree trunk",
 		"russian": "Ствол"
 	},
 	{
 		"kandji": "独",
-		"katakana": "ドク トク ヒト.",
+		"on":"ドク トク ヒト.",
 		"eng": "single, alone, spontaneously, Germany",
 		"russian": "Сам"
 	},
 	{
 		"kandji": "宮",
-		"katakana": "キュウ グウ ク クウ ミ",
+		"on":"キュウ グウ ク クウ ミ",
 		"eng": "Shinto shrine, constellations, palace, princess",
 		"russian": "Дворец"
 	},
 	{
 		"kandji": "率",
-		"katakana": "ソツ リツ シュツ",
-		"hiragana": "ひき.いる",
+		"on":"ソツ リツ シュツ",
+		"kun":"ひき.いる",
 		"eng": "ratio, rate, proportion, %, coefficient, factor",
 		"russian": "Показатель"
 	},
 	{
 		"kandji": "衛",
-		"katakana": "エイ",
+		"on":"エイ",
 		"eng": "defense, protection",
 		"russian": "Охранять"
 	},
 	{
 		"kandji": "張",
-		"katakana": "チョウ -バ.",
-		"hiragana": "は.る -は.り",
+		"on":"チョウ -バ.",
+		"kun":"は.る -は.り",
 		"eng": "lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)",
 		"russian": "Натягивать"
 	},
 	{
 		"kandji": "監",
-		"katakana": "カ",
+		"on":"カ",
 		"eng": "oversee, official, govt office, rule, administer",
 		"russian": "Надзирать"
 	},
 	{
 		"kandji": "環",
-		"katakana": "カン",
+		"on":"カン",
 		"eng": "ring, circle, link, wheel",
 		"russian": "Кольцо"
 	},
 	{
 		"kandji": "審",
-		"katakana": "シン ツブサ.",
-		"hiragana": "つまび.らか",
+		"on":"シン ツブサ.",
+		"kun":"つまび.らか",
 		"eng": "hearing, judge, trial",
 		"russian": "Разбирательство"
 	},
@@ -249,60 +249,60 @@
 	},
 	{
 		"kandji": "訴",
-		"katakana": "ソ",
-		"hiragana": "うった.える",
+		"on":"ソ",
+		"kun":"うった.える",
 		"eng": "accusation, sue, complain of pain, appeal to",
 		"russian": "Жалоба"
 	},
 	{
 		"kandji": "株",
-		"katakana": "シュ",
-		"hiragana": "かぶ",
+		"on":"シュ",
+		"kun":"かぶ",
 		"eng": "stocks, stump, shares, stock, counter for small plants",
 		"russian": "Акция"
 	},
 	{
 		"kandji": "姿",
-		"katakana": "シ スガ",
+		"on":"シ スガ",
 		"eng": "figure, form, shape",
 		"russian": "Фигура"
 	},
 	{
 		"kandji": "閣",
-		"katakana": "カク",
+		"on":"カク",
 		"eng": "tower, tall building, palace",
 		"russian": "Высокое здание"
 	},
 	{
 		"kandji": "衆",
-		"katakana": "シュウ シュ",
-		"hiragana": "おお.い",
+		"on":"シュウ シュ",
+		"kun":"おお.い",
 		"eng": "masses, great numbers, multitude, populace",
 		"russian": "Народ"
 	},
 	{
 		"kandji": "評",
-		"katakana": "ヒョウ",
+		"on":"ヒョウ",
 		"eng": "evaluate, criticism, comment",
 		"russian": "Суждение"
 	},
 	{
 		"kandji": "影",
-		"katakana": "エイ",
-		"hiragana": "かげ",
+		"on":"エイ",
+		"kun":"かげ",
 		"eng": "shadow, silhouette, phantom",
 		"russian": "Силуэт"
 	},
 	{
 		"kandji": "松",
-		"katakana": "ショウ マ",
+		"on":"ショウ マ",
 		"eng": "pine tree",
 		"russian": "Сосна"
 	},
 	{
 		"kandji": "撃",
-		"katakana": "ゲキ",
-		"hiragana": "う.つ",
+		"on":"ゲキ",
+		"kun":"う.つ",
 		"eng": "beat, attack, defeat, conquer",
 		"russian": "Нападать"
 	},
@@ -313,67 +313,67 @@
 	},
 	{
 		"kandji": "核",
-		"katakana": "カク",
+		"on":"カク",
 		"eng": "nucleus, core, kernel",
 		"russian": "Ядро"
 	},
 	{
 		"kandji": "整",
-		"katakana": "セイ トトノ.",
-		"hiragana": "ととの.える",
+		"on":"セイ トトノ.",
+		"kun":"ととの.える",
 		"eng": "organize, arranging, tune, tone, meter, key (music)",
 		"russian": "Приводить в порядок"
 	},
 	{
 		"kandji": "融",
-		"katakana": "ユウ ト.カ",
-		"hiragana": "と.ける",
+		"on":"ユウ ト.カ",
+		"kun":"と.ける",
 		"eng": "dissolve, melt",
 		"russian": "Финансы"
 	},
 	{
 		"kandji": "製",
-		"katakana": "セイ",
+		"on":"セイ",
 		"eng": "made in..., manufacture",
 		"russian": "Изготовлять"
 	},
 	{
 		"kandji": "票",
-		"katakana": "ヒョウ",
+		"on":"ヒョウ",
 		"eng": "ballot, label, ticket, sign",
 		"russian": "Голосовать"
 	},
 	{
 		"kandji": "渉",
-		"katakana": "ショウ ワタ.",
+		"on":"ショウ ワタ.",
 		"eng": "ford, ferry, port",
 		"russian": "Сношения"
 	},
 	{
 		"kandji": "響",
-		"katakana": "キョウ",
-		"hiragana": "ひび.く",
+		"on":"キョウ",
+		"kun":"ひび.く",
 		"eng": "echo, also N5116, sound, resound, ring, vibrate",
 		"russian": "Эхо"
 	},
 	{
 		"kandji": "推",
-		"katakana": "スイ",
-		"hiragana": "お.す",
+		"on":"スイ",
+		"kun":"お.す",
 		"eng": "conjecture, infer, guess, suppose, support",
 		"russian": "Предполагать"
 	},
 	{
 		"kandji": "請",
-		"katakana": "セイ シン ショウ ウ.ケ",
-		"hiragana": "こ.う",
+		"on":"セイ シン ショウ ウ.ケ",
+		"kun":"こ.う",
 		"eng": "solicit, invite, ask",
 		"russian": "Просить"
 	},
 	{
 		"kandji": "器",
-		"katakana": "キ",
-		"hiragana": "うつわ",
+		"on":"キ",
+		"kun":"うつわ",
 		"eng": "utensil, vessel, receptacle, implement, instrument, ability, container, tool, set",
 		"russian": "Сосуд"
 	},
@@ -384,187 +384,187 @@
 	},
 	{
 		"kandji": "討",
-		"katakana": "トウ",
-		"hiragana": "う.つ",
+		"on":"トウ",
+		"kun":"う.つ",
 		"eng": "chastise, attack, defeat, destroy, conquer",
 		"russian": "Подавлять"
 	},
 	{
 		"kandji": "攻",
-		"katakana": "コウ セ.メ",
+		"on":"コウ セ.メ",
 		"eng": "aggression, attack",
 		"russian": "Наступать"
 	},
 	{
 		"kandji": "崎",
-		"katakana": "キ",
-		"hiragana": "さき さい みさき",
+		"on":"キ",
+		"kun":"さき さい みさき",
 		"eng": "promontory, cape, spit",
 		"russian": "Мыс"
 	},
 	{
 		"kandji": "督",
-		"katakana": "ト",
+		"on":"ト",
 		"eng": "coach, command, urge, lead, supervise",
 		"russian": "Командовать"
 	},
 	{
 		"kandji": "授",
-		"katakana": "ジュ",
-		"hiragana": "さず.ける さず.かる",
+		"on":"ジュ",
+		"kun":"さず.ける さず.かる",
 		"eng": "impart, instruct, grant, confer",
 		"russian": "Предоставлять"
 	},
 	{
 		"kandji": "催",
-		"katakana": "サイ",
-		"hiragana": "もよう.す もよお.す",
+		"on":"サイ",
+		"kun":"もよう.す もよお.す",
 		"eng": "sponsor, hold (a meeting), give (a dinner)",
 		"russian": "Устраивать"
 	},
 	{
 		"kandji": "及",
-		"katakana": "キュウ オヨ.ボ",
-		"hiragana": "およ.ぶ およ.び および",
+		"on":"キュウ オヨ.ボ",
+		"kun":"およ.ぶ およ.び および",
 		"eng": "reach out, exert, exercise, cause",
 		"russian": "Достигать"
 	},
 	{
 		"kandji": "憲",
-		"katakana": "ケ",
+		"on":"ケ",
 		"eng": "constitution, law",
 		"russian": "Конституция"
 	},
 	{
 		"kandji": "離",
-		"katakana": "リ",
-		"hiragana": "はな.れる はな.す",
+		"on":"リ",
+		"kun":"はな.れる はな.す",
 		"eng": "detach, separation, disjoin, digress",
 		"russian": "Отделяться"
 	},
 	{
 		"kandji": "激",
-		"katakana": "ゲキ",
-		"hiragana": "はげ.しい",
+		"on":"ゲキ",
+		"kun":"はげ.しい",
 		"eng": "violent, get excited, enraged, chafe, incite",
 		"russian": "Яростный"
 	},
 	{
 		"kandji": "摘",
-		"katakana": "テキ ツ.",
+		"on":"テキ ツ.",
 		"eng": "pinch, pick, pluck, trim, clip, summarize",
 		"russian": "Срывать"
 	},
 	{
 		"kandji": "系",
-		"katakana": "ケイ",
+		"on":"ケイ",
 		"eng": "lineage, system",
 		"russian": "Система"
 	},
 	{
 		"kandji": "批",
-		"katakana": "ヒ",
+		"on":"ヒ",
 		"eng": "criticism, strike",
 		"russian": "Критика"
 	},
 	{
 		"kandji": "郎",
-		"katakana": "ロウ リョウ オト",
+		"on":"ロウ リョウ オト",
 		"eng": "son, counter for sons",
 		"russian": "Молодой человек"
 	},
 	{
 		"kandji": "健",
-		"katakana": "ケン スコ.ヤ",
+		"on":"ケン スコ.ヤ",
 		"eng": "healthy, health, strength, persistence",
 		"russian": "Здоровый"
 	},
 	{
 		"kandji": "盟",
-		"katakana": "メイ",
+		"on":"メイ",
 		"eng": "alliance, oath",
 		"russian": "Союз"
 	},
 	{
 		"kandji": "従",
-		"katakana": "ジュウ ショウ ジュ",
-		"hiragana": "したが.う したが.える より",
+		"on":"ジュウ ショウ ジュ",
+		"kun":"したが.う したが.える より",
 		"eng": "accompany, obey, submit to, comply, follow, secondary, incidental, subordinate",
 		"russian": "Следовать"
 	},
 	{
 		"kandji": "修",
-		"katakana": "シュウ シュ オサ.マ",
-		"hiragana": "おさ.める",
+		"on":"シュウ シュ オサ.マ",
+		"kun":"おさ.める",
 		"eng": "discipline, conduct oneself well, study, master",
 		"russian": "Учиться"
 	},
 	{
 		"kandji": "隊",
-		"katakana": "タイ",
+		"on":"タイ",
 		"eng": "regiment, party, company, squad",
 		"russian": "Отряд"
 	},
 	{
 		"kandji": "織",
-		"katakana": "ショク シキ -オ.",
-		"hiragana": "お.る お.り おり -おり",
+		"on":"ショク シキ -オ.",
+		"kun":"お.る お.り おり -おり",
 		"eng": "weave, fabric",
 		"russian": "Ткать"
 	},
 	{
 		"kandji": "拡",
-		"katakana": "カク コウ",
-		"hiragana": "ひろ.がる ひろ.げる ひろ.める",
+		"on":"カク コウ",
+		"kun":"ひろ.がる ひろ.げる ひろ.める",
 		"eng": "broaden, extend, expand, enlarge",
 		"russian": "Расширять"
 	},
 	{
 		"kandji": "故",
-		"katakana": "コ",
-		"hiragana": "ゆえ",
+		"on":"コ",
+		"kun":"ゆえ",
 		"eng": "happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently",
 		"russian": "Происшествие"
 	},
 	{
 		"kandji": "振",
-		"katakana": "シン フ.ル",
-		"hiragana": "ふ.る ぶ.る ふ.り -ぶ.り",
+		"on":"シン フ.ル",
+		"kun":"ふ.る ぶ.る ふ.り -ぶ.り",
 		"eng": "shake, wave, wag, swing",
 		"russian": "Трястись"
 	},
 	{
 		"kandji": "弁",
-		"katakana": "ベン ヘン アラソ.",
-		"hiragana": "わきま.える わ.ける はなびら",
+		"on":"ベン ヘン アラソ.",
+		"kun":"わきま.える わ.ける はなびら",
 		"eng": "valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish",
 		"russian": "Речь"
 	},
 	{
 		"kandji": "就",
-		"katakana": "シュウ ジュ ツ.ケ",
-		"hiragana": "つ.く",
+		"on":"シュウ ジュ ツ.ケ",
+		"kun":"つ.く",
 		"eng": "concerning, settle, take position, depart, study, per",
 		"russian": "Приступать"
 	},
 	{
 		"kandji": "異",
-		"katakana": "イ",
-		"hiragana": "こと こと.なる け",
+		"on":"イ",
+		"kun":"こと こと.なる け",
 		"eng": "uncommon, queerness, strangeness, wonderful, curious, unusual",
 		"russian": "Отличаться"
 	},
 	{
 		"kandji": "献",
-		"katakana": "ケン コン",
-		"hiragana": "たてまつ.る",
+		"on":"ケン コン",
+		"kun":"たてまつ.る",
 		"eng": "offering, counter for drinks, present, offer",
 		"russian": "Пожертвование"
 	},
 	{
 		"kandji": "厳",
-		"katakana": "ゲン ゴン イツク",
-		"hiragana": "おごそ.か きび.しい いか.めしい",
+		"on":"ゲン ゴン イツク",
+		"kun":"おごそ.か きび.しい いか.めしい",
 		"eng": "stern, strictness, severity, rigidity",
 		"russian": "Строгий"
 	},
@@ -575,175 +575,175 @@
 	},
 	{
 		"kandji": "浜",
-		"katakana": "ヒン",
-		"hiragana": "はま",
+		"on":"ヒン",
+		"kun":"はま",
 		"eng": "seacoast, beach, seashore",
 		"russian": "Иокогама"
 	},
 	{
 		"kandji": "遺",
-		"katakana": "イ ユイ",
+		"on":"イ ユイ",
 		"eng": "bequeath, leave behind, reserve",
 		"russian": "Оставлять после себя"
 	},
 	{
 		"kandji": "塁",
-		"katakana": "ルイ ライ スイ トリ",
+		"on":"ルイ ライ スイ トリ",
 		"eng": "bases, fort, rampart, walls, base(ball)",
 		"russian": "Крепостной вал"
 	},
 	{
 		"kandji": "邦",
-		"katakana": "ホウ",
-		"hiragana": "くに",
+		"on":"ホウ",
+		"kun":"くに",
 		"eng": "home country, country, Japan",
 		"russian": "Родная страна"
 	},
 	{
 		"kandji": "素",
-		"katakana": "ソ ス",
-		"hiragana": "もと",
+		"on":"ソ ス",
+		"kun":"もと",
 		"eng": "elementary, principle, naked, uncovered",
 		"russian": "Элемент"
 	},
 	{
 		"kandji": "遣",
-		"katakana": "ケン",
-		"hiragana": "つか.う -つか.い -づか.い つか.わす や.る",
+		"on":"ケン",
+		"kun":"つか.う -つか.い -づか.い つか.わす や.る",
 		"eng": "despatch, send, give, donate, do, undertake",
 		"russian": "Отправлять"
 	},
 	{
 		"kandji": "抗",
-		"katakana": "コウ",
+		"on":"コウ",
 		"eng": "confront, resist, defy, oppose",
 		"russian": "Анти-"
 	},
 	{
 		"kandji": "模",
-		"katakana": "モ",
+		"on":"モ",
 		"eng": "imitation, copy, mock",
 		"russian": "Образец"
 	},
 	{
 		"kandji": "雄",
-		"katakana": "ユウ オ",
-		"hiragana": "お- おす",
+		"on":"ユウ オ",
+		"kun":"お- おす",
 		"eng": "masculine, male, hero, leader, superiority, excellence",
 		"russian": "Самец"
 	},
 	{
 		"kandji": "益",
-		"katakana": "エキ ヤク マ.",
+		"on":"エキ ヤク マ.",
 		"eng": "benefit, gain, profit, advantage",
 		"russian": "Польза"
 	},
 	{
 		"kandji": "緊",
-		"katakana": "キン",
+		"on":"キン",
 		"eng": "tense, solid, hard, reliable, tight",
 		"russian": "Срочный"
 	},
 	{
 		"kandji": "標",
-		"katakana": "ヒョウ シル",
-		"hiragana": "しるべ",
+		"on":"ヒョウ シル",
+		"kun":"しるべ",
 		"eng": "signpost, seal, mark, stamp, imprint, symbol, emblem, trademark, evidence, souvenir, target",
 		"russian": "Знак"
 	},
 	{
 		"kandji": "宣",
-		"katakana": "セン ノタマ.ワ",
-		"hiragana": "のたむ.う",
+		"on":"セン ノタマ.ワ",
+		"kun":"のたむ.う",
 		"eng": "proclaim, say, announce",
 		"russian": "Оглашать"
 	},
 	{
 		"kandji": "昭",
-		"katakana": "ショ",
+		"on":"ショ",
 		"eng": "shining, bright",
 		"russian": "Эпоха Сёва"
 	},
 	{
 		"kandji": "廃",
-		"katakana": "ハイ",
-		"hiragana": "すた.れる すた.る",
+		"on":"ハイ",
+		"kun":"すた.れる すた.る",
 		"eng": "abolish, obsolete, cessation, discarding, abandon",
 		"russian": "Упразднять"
 	},
 	{
 		"kandji": "伊",
-		"katakana": "イ カ",
+		"on":"イ カ",
 		"eng": "Italy, that one",
 		"russian": "Италия"
 	},
 	{
 		"kandji": "江",
-		"katakana": "コウ",
+		"on":"コウ",
 		"eng": "creek, inlet, bay",
 		"russian": "Китайская река"
 	},
 	{
 		"kandji": "僚",
-		"katakana": "リョウ",
+		"on":"リョウ",
 		"eng": "colleague, official, companion",
 		"russian": "Коллега"
 	},
 	{
 		"kandji": "吉",
-		"katakana": "キチ キツ ヨ",
+		"on":"キチ キツ ヨ",
 		"eng": "good luck, joy, congratulations",
 		"russian": "Удача"
 	},
 	{
 		"kandji": "盛",
-		"katakana": "セイ ジョウ サカ.",
-		"hiragana": "も.る さか.る",
+		"on":"セイ ジョウ サカ.",
+		"kun":"も.る さか.る",
 		"eng": "boom, prosper, copulate",
 		"russian": "Процветать"
 	},
 	{
 		"kandji": "皇",
-		"katakana": "コウ オ",
+		"on":"コウ オ",
 		"eng": "emperor",
 		"russian": "Император"
 	},
 	{
 		"kandji": "臨",
-		"katakana": "リン ノゾ.",
+		"on":"リン ノゾ.",
 		"eng": "look to, face, meet, confront, attend, call on",
 		"russian": "Присутствовать"
 	},
 	{
 		"kandji": "踏",
-		"katakana": "トウ",
-		"hiragana": "ふ.む ふ.まえる",
+		"on":"トウ",
+		"kun":"ふ.む ふ.まえる",
 		"eng": "step, trample, carry through, appraise, evade payment",
 		"russian": "Ступать"
 	},
 	{
 		"kandji": "壊",
-		"katakana": "カイ エ",
-		"hiragana": "こわ.す こわ.れる やぶ.る",
+		"on":"カイ エ",
+		"kun":"こわ.す こわ.れる やぶ.る",
 		"eng": "demolition, break, destroy",
 		"russian": "Разрушать"
 	},
 	{
 		"kandji": "債",
-		"katakana": "サイ",
+		"on":"サイ",
 		"eng": "bond, loan, debt",
 		"russian": "Заём"
 	},
 	{
 		"kandji": "興",
-		"katakana": "コウ キョウ オコ.",
-		"hiragana": "おこ.る",
+		"on":"コウ キョウ オコ.",
+		"kun":"おこ.る",
 		"eng": "entertain, revive, retrieve, interest, pleasure",
 		"russian": "Развлечение"
 	},
 	{
 		"kandji": "源",
-		"katakana": "ゲン ミナモ",
+		"on":"ゲン ミナモ",
 		"eng": "source, origin",
 		"russian": "Исток"
 	},
@@ -754,94 +754,94 @@
 	},
 	{
 		"kandji": "創",
-		"katakana": "ソウ ショウ ケズ.シケ",
-		"hiragana": "つく.る はじ.める きず",
+		"on":"ソウ ショウ ケズ.シケ",
+		"kun":"つく.る はじ.める きず",
 		"eng": "genesis, wound, injury, hurt, start, originate",
 		"russian": "Творческий"
 	},
 	{
 		"kandji": "障",
-		"katakana": "ショウ",
-		"hiragana": "さわ.る",
+		"on":"ショウ",
+		"kun":"さわ.る",
 		"eng": "hinder, hurt, harm",
 		"russian": "Препятствие"
 	},
 	{
 		"kandji": "継",
-		"katakana": "ケイ",
-		"hiragana": "つ.ぐ まま-",
+		"on":"ケイ",
+		"kun":"つ.ぐ まま-",
 		"eng": "inherit, succeed, patch, graft (tree)",
 		"russian": "Следовать"
 	},
 	{
 		"kandji": "筋",
-		"katakana": "キン",
-		"hiragana": "すじ",
+		"on":"キン",
+		"kun":"すじ",
 		"eng": "muscle, sinew, tendon, fiber, plot, plan, descent",
 		"russian": "Мышца"
 	},
 	{
 		"kandji": "闘",
-		"katakana": "トウ アラソ.",
-		"hiragana": "たたか.う",
+		"on":"トウ アラソ.",
+		"kun":"たたか.う",
 		"eng": "fight, war",
 		"russian": "Бороться"
 	},
 	{
 		"kandji": "葬",
-		"katakana": "ソウ ホウム.",
+		"on":"ソウ ホウム.",
 		"eng": "interment, bury, shelve",
 		"russian": "Похороны"
 	},
 	{
 		"kandji": "避",
-		"katakana": "ヒ",
-		"hiragana": "さ.ける よ.ける",
+		"on":"ヒ",
+		"kun":"さ.ける よ.ける",
 		"eng": "evade, avoid, avert, ward off, shirk, shun",
 		"russian": "Избегать"
 	},
 	{
 		"kandji": "司",
-		"katakana": "シ ツカサド.",
+		"on":"シ ツカサド.",
 		"eng": "director, official, govt office, rule, administer",
 		"russian": "Управляющий"
 	},
 	{
 		"kandji": "康",
-		"katakana": "コ",
+		"on":"コ",
 		"eng": "ease, peace",
 		"russian": "Здоровье"
 	},
 	{
 		"kandji": "善",
-		"katakana": "ゼン ヨシ.トス",
-		"hiragana": "よ.い い.い よ.く",
+		"on":"ゼン ヨシ.トス",
+		"kun":"よ.い い.い よ.く",
 		"eng": "virtuous, good, goodness",
 		"russian": "Добро"
 	},
 	{
 		"kandji": "逮",
-		"katakana": "タイ",
+		"on":"タイ",
 		"eng": "apprehend, chase",
 		"russian": "Арест"
 	},
 	{
 		"kandji": "迫",
-		"katakana": "ハク セマ.",
+		"on":"ハク セマ.",
 		"eng": "urge, force, imminent, spur on",
 		"russian": "Наседать"
 	},
 	{
 		"kandji": "惑",
-		"katakana": "ワク",
-		"hiragana": "まど.う",
+		"on":"ワク",
+		"kun":"まど.う",
 		"eng": "beguile, delusion, perplexity",
 		"russian": "Растерянность"
 	},
 	{
 		"kandji": "崩",
-		"katakana": "ホウ",
-		"hiragana": "くず.れる -くず.れ くず.す",
+		"on":"ホウ",
+		"kun":"くず.れる -くず.れ くず.す",
 		"eng": "crumble, die, demolish, level",
 		"russian": "Рушиться"
 	},
@@ -852,623 +852,623 @@
 	},
 	{
 		"kandji": "聴",
-		"katakana": "チョウ テイ ユル.",
-		"hiragana": "き.く",
+		"on":"チョウ テイ ユル.",
+		"kun":"き.く",
 		"eng": "listen, headstrong, naughty, careful inquiry",
 		"russian": "Слушать"
 	},
 	{
 		"kandji": "脱",
-		"katakana": "ダツ",
-		"hiragana": "ぬ.ぐ ぬ.げる",
+		"on":"ダツ",
+		"kun":"ぬ.ぐ ぬ.げる",
 		"eng": "undress, removing, escape from, get rid of, be left out, take off",
 		"russian": "Снимать"
 	},
 	{
 		"kandji": "級",
-		"katakana": "キュ",
+		"on":"キュ",
 		"eng": "class, rank, grade",
 		"russian": "Разряд"
 	},
 	{
 		"kandji": "博",
-		"katakana": "ハク バ",
+		"on":"ハク バ",
 		"eng": "Dr., command, esteem, win acclaim, Ph.D., exposition, fair",
 		"russian": "Эрудиция"
 	},
 	{
 		"kandji": "締",
-		"katakana": "テイ",
-		"hiragana": "し.まる し.まり し.める -し.め -じ.め",
+		"on":"テイ",
+		"kun":"し.まる し.まり し.める -し.め -じ.め",
 		"eng": "tighten, tie, shut, lock, fasten",
 		"russian": "Затягивать"
 	},
 	{
 		"kandji": "救",
-		"katakana": "キュウ",
-		"hiragana": "すく.う",
+		"on":"キュウ",
+		"kun":"すく.う",
 		"eng": "salvation, save, help, rescue, reclaim",
 		"russian": "Спасать"
 	},
 	{
 		"kandji": "執",
-		"katakana": "シツ シュウ ト.",
+		"on":"シツ シュウ ト.",
 		"eng": "tenacious, take hold, grasp, take to heart",
 		"russian": "Выполнять"
 	},
 	{
 		"kandji": "房",
-		"katakana": "ボウ フ",
+		"on":"ボウ フ",
 		"eng": "tassel, tuft, fringe, bunch, lock (hair), segment (orange), house, room",
 		"russian": "Камера"
 	},
 	{
 		"kandji": "撤",
-		"katakana": "テツ",
+		"on":"テツ",
 		"eng": "remove, withdraw, disarm, dismantle, reject, exclude",
 		"russian": "Убирать"
 	},
 	{
 		"kandji": "削",
-		"katakana": "サク ソ.",
-		"hiragana": "けず.る はつ.る",
+		"on":"サク ソ.",
+		"kun":"けず.る はつ.る",
 		"eng": "plane, sharpen, whittle, pare",
 		"russian": "Срезать"
 	},
 	{
 		"kandji": "密",
-		"katakana": "ミツ",
-		"hiragana": "ひそ.か",
+		"on":"ミツ",
+		"kun":"ひそ.か",
 		"eng": "secrecy, density (pop), minuteness, carefulness",
 		"russian": "Тайна"
 	},
 	{
 		"kandji": "措",
-		"katakana": "ソ",
-		"hiragana": "お.く",
+		"on":"ソ",
+		"kun":"お.く",
 		"eng": "set aside, give up, suspend, discontinue, lay aside, except",
 		"russian": "Откладывать"
 	},
 	{
 		"kandji": "志",
-		"katakana": "シ シリング ココロザ",
-		"hiragana": "こころざ.す",
+		"on":"シ シリング ココロザ",
+		"kun":"こころざ.す",
 		"eng": "intention, plan, resolve, aspire, motive, hopes, shilling",
 		"russian": "Воля"
 	},
 	{
 		"kandji": "載",
-		"katakana": "サイ ノ.",
-		"hiragana": "の.せる",
+		"on":"サイ ノ.",
+		"kun":"の.せる",
 		"eng": "ride, board, get on, place, spread, 10**44",
 		"russian": "Грузить"
 	},
 	{
 		"kandji": "陣",
-		"katakana": "ジン",
+		"on":"ジン",
 		"eng": "camp, battle array, ranks, position",
 		"russian": "Боевой порядок"
 	},
 	{
 		"kandji": "我",
-		"katakana": "ガ",
-		"hiragana": "われ わ わ.が- わが",
+		"on":"ガ",
+		"kun":"われ わ わ.が- わが",
 		"eng": "ego, I, selfish, our, oneself",
 		"russian": "Эго"
 	},
 	{
 		"kandji": "為",
-		"katakana": "イ ナ",
-		"hiragana": "ため な.る な.す す.る たり つく.る",
+		"on":"イ ナ",
+		"kun":"ため な.る な.す す.る たり つく.る",
 		"eng": "do, change, make, benefit, welfare, be of use, reach to, try, practice, cost, serve as, good, advantage, as a re",
 		"russian": "Делать"
 	},
 	{
 		"kandji": "抑",
-		"katakana": "ヨク",
-		"hiragana": "おさ.える",
+		"on":"ヨク",
+		"kun":"おさ.える",
 		"eng": "repress, well, now, in the first place, push, shove, press, seal, do in spite of",
 		"russian": "Сдерживать"
 	},
 	{
 		"kandji": "幕",
-		"katakana": "マク バク",
+		"on":"マク バク",
 		"eng": "curtain, bunting, act of play",
 		"russian": "Занавес"
 	},
 	{
 		"kandji": "染",
-		"katakana": "セン -シ.メ",
-		"hiragana": "そ.める -ぞ.め -ぞめ そ.まる し.みる -じ.みる し.み",
+		"on":"セン -シ.メ",
+		"kun":"そ.める -ぞ.め -ぞめ そ.まる し.みる -じ.みる し.み",
 		"eng": "dye, color, paint, stain, print",
 		"russian": "Окрашивать"
 	},
 	{
 		"kandji": "奈",
-		"katakana": "ナ ナイ ダイ",
-		"hiragana": "いかん からなし",
+		"on":"ナ ナイ ダイ",
+		"kun":"いかん からなし",
 		"eng": "Nara, what?",
 		"russian": "Нара"
 	},
 	{
 		"kandji": "傷",
-		"katakana": "ショウ",
-		"hiragana": "きず いた.む いた.める",
+		"on":"ショウ",
+		"kun":"きず いた.む いた.める",
 		"eng": "wound, hurt, injure, impair, pain, injury, cut, gash, scar, weak point",
 		"russian": "Рана"
 	},
 	{
 		"kandji": "択",
-		"katakana": "タク",
-		"hiragana": "えら.ぶ",
+		"on":"タク",
+		"kun":"えら.ぶ",
 		"eng": "choose, select, elect, prefer",
 		"russian": "Выбирать"
 	},
 	{
 		"kandji": "秀",
-		"katakana": "シュウ ヒイ.デ",
+		"on":"シュウ ヒイ.デ",
 		"eng": "excel, excellence, beauty, surpass",
 		"russian": "Превосходить"
 	},
 	{
 		"kandji": "徴",
-		"katakana": "チョウ チ",
-		"hiragana": "しるし",
+		"on":"チョウ チ",
+		"kun":"しるし",
 		"eng": "indications, sign, omen, symptom, collect, seek, refer to, question",
 		"russian": "Признак"
 	},
 	{
 		"kandji": "弾",
-		"katakana": "ダン タン",
-		"hiragana": "ひ.く -ひ.き はず.む たま はじ.く はじ.ける ただ.す はじ.きゆみ",
+		"on":"ダン タン",
+		"kun":"ひ.く -ひ.き はず.む たま はじ.く はじ.ける ただ.す はじ.きゆみ",
 		"eng": "bullet, twang, flip, snap",
 		"russian": "Пуля"
 	},
 	{
 		"kandji": "償",
-		"katakana": "ショウ",
-		"hiragana": "つぐな.う",
+		"on":"ショウ",
+		"kun":"つぐな.う",
 		"eng": "reparation, make up for, recompense, redeem",
 		"russian": "Возмещать"
 	},
 	{
 		"kandji": "功",
-		"katakana": "コウ ク イサ",
+		"on":"コウ ク イサ",
 		"eng": "achievement, merits, success, honor, credit",
 		"russian": "Заслуга"
 	},
 	{
 		"kandji": "拠",
-		"katakana": "キョ コ",
-		"hiragana": "よ.る",
+		"on":"キョ コ",
+		"kun":"よ.る",
 		"eng": "foothold, based on, follow, therefore",
 		"russian": "Основываться"
 	},
 	{
 		"kandji": "秘",
-		"katakana": "ヒ",
-		"hiragana": "ひ.める ひそ.か かく.す",
+		"on":"ヒ",
+		"kun":"ひ.める ひそ.か かく.す",
 		"eng": "secret, conceal",
 		"russian": "Тайна"
 	},
 	{
 		"kandji": "拒",
-		"katakana": "キョ ゴ",
-		"hiragana": "こば.む",
+		"on":"キョ ゴ",
+		"kun":"こば.む",
 		"eng": "repel, refuse, reject, decline",
 		"russian": "Отказываться"
 	},
 	{
 		"kandji": "刑",
-		"katakana": "ケ",
+		"on":"ケ",
 		"eng": "punish, penalty, sentence, punishment",
 		"russian": "Кара"
 	},
 	{
 		"kandji": "塚",
-		"katakana": "チョウ -ヅ",
-		"hiragana": "つか",
+		"on":"チョウ -ヅ",
+		"kun":"つか",
 		"eng": "hillock, mound",
 		"russian": "Насыпь"
 	},
 	{
 		"kandji": "致",
-		"katakana": "チ",
-		"hiragana": "いた.す",
+		"on":"チ",
+		"kun":"いた.す",
 		"eng": "doth, do, send, forward, cause, exert, incur, engage",
 		"russian": "Навлекать"
 	},
 	{
 		"kandji": "繰",
-		"katakana": "ソウ ク.",
+		"on":"ソウ ク.",
 		"eng": "winding, reel, spin, turn (pages), look up, refer to",
 		"russian": "Наматывать"
 	},
 	{
 		"kandji": "尾",
-		"katakana": "ビ",
-		"hiragana": "お",
+		"on":"ビ",
+		"kun":"お",
 		"eng": "tail, end, counter for fish, lower slope of mountain",
 		"russian": "Хвост"
 	},
 	{
 		"kandji": "描",
-		"katakana": "ビョウ",
-		"hiragana": "えが.く か.く",
+		"on":"ビョウ",
+		"kun":"えが.く か.く",
 		"eng": "sketch, compose, write, draw, paint",
 		"russian": "Рисовать"
 	},
 	{
 		"kandji": "鈴",
-		"katakana": "レイ リン ス",
+		"on":"レイ リン ス",
 		"eng": "small bell, buzzer",
 		"russian": "Колокольчик"
 	},
 	{
 		"kandji": "盤",
-		"katakana": "バ",
+		"on":"バ",
 		"eng": "tray, shallow bowl, platter, tub, board, phonograph record",
 		"russian": "Диск"
 	},
 	{
 		"kandji": "項",
-		"katakana": "コウ",
-		"hiragana": "うなじ",
+		"on":"コウ",
+		"kun":"うなじ",
 		"eng": "paragraph, nape of neck, clause, item, term (expression)",
 		"russian": "Параграф"
 	},
 	{
 		"kandji": "喪",
-		"katakana": "ソウ",
-		"hiragana": "も",
+		"on":"ソウ",
+		"kun":"も",
 		"eng": "miss, mourning",
 		"russian": "Траур"
 	},
 	{
 		"kandji": "伴",
-		"katakana": "ハン バン トモナ.",
+		"on":"ハン バン トモナ.",
 		"eng": "consort, accompany, bring with, companion",
 		"russian": "Сопровождать"
 	},
 	{
 		"kandji": "養",
-		"katakana": "ヨウ リョウ ヤシナ.",
+		"on":"ヨウ リョウ ヤシナ.",
 		"eng": "foster, bring up, rear, develop, nurture",
 		"russian": "Вскармливать"
 	},
 	{
 		"kandji": "懸",
-		"katakana": "ケン ケ",
-		"hiragana": "か.ける か.かる",
+		"on":"ケン ケ",
+		"kun":"か.ける か.かる",
 		"eng": "suspend, hang, 10%, install, depend, consult",
 		"russian": "Висеть"
 	},
 	{
 		"kandji": "街",
-		"katakana": "ガイ カイ マ",
+		"on":"ガイ カイ マ",
 		"eng": "boulevard, street, town",
 		"russian": "Улица"
 	},
 	{
 		"kandji": "契",
-		"katakana": "ケイ",
-		"hiragana": "ちぎ.る",
+		"on":"ケイ",
+		"kun":"ちぎ.る",
 		"eng": "pledge, promise, vow",
 		"russian": "Обещание"
 	},
 	{
 		"kandji": "掲",
-		"katakana": "ケイ",
-		"hiragana": "かか.げる",
+		"on":"ケイ",
+		"kun":"かか.げる",
 		"eng": "put up (a notice), put up, hoist, display, hang out, publish, describe",
 		"russian": "Поднимать"
 	},
 	{
 		"kandji": "躍",
-		"katakana": "ヤク オド.",
+		"on":"ヤク オド.",
 		"eng": "leap, dance, skip",
 		"russian": "Скакать"
 	},
 	{
 		"kandji": "棄",
-		"katakana": "キ",
-		"hiragana": "す.てる",
+		"on":"キ",
+		"kun":"す.てる",
 		"eng": "abandon, throw away, discard, resign, reject, sacrifice",
 		"russian": "Отбрасывать"
 	},
 	{
 		"kandji": "邸",
-		"katakana": "テイ ヤシ",
+		"on":"テイ ヤシ",
 		"eng": "residence, mansion",
 		"russian": "Особняк"
 	},
 	{
 		"kandji": "縮",
-		"katakana": "シュク",
-		"hiragana": "ちぢ.む ちぢ.まる ちぢ.める ちぢ.れる ちぢ.らす",
+		"on":"シュク",
+		"kun":"ちぢ.む ちぢ.まる ちぢ.める ちぢ.れる ちぢ.らす",
 		"eng": "shrink, contract, shrivel, wrinkle, reduce",
 		"russian": "Сжиматься"
 	},
 	{
 		"kandji": "還",
-		"katakana": "カン",
-		"hiragana": "かえ.る",
+		"on":"カン",
+		"kun":"かえ.る",
 		"eng": "send back, return",
 		"russian": "Возвращать"
 	},
 	{
 		"kandji": "属",
-		"katakana": "ゾク ショク ヤカ",
-		"hiragana": "さかん つく",
+		"on":"ゾク ショク ヤカ",
+		"kun":"さかん つく",
 		"eng": "belong, genus, subordinate official, affiliated",
 		"russian": "Принадлежать"
 	},
 	{
 		"kandji": "慮",
-		"katakana": "リョ オモンパカ.",
-		"hiragana": "おもんぱく.る",
+		"on":"リョ オモンパカ.",
+		"kun":"おもんぱく.る",
 		"eng": "prudence, thought, concern, consider, deliberate, fear",
 		"russian": "Размышлять"
 	},
 	{
 		"kandji": "枠",
-		"hiragana": "わく",
+		"kun":"わく",
 		"eng": "frame, framework, spindle, spool, bounding-box, (kokuji)",
 		"russian": "Рамка"
 	},
 	{
 		"kandji": "恵",
-		"katakana": "ケイ エ メグ.",
-		"hiragana": "めぐ.む",
+		"on":"ケイ エ メグ.",
+		"kun":"めぐ.む",
 		"eng": "favor, blessing, grace, kindness",
 		"russian": "Благодеяние"
 	},
 	{
 		"kandji": "露",
-		"katakana": "ロ ロウ ツ",
+		"on":"ロ ロウ ツ",
 		"eng": "dew, tears, expose, Russia",
 		"russian": "Роса"
 	},
 	{
 		"kandji": "沖",
-		"katakana": "チュウ",
-		"hiragana": "おき おきつ ちゅう.する わく",
+		"on":"チュウ",
+		"kun":"おき おきつ ちゅう.する わく",
 		"eng": "open sea, offing, rise high into sky",
 		"russian": "Открытое море"
 	},
 	{
 		"kandji": "緩",
-		"katakana": "カン ユル.メ",
-		"hiragana": "ゆる.い ゆる.やか ゆる.む",
+		"on":"カン ユル.メ",
+		"kun":"ゆる.い ゆる.やか ゆる.む",
 		"eng": "slacken, loosen, relax, lessen, be moderate, ease",
 		"russian": "Ослаблять"
 	},
 	{
 		"kandji": "節",
-		"katakana": "セツ セチ ノッ",
-		"hiragana": "ふし -ぶし",
+		"on":"セツ セチ ノッ",
+		"kun":"ふし -ぶし",
 		"eng": "node, season, period, occasion, verse, clause, stanza, honor, joint, knuckle, knob, knot, tune, melody",
 		"russian": "Сустав"
 	},
 	{
 		"kandji": "需",
-		"katakana": "ジュ",
+		"on":"ジュ",
 		"eng": "demand, request, need",
 		"russian": "Спрос"
 	},
 	{
 		"kandji": "射",
-		"katakana": "シャ",
-		"hiragana": "い.る さ.す",
+		"on":"シャ",
+		"kun":"い.る さ.す",
 		"eng": "shoot, shine into, onto, archery",
 		"russian": "Стрелять"
 	},
 	{
 		"kandji": "購",
-		"katakana": "コウ",
+		"on":"コウ",
 		"eng": "subscription, buy",
 		"russian": "Приобретать"
 	},
 	{
 		"kandji": "揮",
-		"katakana": "キ",
-		"hiragana": "ふる.う",
+		"on":"キ",
+		"kun":"ふる.う",
 		"eng": "brandish, wave, wag, swing, shake",
 		"russian": "Размахивать"
 	},
 	{
 		"kandji": "充",
-		"katakana": "ジュウ ミ.タ",
-		"hiragana": "あ.てる",
+		"on":"ジュウ ミ.タ",
+		"kun":"あ.てる",
 		"eng": "allot, fill",
 		"russian": "Наполнять"
 	},
 	{
 		"kandji": "貢",
-		"katakana": "コウ ク",
-		"hiragana": "みつ.ぐ",
+		"on":"コウ ク",
+		"kun":"みつ.ぐ",
 		"eng": "tribute, support, finance",
 		"russian": "Дань"
 	},
 	{
 		"kandji": "鹿",
-		"katakana": "ロク",
-		"hiragana": "しか",
+		"on":"ロク",
+		"kun":"しか",
 		"eng": "deer",
 		"russian": "Олень"
 	},
 	{
 		"kandji": "却",
-		"katakana": "キャク",
-		"hiragana": "かえ.って しりぞ.く しりぞ.ける",
+		"on":"キャク",
+		"kun":"かえ.って しりぞ.く しりぞ.ける",
 		"eng": "instead, on the contrary, rather",
 		"russian": "Убирать"
 	},
 	{
 		"kandji": "端",
-		"katakana": "タン ハ",
-		"hiragana": "はし は はた -ばた",
+		"on":"タン ハ",
+		"kun":"はし は はた -ばた",
 		"eng": "edge, origin, end, point, border, verge, cape",
 		"russian": "Оконечность"
 	},
 	{
 		"kandji": "賃",
-		"katakana": "チ",
+		"on":"チ",
 		"eng": "fare, fee, hire, rent, wages, charge",
 		"russian": "Плата"
 	},
 	{
 		"kandji": "獲",
-		"katakana": "カク",
-		"hiragana": "え.る",
+		"on":"カク",
+		"kun":"え.る",
 		"eng": "seize, get, find, earn, acquire, can, may, able to",
 		"russian": "Добыча"
 	},
 	{
 		"kandji": "郡",
-		"katakana": "グン",
-		"hiragana": "こうり",
+		"on":"グン",
+		"kun":"こうり",
 		"eng": "county, district",
 		"russian": "Уезд"
 	},
 	{
 		"kandji": "併",
-		"katakana": "ヘイ",
-		"hiragana": "あわ.せる",
+		"on":"ヘイ",
+		"kun":"あわ.せる",
 		"eng": "join, get together, unite, collective",
 		"russian": "Вместе"
 	},
 	{
 		"kandji": "徹",
-		"katakana": "テ",
+		"on":"テ",
 		"eng": "penetrate, clear, pierce, strike home, sit up (all night)",
 		"russian": "Насквозь"
 	},
 	{
 		"kandji": "貴",
-		"katakana": "キ トウト.",
-		"hiragana": "たっと.い とうと.い たっと.ぶ",
+		"on":"キ トウト.",
+		"kun":"たっと.い とうと.い たっと.ぶ",
 		"eng": "precious, value, prize, esteem, honor",
 		"russian": "Благородный"
 	},
 	{
 		"kandji": "衝",
-		"katakana": "ショウ",
-		"hiragana": "つ.く",
+		"on":"ショウ",
+		"kun":"つ.く",
 		"eng": "collide, brunt, highway, opposition (astronomy), thrust, pierce, stab, prick",
 		"russian": "Столкновение"
 	},
 	{
 		"kandji": "焦",
-		"katakana": "ショウ",
-		"hiragana": "こ.げる こ.がす こ.がれる あせ.る",
+		"on":"ショウ",
+		"kun":"こ.げる こ.がす こ.がれる あせ.る",
 		"eng": "char, hurry, impatient, irritate, burn, scorch, singe",
 		"russian": "Подгорать"
 	},
 	{
 		"kandji": "奪",
-		"katakana": "ダツ",
-		"hiragana": "うば.う",
+		"on":"ダツ",
+		"kun":"うば.う",
 		"eng": "rob, take by force, snatch away, dispossess, plunder, usurp",
 		"russian": "Отнимать"
 	},
 	{
 		"kandji": "災",
-		"katakana": "サイ",
-		"hiragana": "わざわ.い",
+		"on":"サイ",
+		"kun":"わざわ.い",
 		"eng": "disaster, calamity, woe, curse, evil",
 		"russian": "Бедствие"
 	},
 	{
 		"kandji": "浦",
-		"katakana": "ホ",
-		"hiragana": "うら",
+		"on":"ホ",
+		"kun":"うら",
 		"eng": "bay, creek, inlet, gulf, beach, seacoast",
 		"russian": "Бухта"
 	},
 	{
 		"kandji": "析",
-		"katakana": "セキ",
+		"on":"セキ",
 		"eng": "chop, divide, tear, analyze",
 		"russian": "Анализ"
 	},
 	{
 		"kandji": "譲",
-		"katakana": "ジョウ ユズ.",
+		"on":"ジョウ ユズ.",
 		"eng": "defer, turnover, transfer, convey",
 		"russian": "Уступать"
 	},
 	{
 		"kandji": "称",
-		"katakana": "ショウ ホメ.",
-		"hiragana": "たた.える とな.える あ.げる かな.う はか.り はか.る",
+		"on":"ショウ ホメ.",
+		"kun":"たた.える とな.える あ.げる かな.う はか.り はか.る",
 		"eng": "appellation, praise, admire, name, title, fame",
 		"russian": "Название"
 	},
 	{
 		"kandji": "納",
-		"katakana": "ノウ ナッ ナ ナン トウ オサ.マ",
-		"hiragana": "おさ.める -おさ.める",
+		"on":"ノウ ナッ ナ ナン トウ オサ.マ",
+		"kun":"おさ.める -おさ.める",
 		"eng": "settlement, obtain, reap, pay, supply, store",
 		"russian": "Уплата"
 	},
 	{
 		"kandji": "樹",
-		"katakana": "ジュ",
+		"on":"ジュ",
 		"eng": "timber trees, wood",
 		"russian": "Деревья"
 	},
 	{
 		"kandji": "挑",
-		"katakana": "チョウ",
-		"hiragana": "いど.む",
+		"on":"チョウ",
+		"kun":"いど.む",
 		"eng": "challenge, contend for, make love to",
 		"russian": "Провоцировать"
 	},
 	{
 		"kandji": "誘",
-		"katakana": "ユウ イウ",
-		"hiragana": "さそ.う いざな.う",
+		"on":"ユウ イウ",
+		"kun":"さそ.う いざな.う",
 		"eng": "entice, lead, tempt, invite, ask, call for, seduce, allure",
 		"russian": "Завлекать"
 	},
 	{
 		"kandji": "紛",
-		"katakana": "フン",
-		"hiragana": "まぎ.れる -まぎ.れ まぎ.らす まぎ.らわす まぎ.らわしい",
+		"on":"フン",
+		"kun":"まぎ.れる -まぎ.れ まぎ.らす まぎ.らわす まぎ.らわしい",
 		"eng": "distract, be mistaken for, go astray, divert",
 		"russian": "Беспорядочный"
 	},
 	{
 		"kandji": "至",
-		"katakana": "シ イタ.",
+		"on":"シ イタ.",
 		"eng": "climax, arrive, proceed, reach, attain, result in",
 		"russian": "Наиболее"
 	},
 	{
 		"kandji": "宗",
-		"katakana": "シュウ ソウ ム",
+		"on":"シュウ ソウ ム",
 		"eng": "religion, sect, denomination, main point, origin, essence",
 		"russian": "Религия"
 	},
 	{
 		"kandji": "促",
-		"katakana": "ソク",
-		"hiragana": "うなが.す",
+		"on":"ソク",
+		"kun":"うなが.す",
 		"eng": "stimulate, urge, press, demand, incite",
 		"russian": "Форсировать"
 	},
 	{
 		"kandji": "慎",
-		"katakana": "シン ツツシ.",
-		"hiragana": "つつし.む つつし",
+		"on":"シン ツツシ.",
+		"kun":"つつし.む つつし",
 		"eng": "humility, be careful, discrete, prudent",
 		"russian": "Осмотрительный"
 	},
 	{
 		"kandji": "控",
-		"katakana": "コウ",
-		"hiragana": "ひか.える ひか.え",
+		"on":"コウ",
+		"kun":"ひか.える ひか.え",
 		"eng": "withdraw, draw in, hold back, refrain from, be moderate",
 		"russian": "Записи"
 	},
@@ -1479,207 +1479,207 @@
 	},
 	{
 		"kandji": "握",
-		"katakana": "アク",
-		"hiragana": "にぎ.る",
+		"on":"アク",
+		"kun":"にぎ.る",
 		"eng": "grip, hold, mould sushi, bribe",
 		"russian": "Держать"
 	},
 	{
 		"kandji": "宙",
-		"katakana": "チュ",
+		"on":"チュ",
 		"eng": "mid-air, air, space, sky, memorization, interval of time",
 		"russian": "Космос"
 	},
 	{
 		"kandji": "俊",
-		"katakana": "シュ",
+		"on":"シュ",
 		"eng": "sagacious, genius, excellence",
 		"russian": "Выдающаяся личность"
 	},
 	{
 		"kandji": "銭",
-		"katakana": "セン ゼン",
-		"hiragana": "ぜに すき",
+		"on":"セン ゼン",
+		"kun":"ぜに すき",
 		"eng": "coin, .01 yen, money",
 		"russian": "Деньги"
 	},
 	{
 		"kandji": "渋",
-		"katakana": "ジュウ シュウ",
-		"hiragana": "しぶ しぶ.い しぶ.る",
+		"on":"ジュウ シュウ",
+		"kun":"しぶ しぶ.い しぶ.る",
 		"eng": "astringent, hesitate, reluctant, have diarrhea",
 		"russian": "Терпкий"
 	},
 	{
 		"kandji": "銃",
-		"katakana": "ジュウ",
+		"on":"ジュウ",
 		"eng": "gun, arms",
 		"russian": "Ружьё"
 	},
 	{
 		"kandji": "操",
-		"katakana": "ソウ サン アヤツ.",
-		"hiragana": "みさお",
+		"on":"ソウ サン アヤツ.",
+		"kun":"みさお",
 		"eng": "maneuver, manipulate, operate, steer, chastity, virginity, fidelity",
 		"russian": "Манипулировать"
 	},
 	{
 		"kandji": "携",
-		"katakana": "ケイ",
-		"hiragana": "たずさ.える たずさ.わる",
+		"on":"ケイ",
+		"kun":"たずさ.える たずさ.わる",
 		"eng": "portable, carry (in hand), armed with, bring along",
 		"russian": "Иметь при себе"
 	},
 	{
 		"kandji": "診",
-		"katakana": "シン",
-		"hiragana": "み.る",
+		"on":"シン",
+		"kun":"み.る",
 		"eng": "checkup, seeing, diagnose, examine",
 		"russian": "Врачебный осмотр"
 	},
 	{
 		"kandji": "託",
-		"katakana": "タク",
-		"hiragana": "かこつ.ける かこ.つ かこ.つける",
+		"on":"タク",
+		"kun":"かこつ.ける かこ.つ かこ.つける",
 		"eng": "consign, requesting, entrusting with, pretend, hint",
 		"russian": "Доверять"
 	},
 	{
 		"kandji": "撮",
-		"katakana": "サツ",
-		"hiragana": "と.る つま.む -ど.り",
+		"on":"サツ",
+		"kun":"と.る つま.む -ど.り",
 		"eng": "snapshot, take pictures",
 		"russian": "Фотографировать"
 	},
 	{
 		"kandji": "誕",
-		"katakana": "タン",
+		"on":"タン",
 		"eng": "nativity, be born, declension, lie, be arbitrary",
 		"russian": "Рождаться"
 	},
 	{
 		"kandji": "侵",
-		"katakana": "シン",
-		"hiragana": "おか.す",
+		"on":"シン",
+		"kun":"おか.す",
 		"eng": "encroach, invade, raid, trespass, violate",
 		"russian": "Вторгаться"
 	},
 	{
 		"kandji": "括",
-		"katakana": "カツ",
-		"hiragana": "くく.る",
+		"on":"カツ",
+		"kun":"くく.る",
 		"eng": "fasten, tie up, arrest, constrict",
 		"russian": "Охватывать"
 	},
 	{
 		"kandji": "謝",
-		"katakana": "シャ アヤマ.",
+		"on":"シャ アヤマ.",
 		"eng": "apologize, thank, refuse",
 		"russian": "Благодарить"
 	},
 	{
 		"kandji": "駆",
-		"katakana": "ク",
-		"hiragana": "か.ける か.る",
+		"on":"ク",
+		"kun":"か.ける か.る",
 		"eng": "drive, run, gallop, advance, inspire, impel",
 		"russian": "Гнать"
 	},
 	{
 		"kandji": "透",
-		"katakana": "トウ トウ.",
-		"hiragana": "す.く す.かす す.ける とう.る",
+		"on":"トウ トウ.",
+		"kun":"す.く す.かす す.ける とう.る",
 		"eng": "transparent, permeate, filter, penetrate",
 		"russian": "Прозрачный"
 	},
 	{
 		"kandji": "津",
-		"katakana": "シン",
+		"on":"シン",
 		"eng": "haven, port, harbor, ferry",
 		"russian": "Гавань"
 	},
 	{
 		"kandji": "壁",
-		"katakana": "ヘキ",
-		"hiragana": "かべ",
+		"on":"ヘキ",
+		"kun":"かべ",
 		"eng": "wall, lining (stomach), fence",
 		"russian": "Стена"
 	},
 	{
 		"kandji": "稲",
-		"katakana": "トウ テ",
-		"hiragana": "いね いな",
+		"on":"トウ テ",
+		"kun":"いね いな",
 		"eng": "rice plant",
 		"russian": "Рис на корню"
 	},
 	{
 		"kandji": "仮",
-		"katakana": "カ ケ",
-		"hiragana": "かり かり-",
+		"on":"カ ケ",
+		"kun":"かり かり-",
 		"eng": "sham, temporary, interim, assumed (name), informal",
 		"russian": "Временный"
 	},
 	{
 		"kandji": "裂",
-		"katakana": "レツ",
-		"hiragana": "さ.く さ.ける -ぎ.れ",
+		"on":"レツ",
+		"kun":"さ.く さ.ける -ぎ.れ",
 		"eng": "split, rend, tear",
 		"russian": "Рваться"
 	},
 	{
 		"kandji": "敏",
-		"katakana": "ビン サト",
+		"on":"ビン サト",
 		"eng": "cleverness, agile, alert",
 		"russian": "Проворный"
 	},
 	{
 		"kandji": "是",
-		"katakana": "ゼ シ",
-		"hiragana": "これ",
+		"on":"ゼ シ",
+		"kun":"これ",
 		"eng": "just so, this, right, justice",
 		"russian": "Правильность"
 	},
 	{
 		"kandji": "排",
-		"katakana": "ハ",
+		"on":"ハ",
 		"eng": "repudiate, exclude, expel, reject",
 		"russian": "Устранять"
 	},
 	{
 		"kandji": "裕",
-		"katakana": "ユ",
+		"on":"ユ",
 		"eng": "abundant, rich, fertile",
 		"russian": "Достаток"
 	},
 	{
 		"kandji": "堅",
-		"katakana": "ケン -ガタ.",
-		"hiragana": "かた.い",
+		"on":"ケン -ガタ.",
+		"kun":"かた.い",
 		"eng": "strict, hard, solid, tough, tight, reliable",
 		"russian": "Твёрдый"
 	},
 	{
 		"kandji": "訳",
-		"katakana": "ヤク",
-		"hiragana": "わけ",
+		"on":"ヤク",
+		"kun":"わけ",
 		"eng": "translate, reason, circumstance, case",
 		"russian": "Перевод"
 	},
 	{
 		"kandji": "芝",
-		"katakana": "シ シ",
+		"on":"シ シ",
 		"eng": "turf, lawn",
 		"russian": "Газон"
 	},
 	{
 		"kandji": "綱",
-		"katakana": "コウ",
-		"hiragana": "つな",
+		"on":"コウ",
+		"kun":"つな",
 		"eng": "hawser, class (genus), rope, cord, cable",
 		"russian": "Канат"
 	},
 	{
 		"kandji": "典",
-		"katakana": "テン デ",
+		"on":"テン デ",
 		"eng": "code, ceremony, law, rule",
 		"russian": "Справочник"
 	},
@@ -1690,190 +1690,190 @@
 	},
 	{
 		"kandji": "扱",
-		"katakana": "ショウ",
-		"hiragana": "あつか.る あつか.い あつか.う",
+		"on":"ショウ",
+		"kun":"あつか.る あつか.い あつか.う",
 		"eng": "handle, entertain, thresh, strip",
 		"russian": "Обращаться"
 	},
 	{
 		"kandji": "顧",
-		"katakana": "コ カエリ.ミ",
+		"on":"コ カエリ.ミ",
 		"eng": "look back, review, examine oneself, turn around",
 		"russian": "Оглядываться"
 	},
 	{
 		"kandji": "弘",
-		"katakana": "コウ グ ヒロ.",
+		"on":"コウ グ ヒロ.",
 		"eng": "vast, broad, wide",
 		"russian": "Распространять"
 	},
 	{
 		"kandji": "看",
-		"katakana": "カン",
-		"hiragana": "み.る",
+		"on":"カン",
+		"kun":"み.る",
 		"eng": "watch over, see",
 		"russian": "Присматривать"
 	},
 	{
 		"kandji": "訟",
-		"katakana": "ショウ",
+		"on":"ショウ",
 		"eng": "sue, accuse",
 		"russian": "Тяжба"
 	},
 	{
 		"kandji": "戒",
-		"katakana": "カイ",
-		"hiragana": "いまし.める",
+		"on":"カイ",
+		"kun":"いまし.める",
 		"eng": "commandment",
 		"russian": "Предостерегать"
 	},
 	{
 		"kandji": "祉",
-		"katakana": "シ",
+		"on":"シ",
 		"eng": "welfare, happiness",
 		"russian": "Соцобеспечение"
 	},
 	{
 		"kandji": "誉",
-		"katakana": "ヨ ホ.メ",
-		"hiragana": "ほま.れ",
+		"on":"ヨ ホ.メ",
+		"kun":"ほま.れ",
 		"eng": "reputation, praise, honor, glory",
 		"russian": "Честь"
 	},
 	{
 		"kandji": "歓",
-		"katakana": "カン ヨロコ.",
+		"on":"カン ヨロコ.",
 		"eng": "delight, joy",
 		"russian": "Радость"
 	},
 	{
 		"kandji": "奏",
-		"katakana": "ソウ カナ.デ",
+		"on":"ソウ カナ.デ",
 		"eng": "play music, speak to a ruler, complete",
 		"russian": "Музицировать"
 	},
 	{
 		"kandji": "勧",
-		"katakana": "カン ケン",
-		"hiragana": "すす.める",
+		"on":"カン ケン",
+		"kun":"すす.める",
 		"eng": "persuade, recommend, advise, encourage, offer",
 		"russian": "Советовать"
 	},
 	{
 		"kandji": "騒",
-		"katakana": "ソウ",
-		"hiragana": "さわ.ぐ うれい さわ.がしい",
+		"on":"ソウ",
+		"kun":"さわ.ぐ うれい さわ.がしい",
 		"eng": "boisterous, make noise, clamor, disturb, excite",
 		"russian": "Шуметь"
 	},
 	{
 		"kandji": "閥",
-		"katakana": "バツ",
+		"on":"バツ",
 		"eng": "clique, lineage, pedigree, faction, clan",
 		"russian": "Клика"
 	},
 	{
 		"kandji": "甲",
-		"katakana": "コウ カン カ キノ",
+		"on":"コウ カン カ キノ",
 		"eng": "armor, high (voice), A grade, first class, former, instep, carapace",
 		"russian": "Панцирь"
 	},
 	{
 		"kandji": "縄",
-		"katakana": "ジョウ",
-		"hiragana": "なわ ただ.す",
+		"on":"ジョウ",
+		"kun":"なわ ただ.す",
 		"eng": "straw rope, cord",
 		"russian": "Верёвка"
 	},
 	{
 		"kandji": "郷",
-		"katakana": "キョウ ゴウ サ",
+		"on":"キョウ ゴウ サ",
 		"eng": "home town, village, native place, district",
 		"russian": "Родина"
 	},
 	{
 		"kandji": "揺",
-		"katakana": "ヨウ",
-		"hiragana": "ゆ.れる ゆ.る ゆ.らぐ ゆ.るぐ ゆ.する ゆ.さぶる ゆ.すぶる うご.く",
+		"on":"ヨウ",
+		"kun":"ゆ.れる ゆ.る ゆ.らぐ ゆ.るぐ ゆ.する ゆ.さぶる ゆ.すぶる うご.く",
 		"eng": "swing, shake, sway, rock, tremble, vibrate",
 		"russian": "Трястись"
 	},
 	{
 		"kandji": "免",
-		"katakana": "メン マヌガ.レ",
-		"hiragana": "まぬか.れる",
+		"on":"メン マヌガ.レ",
+		"kun":"まぬか.れる",
 		"eng": "excuse, dismissal",
 		"russian": "Освобождать"
 	},
 	{
 		"kandji": "既",
-		"katakana": "キ",
-		"hiragana": "すで.に",
+		"on":"キ",
+		"kun":"すで.に",
 		"eng": "previously, already, long ago",
 		"russian": "Уже"
 	},
 	{
 		"kandji": "薦",
-		"katakana": "セン スス.メ",
+		"on":"セン スス.メ",
 		"eng": "recommend, mat, advise, encourage, offer",
 		"russian": "Рекомендовать"
 	},
 	{
 		"kandji": "隣",
-		"katakana": "リン トナ",
-		"hiragana": "とな.る",
+		"on":"リン トナ",
+		"kun":"とな.る",
 		"eng": "neighboring",
 		"russian": "Соседний"
 	},
 	{
 		"kandji": "華",
-		"katakana": "カ ケ ハ",
+		"on":"カ ケ ハ",
 		"eng": "splendor, flower, petal, shine, luster, ostentatious, showy, gay, gorgeous",
 		"russian": "Пышный"
 	},
 	{
 		"kandji": "範",
-		"katakana": "ハ",
+		"on":"ハ",
 		"eng": "pattern, example, model",
 		"russian": "Образец"
 	},
 	{
 		"kandji": "隠",
-		"katakana": "イン オン ヨ.",
-		"hiragana": "かく.す かく.し かく.れる かか.す",
+		"on":"イン オン ヨ.",
+		"kun":"かく.す かく.し かく.れる かか.す",
 		"eng": "conceal, hide, cover",
 		"russian": "Прятать"
 	},
 	{
 		"kandji": "徳",
-		"katakana": "ト",
+		"on":"ト",
 		"eng": "benevolence, virtue, goodness, commanding respect",
 		"russian": "Нравственность"
 	},
 	{
 		"kandji": "哲",
-		"katakana": "テ",
+		"on":"テ",
 		"eng": "philosophy, clear",
 		"russian": "Философ"
 	},
 	{
 		"kandji": "杉",
-		"katakana": "サン",
-		"hiragana": "すぎ",
+		"on":"サン",
+		"kun":"すぎ",
 		"eng": "cedar, cryptomeria",
 		"russian": "Криптомерия"
 	},
 	{
 		"kandji": "釈",
-		"katakana": "シャク セキ ユル.",
-		"hiragana": "とく す.てる",
+		"on":"シャク セキ ユル.",
+		"kun":"とく す.てる",
 		"eng": "explanation",
 		"russian": "Пояснения"
 	},
 	{
 		"kandji": "己",
-		"katakana": "コ キ ツチノ",
-		"hiragana": "おのれ",
+		"on":"コ キ ツチノ",
+		"kun":"おのれ",
 		"eng": "self, snake, serpent",
 		"russian": "Сам"
 	},
@@ -1884,378 +1884,378 @@
 	},
 	{
 		"kandji": "威",
-		"katakana": "イ オド.カ",
-		"hiragana": "おど.す おど.し",
+		"on":"イ オド.カ",
+		"kun":"おど.す おど.し",
 		"eng": "intimidate, dignity, majesty, menace, threaten",
 		"russian": "Авторитет"
 	},
 	{
 		"kandji": "豪",
-		"katakana": "ゴウ エラ.",
+		"on":"ゴウ エラ.",
 		"eng": "overpowering, great, powerful, excelling, Australia",
 		"russian": "Превосходящий"
 	},
 	{
 		"kandji": "熊",
-		"katakana": "ユウ",
-		"hiragana": "くま",
+		"on":"ユウ",
+		"kun":"くま",
 		"eng": "bear",
 		"russian": "Медведь"
 	},
 	{
 		"kandji": "滞",
-		"katakana": "タイ テイ",
-		"hiragana": "とどこお.る",
+		"on":"タイ テイ",
+		"kun":"とどこお.る",
 		"eng": "stagnate, be delayed, overdue, arrears",
 		"russian": "Застой"
 	},
 	{
 		"kandji": "微",
-		"katakana": "ビ カス.",
+		"on":"ビ カス.",
 		"eng": "delicate, minuteness, insignificance",
 		"russian": "Мельчайший"
 	},
 	{
 		"kandji": "隆",
-		"katakana": "リュ",
+		"on":"リュ",
 		"eng": "hump, high, noble, prosperity",
 		"russian": "Процветать"
 	},
 	{
 		"kandji": "症",
-		"katakana": "ショウ",
+		"on":"ショウ",
 		"eng": "symptoms, illness",
 		"russian": "Синдром"
 	},
 	{
 		"kandji": "暫",
-		"katakana": "ザン",
-		"hiragana": "しばら.く",
+		"on":"ザン",
+		"kun":"しばら.く",
 		"eng": "temporarily, a while, moment, long time",
 		"russian": "Некоторое время"
 	},
 	{
 		"kandji": "忠",
-		"katakana": "チュ",
+		"on":"チュ",
 		"eng": "loyalty, fidelity, faithfulness",
 		"russian": "Преданность"
 	},
 	{
 		"kandji": "倉",
-		"katakana": "ソウ",
-		"hiragana": "くら",
+		"on":"ソウ",
+		"kun":"くら",
 		"eng": "godown, warehouse, storehouse, cellar, treasury",
 		"russian": "Амбар"
 	},
 	{
 		"kandji": "彦",
-		"katakana": "ゲン ヒ",
+		"on":"ゲン ヒ",
 		"eng": "lad, boy (ancient)",
 		"russian": "Именной суффикс"
 	},
 	{
 		"kandji": "肝",
-		"katakana": "カン",
-		"hiragana": "きも",
+		"on":"カン",
+		"kun":"きも",
 		"eng": "liver, pluck, nerve, chutzpah",
 		"russian": "Печень"
 	},
 	{
 		"kandji": "喚",
-		"katakana": "カン",
-		"hiragana": "わめ.く",
+		"on":"カン",
+		"kun":"わめ.く",
 		"eng": "yell, cry, scream",
 		"russian": "Вопить"
 	},
 	{
 		"kandji": "沿",
-		"katakana": "エン",
-		"hiragana": "そ.う -ぞ.い",
+		"on":"エン",
+		"kun":"そ.う -ぞ.い",
 		"eng": "run alongside, follow along, run along, lie along",
 		"russian": "Вдоль"
 	},
 	{
 		"kandji": "妙",
-		"katakana": "ミョウ ビョウ",
-		"hiragana": "たえ",
+		"on":"ミョウ ビョウ",
+		"kun":"たえ",
 		"eng": "exquisite, strange, queer, mystery, miracle, excellent, delicate, charming",
 		"russian": "Чудесный"
 	},
 	{
 		"kandji": "唱",
-		"katakana": "ショウ",
-		"hiragana": "とな.える",
+		"on":"ショウ",
+		"kun":"とな.える",
 		"eng": "chant, recite, call upon, yell",
 		"russian": "Распевать"
 	},
 	{
 		"kandji": "阿",
-		"katakana": "ア オ オモネ.",
+		"on":"ア オ オモネ.",
 		"eng": "Africa, flatter, fawn upon, corner, nook, recess",
 		"russian": "Угодничать"
 	},
 	{
 		"kandji": "索",
-		"katakana": "サク",
+		"on":"サク",
 		"eng": "cord, rope",
 		"russian": "Трос"
 	},
 	{
 		"kandji": "誠",
-		"katakana": "セイ マコ",
+		"on":"セイ マコ",
 		"eng": "sincerity, admonish, warn, prohibit, truth, fidelity",
 		"russian": "Искренность"
 	},
 	{
 		"kandji": "襲",
-		"katakana": "シュウ カサ.",
-		"hiragana": "おそ.う",
+		"on":"シュウ カサ.",
+		"kun":"おそ.う",
 		"eng": "attack, advance on, succeed to, pile, heap",
 		"russian": "Нападать"
 	},
 	{
 		"kandji": "懇",
-		"katakana": "コン",
-		"hiragana": "ねんご.ろ",
+		"on":"コン",
+		"kun":"ねんご.ろ",
 		"eng": "sociable, kind, courteous, hospitable, cordial",
 		"russian": "Любезный"
 	},
 	{
 		"kandji": "俳",
-		"katakana": "ハイ",
+		"on":"ハイ",
 		"eng": "haiku, actor",
 		"russian": "Хайку"
 	},
 	{
 		"kandji": "柄",
-		"katakana": "ヘイ ツ",
-		"hiragana": "がら え",
+		"on":"ヘイ ツ",
+		"kun":"がら え",
 		"eng": "design, pattern, build, nature, handle, crank, grip, knob, shaft",
 		"russian": "Рукоятка"
 	},
 	{
 		"kandji": "驚",
-		"katakana": "キョウ",
-		"hiragana": "おどろ.く おどろ.かす",
+		"on":"キョウ",
+		"kun":"おどろ.く おどろ.かす",
 		"eng": "wonder, be surprised, frightened, amazed",
 		"russian": "Изумляться"
 	},
 	{
 		"kandji": "麻",
-		"katakana": "マ マア ア",
+		"on":"マ マア ア",
 		"eng": "hemp, flax",
 		"russian": "Конопля"
 	},
 	{
 		"kandji": "李",
-		"katakana": "リ スモ",
+		"on":"リ スモ",
 		"eng": "plum",
 		"russian": "Китайская слива"
 	},
 	{
 		"kandji": "浩",
-		"katakana": "コウ ヒロ.",
-		"hiragana": "おおき.い",
+		"on":"コウ ヒロ.",
+		"kun":"おおき.い",
 		"eng": "wide expanse, abundance, vigorous",
 		"russian": "Большой"
 	},
 	{
 		"kandji": "剤",
-		"katakana": "ザイ スイ セイ",
-		"hiragana": "かる けず.る",
+		"on":"ザイ スイ セイ",
+		"kun":"かる けず.る",
 		"eng": "dose, medicine, drug",
 		"russian": "Снадобье"
 	},
 	{
 		"kandji": "瀬",
-		"katakana": "ライ",
+		"on":"ライ",
 		"eng": "rapids, current, torrent, shallows, shoal",
 		"russian": "Стремнина"
 	},
 	{
 		"kandji": "趣",
-		"katakana": "シュ",
-		"hiragana": "おもむき おもむ.く",
+		"on":"シュ",
+		"kun":"おもむき おもむ.く",
 		"eng": "gist, proceed to, tend, become",
 		"russian": "Прелесть"
 	},
 	{
 		"kandji": "陥",
-		"katakana": "カン",
-		"hiragana": "おちい.る おとしい.れる",
+		"on":"カン",
+		"kun":"おちい.る おとしい.れる",
 		"eng": "collapse, fall into, cave in, fall (castle), slide into",
 		"russian": "Впадать"
 	},
 	{
 		"kandji": "斎",
-		"katakana": "サイ イ.",
-		"hiragana": "とき つつし.む ものいみ",
+		"on":"サイ イ.",
+		"kun":"とき つつし.む ものいみ",
 		"eng": "purification, Buddhist food, room, worship, avoid, alike",
 		"russian": "Очищение"
 	},
 	{
 		"kandji": "貫",
-		"katakana": "カン ヌ",
-		"hiragana": "つらぬ.く ぬ.く",
+		"on":"カン ヌ",
+		"kun":"つらぬ.く ぬ.く",
 		"eng": "pierce, 8 1, 3lbs, penetrate, brace",
 		"russian": "Пронзать"
 	},
 	{
 		"kandji": "仙",
-		"katakana": "セン セン",
+		"on":"セン セン",
 		"eng": "hermit, wizard, cent",
 		"russian": "Маг"
 	},
 	{
 		"kandji": "慰",
-		"katakana": "イ",
-		"hiragana": "なぐさ.める なぐさ.む",
+		"on":"イ",
+		"kun":"なぐさ.める なぐさ.む",
 		"eng": "consolation, amusement, seduce, cheer, make sport of, comfort, console",
 		"russian": "Утешать"
 	},
 	{
 		"kandji": "序",
-		"katakana": "ジョ ツイ",
-		"hiragana": "つい.で",
+		"on":"ジョ ツイ",
+		"kun":"つい.で",
 		"eng": "preface, beginning, order, precedence, occasion, chance, incidentally",
 		"russian": "Введение"
 	},
 	{
 		"kandji": "旬",
-		"katakana": "ジュン シュン",
+		"on":"ジュン シュン",
 		"eng": "decameron, 10day period, season (for specific products",
 		"russian": "Декада"
 	},
 	{
 		"kandji": "兼",
-		"katakana": "ケン -カ.ネ",
-		"hiragana": "か.ねる",
+		"on":"ケン -カ.ネ",
+		"kun":"か.ねる",
 		"eng": "concurrently, and",
 		"russian": "Одновременно"
 	},
 	{
 		"kandji": "聖",
-		"katakana": "セイ ショウ ヒジ",
+		"on":"セイ ショウ ヒジ",
 		"eng": "holy, saint, sage, master, priest",
 		"russian": "Святой"
 	},
 	{
 		"kandji": "旨",
-		"katakana": "シ",
-		"hiragana": "むね うま.い",
+		"on":"シ",
+		"kun":"むね うま.い",
 		"eng": "delicious, relish, show a liking for, purport, will, clever, expert",
 		"russian": "Суть"
 	},
 	{
 		"kandji": "即",
-		"katakana": "ソク",
-		"hiragana": "つ.く つ.ける すなわ.ち",
+		"on":"ソク",
+		"kun":"つ.く つ.ける すなわ.ち",
 		"eng": "instant, namely, as is, conform, agree, adapt",
 		"russian": "Немедленно"
 	},
 	{
 		"kandji": "柳",
-		"katakana": "リュウ ヤナ",
+		"on":"リュウ ヤナ",
 		"eng": "willow",
 		"russian": "Плакучая ива"
 	},
 	{
 		"kandji": "舎",
-		"katakana": "シャ セキ ヤド.",
+		"on":"シャ セキ ヤド.",
 		"eng": "cottage, inn, hut, house, mansion",
 		"russian": "Здание"
 	},
 	{
 		"kandji": "偽",
-		"katakana": "ギ カ",
-		"hiragana": "いつわ.る にせ いつわ.り",
+		"on":"ギ カ",
+		"kun":"いつわ.る にせ いつわ.り",
 		"eng": "falsehood, lie, deceive, pretend, counterfeit, forgery",
 		"russian": "Ложный"
 	},
 	{
 		"kandji": "較",
-		"katakana": "カク コウ",
-		"hiragana": "くら.べる",
+		"on":"カク コウ",
+		"kun":"くら.べる",
 		"eng": "contrast, compare",
 		"russian": "Сравнивать"
 	},
 	{
 		"kandji": "覇",
-		"katakana": "ハ ハク",
-		"hiragana": "はたがしら",
+		"on":"ハ ハク",
+		"kun":"はたがしら",
 		"eng": "hegemony, supremacy, leadership, champion",
 		"russian": "Господство"
 	},
 	{
 		"kandji": "詳",
-		"katakana": "ショウ ツマビ.ラ",
-		"hiragana": "くわ.しい",
+		"on":"ショウ ツマビ.ラ",
+		"kun":"くわ.しい",
 		"eng": "detailed, full, minute, accurate, well-informed",
 		"russian": "Подробный"
 	},
 	{
 		"kandji": "抵",
-		"katakana": "テイ",
+		"on":"テイ",
 		"eng": "resist, reach, touch",
 		"russian": "Сопротивляться"
 	},
 	{
 		"kandji": "脅",
-		"katakana": "キョウ",
-		"hiragana": "おびや.かす おど.す おど.かす",
+		"on":"キョウ",
+		"kun":"おびや.かす おど.す おど.かす",
 		"eng": "threaten, coerce",
 		"russian": "Угрожать"
 	},
 	{
 		"kandji": "茂",
-		"katakana": "モ シゲ.",
+		"on":"モ シゲ.",
 		"eng": "overgrown, grow thick, be luxuriant",
 		"russian": "Густо расти"
 	},
 	{
 		"kandji": "犠",
-		"katakana": "ギ キ",
-		"hiragana": "いけにえ",
+		"on":"ギ キ",
+		"kun":"いけにえ",
 		"eng": "sacrifice",
 		"russian": "Жертва"
 	},
 	{
 		"kandji": "旗",
-		"katakana": "キ",
-		"hiragana": "はた",
+		"on":"キ",
+		"kun":"はた",
 		"eng": "national flag, banner, standard",
 		"russian": "Флаг"
 	},
 	{
 		"kandji": "距",
-		"katakana": "キョ",
-		"hiragana": "へだ.たる",
+		"on":"キョ",
+		"kun":"へだ.たる",
 		"eng": "long-distance",
 		"russian": "Расстояние"
 	},
 	{
 		"kandji": "雅",
-		"katakana": "ガ ミヤ.",
+		"on":"ガ ミヤ.",
 		"eng": "gracious, elegant, graceful, refined",
 		"russian": "Изящный"
 	},
 	{
 		"kandji": "飾",
-		"katakana": "ショク カザ.",
-		"hiragana": "かざ.る",
+		"on":"ショク カザ.",
+		"kun":"かざ.る",
 		"eng": "decorate, ornament, adorn, embellish",
 		"russian": "Украшать"
 	},
 	{
 		"kandji": "網",
-		"katakana": "モウ ア",
+		"on":"モウ ア",
 		"eng": "netting, network",
 		"russian": "Сеть"
 	},
 	{
 		"kandji": "竜",
-		"katakana": "リュウ リョウ ロウ イ",
-		"hiragana": "たつ",
+		"on":"リュウ リョウ ロウ イ",
+		"kun":"たつ",
 		"eng": "dragon, imperial",
 		"russian": "Дракон"
 	},
@@ -2266,168 +2266,168 @@
 	},
 	{
 		"kandji": "繁",
-		"katakana": "ハン",
-		"hiragana": "しげ.る しげ.く",
+		"on":"ハン",
+		"kun":"しげ.る しげ.く",
 		"eng": "luxuriant, thick, overgrown, frequency, complexity, trouble",
 		"russian": "Разрастаться"
 	},
 	{
 		"kandji": "翼",
-		"katakana": "ヨク",
-		"hiragana": "つばさ",
+		"on":"ヨク",
+		"kun":"つばさ",
 		"eng": "wing, plane, flank",
 		"russian": "Крыло"
 	},
 	{
 		"kandji": "潟",
-		"katakana": "セキ -ガ",
-		"hiragana": "かた",
+		"on":"セキ -ガ",
+		"kun":"かた",
 		"eng": "lagoon",
 		"russian": "Лагуна"
 	},
 	{
 		"kandji": "敵",
-		"katakana": "テキ",
-		"hiragana": "かたき かな.う",
+		"on":"テキ",
+		"kun":"かたき かな.う",
 		"eng": "enemy, foe, opponent",
 		"russian": "Враг"
 	},
 	{
 		"kandji": "魅",
-		"katakana": "ミ",
+		"on":"ミ",
 		"eng": "fascination, charm, bewitch",
 		"russian": "Очаровывать"
 	},
 	{
 		"kandji": "嫌",
-		"katakana": "ケン ゲン",
-		"hiragana": "きら.う きら.い いや",
+		"on":"ケン ゲン",
+		"kun":"きら.う きら.い いや",
 		"eng": "dislike, detest, hate",
 		"russian": "Нелюбовь"
 	},
 	{
 		"kandji": "斉",
-		"katakana": "セイ サイ ハヤ",
-		"hiragana": "そろ.う ひと.しい ひと.しく あたる",
+		"on":"セイ サイ ハヤ",
+		"kun":"そろ.う ひと.しい ひと.しく あたる",
 		"eng": "adjusted, alike, equal, similar variety of",
 		"russian": "Единообразие"
 	},
 	{
 		"kandji": "敷",
-		"katakana": "フ -シ.",
-		"hiragana": "し.く",
+		"on":"フ -シ.",
+		"kun":"し.く",
 		"eng": "spread, pave, sit, promulgate",
 		"russian": "Стелить"
 	},
 	{
 		"kandji": "擁",
-		"katakana": "ヨウ",
+		"on":"ヨウ",
 		"eng": "hug, embrace, possess, protect, lead",
 		"russian": "Поддерживать"
 	},
 	{
 		"kandji": "圏",
-		"katakana": "ケン",
-		"hiragana": "かこ.い",
+		"on":"ケン",
+		"kun":"かこ.い",
 		"eng": "sphere, circle, radius, range",
 		"russian": "Сфера"
 	},
 	{
 		"kandji": "酸",
-		"katakana": "サン",
-		"hiragana": "す.い",
+		"on":"サン",
+		"kun":"す.い",
 		"eng": "acid, bitterness, sour, tart",
 		"russian": "Кислота"
 	},
 	{
 		"kandji": "罰",
-		"katakana": "バツ バチ ハツ",
-		"hiragana": "ばっ.する",
+		"on":"バツ バチ ハツ",
+		"kun":"ばっ.する",
 		"eng": "penalty, punishment",
 		"russian": "Наказывать"
 	},
 	{
 		"kandji": "滅",
-		"katakana": "メツ",
-		"hiragana": "ほろ.びる ほろ.ぶ ほろ.ぼす",
+		"on":"メツ",
+		"kun":"ほろ.びる ほろ.ぶ ほろ.ぼす",
 		"eng": "destroy, ruin, overthrow, perish",
 		"russian": "Гибнуть"
 	},
 	{
 		"kandji": "礎",
-		"katakana": "ソ イシズ",
+		"on":"ソ イシズ",
 		"eng": "cornerstone, foundation stone",
 		"russian": "Краеугольный камень"
 	},
 	{
 		"kandji": "腐",
-		"katakana": "フ",
-		"hiragana": "くさ.る -くさ.る くさ.れる くさ.れ くさ.らす くさ.す",
+		"on":"フ",
+		"kun":"くさ.る -くさ.る くさ.れる くさ.れ くさ.らす くさ.す",
 		"eng": "rot, decay, sour",
 		"russian": "Гнить"
 	},
 	{
 		"kandji": "脚",
-		"katakana": "キャク キャ カク ア",
+		"on":"キャク キャ カク ア",
 		"eng": "skids, leg, undercarriage",
 		"russian": "Ножка"
 	},
 	{
 		"kandji": "潮",
-		"katakana": "チョウ ウシ",
-		"hiragana": "しお",
+		"on":"チョウ ウシ",
+		"kun":"しお",
 		"eng": "tide, salt water, opportunity",
 		"russian": "Прилив"
 	},
 	{
 		"kandji": "梅",
-		"katakana": "バイ",
-		"hiragana": "うめ",
+		"on":"バイ",
+		"kun":"うめ",
 		"eng": "plum",
 		"russian": "Слива"
 	},
 	{
 		"kandji": "尽",
-		"katakana": "ジン サン",
-		"hiragana": "つ.くす -つ.くす -づ.くし -つ.く -づ.く -ず.く つ.きる つ.かす さかづき ことごと.く つか つき",
+		"on":"ジン サン",
+		"kun":"つ.くす -つ.くす -づ.くし -つ.く -づ.く -ず.く つ.きる つ.かす さかづき ことごと.く つか つき",
 		"eng": "exhaust, use up, run out of, befriend, serve",
 		"russian": "Исчерпывать"
 	},
 	{
 		"kandji": "僕",
-		"katakana": "ボク",
-		"hiragana": "しもべ",
+		"on":"ボク",
+		"kun":"しもべ",
 		"eng": "me, I (male)",
 		"russian": "Я"
 	},
 	{
 		"kandji": "桜",
-		"katakana": "オウ ヨウ サク",
+		"on":"オウ ヨウ サク",
 		"eng": "cherry",
 		"russian": "Вишня"
 	},
 	{
 		"kandji": "滑",
-		"katakana": "カツ コツ ナメ.ラ",
-		"hiragana": "すべ.る",
+		"on":"カツ コツ ナメ.ラ",
+		"kun":"すべ.る",
 		"eng": "slippery, slide, slip, flunk",
 		"russian": "Скользить"
 	},
 	{
 		"kandji": "孤",
-		"katakana": "コ",
+		"on":"コ",
 		"eng": "orphan, alone",
 		"russian": "Сирота"
 	},
 	{
 		"kandji": "炎",
-		"katakana": "エン ホノ",
+		"on":"エン ホノ",
 		"eng": "inflammation, flame, blaze",
 		"russian": "Пламя"
 	},
 	{
 		"kandji": "賠",
-		"katakana": "バイ",
+		"on":"バイ",
 		"eng": "compensation, indemnify",
 		"russian": "Возмещать"
 	},
@@ -2438,751 +2438,751 @@
 	},
 	{
 		"kandji": "鋼",
-		"katakana": "コウ",
-		"hiragana": "はがね",
+		"on":"コウ",
+		"kun":"はがね",
 		"eng": "steel",
 		"russian": "Сталь"
 	},
 	{
 		"kandji": "頑",
-		"katakana": "ガン",
-		"hiragana": "かたく",
+		"on":"ガン",
+		"kun":"かたく",
 		"eng": "stubborn, foolish, firmly",
 		"russian": "Упорный"
 	},
 	{
 		"kandji": "鎖",
-		"katakana": "サ",
-		"hiragana": "くさり とざ.す",
+		"on":"サ",
+		"kun":"くさり とざ.す",
 		"eng": "chain, irons, connection",
 		"russian": "Цепь"
 	},
 	{
 		"kandji": "彩",
-		"katakana": "サイ イロド.",
+		"on":"サイ イロド.",
 		"eng": "coloring, paint, makeup",
 		"russian": "Расцвечивать"
 	},
 	{
 		"kandji": "摩",
-		"katakana": "マ",
-		"hiragana": "ま.する さ.する す.る",
+		"on":"マ",
+		"kun":"ま.する さ.する す.る",
 		"eng": "chafe, rub, polish, grind, scrape",
 		"russian": "Трение"
 	},
 	{
 		"kandji": "励",
-		"katakana": "レイ",
-		"hiragana": "はげ.む はげ.ます",
+		"on":"レイ",
+		"kun":"はげ.む はげ.ます",
 		"eng": "encourage, be diligent, inspire",
 		"russian": "Побуждать"
 	},
 	{
 		"kandji": "縦",
-		"katakana": "ジュウ",
-		"hiragana": "たて",
+		"on":"ジュウ",
+		"kun":"たて",
 		"eng": "vertical, length, height, self-indulgent, wayward",
 		"russian": "Вертикальный"
 	},
 	{
 		"kandji": "輝",
-		"katakana": "キ カガヤ.",
+		"on":"キ カガヤ.",
 		"eng": "radiance, shine, sparkle, gleam, twinkle",
 		"russian": "Сверкать"
 	},
 	{
 		"kandji": "蓄",
-		"katakana": "チク",
-		"hiragana": "たくわ.える",
+		"on":"チク",
+		"kun":"たくわ.える",
 		"eng": "amass, keeping a concubine, phonograph",
 		"russian": "Запасать"
 	},
 	{
 		"kandji": "軸",
-		"katakana": "ジク",
+		"on":"ジク",
 		"eng": "axis, pivot, stem, stalk, counter for book scrolls",
 		"russian": "Ось"
 	},
 	{
 		"kandji": "巡",
-		"katakana": "ジュン",
-		"hiragana": "めぐ.る めぐ.り",
+		"on":"ジュン",
+		"kun":"めぐ.る めぐ.り",
 		"eng": "patrol, go around, circumference",
 		"russian": "Патрулировать"
 	},
 	{
 		"kandji": "稼",
-		"katakana": "カ",
-		"hiragana": "かせ.ぐ",
+		"on":"カ",
+		"kun":"かせ.ぐ",
 		"eng": "earnings, work, earn money",
 		"russian": "Зарабатывать"
 	},
 	{
 		"kandji": "瞬",
-		"katakana": "シュン",
-		"hiragana": "またた.く",
+		"on":"シュン",
+		"kun":"またた.く",
 		"eng": "wink, blink, twinkle",
 		"russian": "Мгновение"
 	},
 	{
 		"kandji": "砲",
-		"katakana": "ホ",
+		"on":"ホ",
 		"eng": "cannon, gun",
 		"russian": "Пушка"
 	},
 	{
 		"kandji": "噴",
-		"katakana": "フン",
-		"hiragana": "ふ.く",
+		"on":"フン",
+		"kun":"ふ.く",
 		"eng": "erupt, spout, emit, flush out",
 		"russian": "Извергать"
 	},
 	{
 		"kandji": "誇",
-		"katakana": "コ",
-		"hiragana": "ほこ.る",
+		"on":"コ",
+		"kun":"ほこ.る",
 		"eng": "boast, be proud, pride, triumphantly",
 		"russian": "Гордость"
 	},
 	{
 		"kandji": "祥",
-		"katakana": "ショ",
+		"on":"ショ",
 		"eng": "auspicious, happiness, good omen",
 		"russian": "Добрый знак"
 	},
 	{
 		"kandji": "牲",
-		"katakana": "セイ",
+		"on":"セイ",
 		"eng": "animal sacrifice, offering",
 		"russian": "Жертва"
 	},
 	{
 		"kandji": "秩",
-		"katakana": "チ",
+		"on":"チ",
 		"eng": "regularity, salary, order",
 		"russian": "Упорядоченность"
 	},
 	{
 		"kandji": "帝",
-		"katakana": "テイ",
-		"hiragana": "みかど",
+		"on":"テイ",
+		"kun":"みかど",
 		"eng": "sovereign, the emperor, god, creator",
 		"russian": "Император"
 	},
 	{
 		"kandji": "宏",
-		"katakana": "コウ ヒロ.",
+		"on":"コウ ヒロ.",
 		"eng": "wide, large",
 		"russian": "Обширный"
 	},
 	{
 		"kandji": "唆",
-		"katakana": "サ",
-		"hiragana": "そそのか.す",
+		"on":"サ",
+		"kun":"そそのか.す",
 		"eng": "tempt, seduce, instigate, promote",
 		"russian": "Будоражить"
 	},
 	{
 		"kandji": "阻",
-		"katakana": "ソ",
-		"hiragana": "はば.む",
+		"on":"ソ",
+		"kun":"はば.む",
 		"eng": "thwart, separate from, prevent, obstruct, deter, impede",
 		"russian": "Задерживать"
 	},
 	{
 		"kandji": "泰",
-		"katakana": "タ",
+		"on":"タ",
 		"eng": "peaceful, calm, peace, easy, Thailand",
 		"russian": "Спокойствие"
 	},
 	{
 		"kandji": "賄",
-		"katakana": "ワイ",
-		"hiragana": "まかな.う",
+		"on":"ワイ",
+		"kun":"まかな.う",
 		"eng": "bribe, board, supply, finance",
 		"russian": "Поставлять"
 	},
 	{
 		"kandji": "撲",
-		"katakana": "ボク",
+		"on":"ボク",
 		"eng": "slap, strike, hit, beat, tell, speak",
 		"russian": "Побои"
 	},
 	{
 		"kandji": "堀",
-		"katakana": "クツ ホ",
+		"on":"クツ ホ",
 		"eng": "ditch, moat, canal",
 		"russian": "Канал"
 	},
 	{
 		"kandji": "菊",
-		"katakana": "キク",
+		"on":"キク",
 		"eng": "chrysanthemum",
 		"russian": "Хризантема"
 	},
 	{
 		"kandji": "絞",
-		"katakana": "コウ",
-		"hiragana": "しぼ.る し.める し.まる",
+		"on":"コウ",
+		"kun":"しぼ.る し.める し.まる",
 		"eng": "strangle, constrict, wring",
 		"russian": "Душить"
 	},
 	{
 		"kandji": "縁",
-		"katakana": "エン -ネン",
-		"hiragana": "ふち ふちど.る ゆかり よすが へり えにし",
+		"on":"エン -ネン",
+		"kun":"ふち ふちど.る ゆかり よすが へり えにし",
 		"eng": "affinity, relation, connection, edge, border, verge, brink",
 		"russian": "Узы"
 	},
 	{
 		"kandji": "唯",
-		"katakana": "ユイ イ タ",
+		"on":"ユイ イ タ",
 		"eng": "solely, only, merely, simply",
 		"russian": "Только"
 	},
 	{
 		"kandji": "膨",
-		"katakana": "ボウ",
-		"hiragana": "ふく.らむ ふく.れる",
+		"on":"ボウ",
+		"kun":"ふく.らむ ふく.れる",
 		"eng": "swell, get fat, thick",
 		"russian": "Разбухать"
 	},
 	{
 		"kandji": "矢",
-		"katakana": "シ",
-		"hiragana": "や",
+		"on":"シ",
+		"kun":"や",
 		"eng": "dart, arrow",
 		"russian": "Стрела"
 	},
 	{
 		"kandji": "耐",
-		"katakana": "タイ タ.エ",
+		"on":"タイ タ.エ",
 		"eng": "-proof, enduring",
 		"russian": "Выдерживать"
 	},
 	{
 		"kandji": "塾",
-		"katakana": "ジュク",
+		"on":"ジュク",
 		"eng": "cram school, private school",
 		"russian": "Курсы"
 	},
 	{
 		"kandji": "漏",
-		"katakana": "ロウ",
-		"hiragana": "も.る も.れる も.らす",
+		"on":"ロウ",
+		"kun":"も.る も.れる も.らす",
 		"eng": "leak, escape, time",
 		"russian": "Протекать"
 	},
 	{
 		"kandji": "慶",
-		"katakana": "ケイ ヨロコ.",
+		"on":"ケイ ヨロコ.",
 		"eng": "jubilation, congratulate, rejoice, be happy",
 		"russian": "Поздравлять"
 	},
 	{
 		"kandji": "猛",
-		"katakana": "モ",
+		"on":"モ",
 		"eng": "fierce, rave, rush, become furious, wildness, strength",
 		"russian": "Свирепый"
 	},
 	{
 		"kandji": "芳",
-		"katakana": "ホウ カンバ.シ",
+		"on":"ホウ カンバ.シ",
 		"eng": "perfume, balmy, flavorable, fragrant",
 		"russian": "Душистый"
 	},
 	{
 		"kandji": "懲",
-		"katakana": "チョウ",
-		"hiragana": "こ.りる こ.らす こ.らしめる",
+		"on":"チョウ",
+		"kun":"こ.りる こ.らす こ.らしめる",
 		"eng": "penal, chastise, punish, discipline",
 		"russian": "Наказание"
 	},
 	{
 		"kandji": "剣",
-		"katakana": "ケン",
-		"hiragana": "つるぎ",
+		"on":"ケン",
+		"kun":"つるぎ",
 		"eng": "sabre, sword, blade, clock hand",
 		"russian": "Меч"
 	},
 	{
 		"kandji": "彰",
-		"katakana": "ショ",
+		"on":"ショ",
 		"eng": "patent, clear",
 		"russian": "Признание заслуг"
 	},
 	{
 		"kandji": "棋",
-		"katakana": "キ",
-		"hiragana": "ご",
+		"on":"キ",
+		"kun":"ご",
 		"eng": "chess piece, Japanese chess, shogi",
 		"russian": "Шахматы"
 	},
 	{
 		"kandji": "丁",
-		"katakana": "チョウ テイ チン トウ チ",
-		"hiragana": "ひのと",
+		"on":"チョウ テイ チン トウ チ",
+		"kun":"ひのと",
 		"eng": "street, ward, town, counter for guns, tools, leaves or cakes of something, even number, 4th calendar sig",
 		"russian": "Четвёртый"
 	},
 	{
 		"kandji": "恒",
-		"katakana": "コウ ツネ",
-		"hiragana": "つね",
+		"on":"コウ ツネ",
+		"kun":"つね",
 		"eng": "constancy, always",
 		"russian": "Постоянный"
 	},
 	{
 		"kandji": "揚",
-		"katakana": "ヨウ ア.ガ",
-		"hiragana": "あ.げる -あ.げ",
+		"on":"ヨウ ア.ガ",
+		"kun":"あ.げる -あ.げ",
 		"eng": "hoist, fry in deep fat",
 		"russian": "Поднимать"
 	},
 	{
 		"kandji": "冒",
-		"katakana": "ボウ",
-		"hiragana": "おか.す",
+		"on":"ボウ",
+		"kun":"おか.す",
 		"eng": "risk, face, defy, dare, damage, assume (a name)",
 		"russian": "Отважиться"
 	},
 	{
 		"kandji": "之",
-		"katakana": "シ コ",
-		"hiragana": "の これ おいて ゆく",
+		"on":"シ コ",
+		"kun":"の これ おいて ゆく",
 		"eng": "of, this",
 		"russian": "Родительный падеж"
 	},
 	{
 		"kandji": "倫",
-		"katakana": "リ",
+		"on":"リ",
 		"eng": "ethics, companion",
 		"russian": "Мораль"
 	},
 	{
 		"kandji": "陳",
-		"katakana": "チン ヒ.ネ",
+		"on":"チン ヒ.ネ",
 		"eng": "exhibit, state, relate, explain",
 		"russian": "Излагать"
 	},
 	{
 		"kandji": "憶",
-		"katakana": "オク",
+		"on":"オク",
 		"eng": "recollection, think, remember",
 		"russian": "Память"
 	},
 	{
 		"kandji": "潜",
-		"katakana": "セン",
-		"hiragana": "ひそ.む もぐ.る かく.れる くぐ.る ひそ.める",
+		"on":"セン",
+		"kun":"ひそ.む もぐ.る かく.れる くぐ.る ひそ.める",
 		"eng": "submerge, conceal, hide, lower (voice), hush",
 		"russian": "Нырять"
 	},
 	{
 		"kandji": "梨",
-		"katakana": "リ ナ",
+		"on":"リ ナ",
 		"eng": "pear tree",
 		"russian": "Груша"
 	},
 	{
 		"kandji": "仁",
-		"katakana": "ジン ニ ニ",
+		"on":"ジン ニ ニ",
 		"eng": "humanity, virtue, benevolence, charity, man, kernel",
 		"russian": "Человеколюбие"
 	},
 	{
 		"kandji": "克",
-		"katakana": "コク カ.",
+		"on":"コク カ.",
 		"eng": "overcome, kindly, skillfully",
 		"russian": "Преодолевать"
 	},
 	{
 		"kandji": "岳",
-		"katakana": "ガク タ",
+		"on":"ガク タ",
 		"eng": "point, peak, mountain",
 		"russian": "Пик"
 	},
 	{
 		"kandji": "概",
-		"katakana": "ガイ",
-		"hiragana": "おうむ.ね",
+		"on":"ガイ",
+		"kun":"おうむ.ね",
 		"eng": "outline, condition, approximation, generally",
 		"russian": "В общем"
 	},
 	{
 		"kandji": "拘",
-		"katakana": "コウ",
-		"hiragana": "かか.わる",
+		"on":"コウ",
+		"kun":"かか.わる",
 		"eng": "arrest, seize, concerned, adhere to, despite",
 		"russian": "Несмотря"
 	},
 	{
 		"kandji": "墓",
-		"katakana": "ボ",
-		"hiragana": "はか",
+		"on":"ボ",
+		"kun":"はか",
 		"eng": "grave, tomb",
 		"russian": "Могила"
 	},
 	{
 		"kandji": "黙",
-		"katakana": "モク ボク",
-		"hiragana": "だま.る もだ.す",
+		"on":"モク ボク",
+		"kun":"だま.る もだ.す",
 		"eng": "silence, become silent, stop speaking, leave as is",
 		"russian": "Молчать"
 	},
 	{
 		"kandji": "須",
-		"katakana": "ス シュ モト.メ",
-		"hiragana": "すべから.く すべし ひげ まつ もち.いる",
+		"on":"ス シュ モト.メ",
+		"kun":"すべから.く すべし ひげ まつ もち.いる",
 		"eng": "ought, by all means, necessarily",
 		"russian": "Непременно"
 	},
 	{
 		"kandji": "偏",
-		"katakana": "ヘン",
-		"hiragana": "かたよ.る",
+		"on":"ヘン",
+		"kun":"かたよ.る",
 		"eng": "partial, side, left-side radical, inclining, biased",
 		"russian": "Отклонение"
 	},
 	{
 		"kandji": "雰",
-		"katakana": "フン",
+		"on":"フン",
 		"eng": "atmosphere, fog",
 		"russian": "Атмосфера"
 	},
 	{
 		"kandji": "遇",
-		"katakana": "グウ",
-		"hiragana": "あ.う",
+		"on":"グウ",
+		"kun":"あ.う",
 		"eng": "interview, treat, entertain, receive, deal with",
 		"russian": "Обращение"
 	},
 	{
 		"kandji": "諮",
-		"katakana": "シ",
-		"hiragana": "はか.る",
+		"on":"シ",
+		"kun":"はか.る",
 		"eng": "consult with",
 		"russian": "Консультироваться"
 	},
 	{
 		"kandji": "狭",
-		"katakana": "キョウ コウ",
-		"hiragana": "せま.い せば.める せば.まる",
+		"on":"キョウ コウ",
+		"kun":"せま.い せば.める せば.まる",
 		"eng": "cramped, narrow, contract, tight",
 		"russian": "Узкий"
 	},
 	{
 		"kandji": "卓",
-		"katakana": "タ",
+		"on":"タ",
 		"eng": "eminent, table, desk, high",
 		"russian": "Стол"
 	},
 	{
 		"kandji": "亀",
-		"katakana": "キ キュウ キン カ",
+		"on":"キ キュウ キン カ",
 		"eng": "tortoise, turtle",
 		"russian": "Черепаха"
 	},
 	{
 		"kandji": "糧",
-		"katakana": "リョウ ロウ",
-		"hiragana": "かて",
+		"on":"リョウ ロウ",
+		"kun":"かて",
 		"eng": "provisions, food, bread",
 		"russian": "Продовольствие"
 	},
 	{
 		"kandji": "簿",
-		"katakana": "ボ",
+		"on":"ボ",
 		"eng": "register, record book",
 		"russian": "Конторская книга"
 	},
 	{
 		"kandji": "炉",
-		"katakana": "ロ",
-		"hiragana": "いろり",
+		"on":"ロ",
+		"kun":"いろり",
 		"eng": "hearth, furnace, kiln, reactor",
 		"russian": "Печь"
 	},
 	{
 		"kandji": "牧",
-		"katakana": "ボク マ",
+		"on":"ボク マ",
 		"eng": "breed, care for, shepherd, feed, pasture",
 		"russian": "Пасти"
 	},
 	{
 		"kandji": "殊",
-		"katakana": "シュ",
-		"hiragana": "こと",
+		"on":"シュ",
+		"kun":"こと",
 		"eng": "particularly, especially, exceptionally",
 		"russian": "Особенный"
 	},
 	{
 		"kandji": "殖",
-		"katakana": "ショク フ.ヤ",
-		"hiragana": "ふ.える",
+		"on":"ショク フ.ヤ",
+		"kun":"ふ.える",
 		"eng": "augment, increase, multiply, raise",
 		"russian": "Приумножать"
 	},
 	{
 		"kandji": "艦",
-		"katakana": "カン",
+		"on":"カン",
 		"eng": "warship",
 		"russian": "Военный корабль"
 	},
 	{
 		"kandji": "輩",
-		"katakana": "ハイ",
+		"on":"ハイ",
 		"eng": "comrade, fellow, people, companions",
 		"russian": "Товарищ"
 	},
 	{
 		"kandji": "穴",
-		"katakana": "ケツ ア",
+		"on":"ケツ ア",
 		"eng": "hole, aperture, slit, cave, den",
 		"russian": "Дыра"
 	},
 	{
 		"kandji": "奇",
-		"katakana": "キ",
-		"hiragana": "く.しき あや.しい くし めずら.しい",
+		"on":"キ",
+		"kun":"く.しき あや.しい くし めずら.しい",
 		"eng": "strange, strangeness, curiosity",
 		"russian": "Необыкновенный"
 	},
 	{
 		"kandji": "慢",
-		"katakana": "マン",
+		"on":"マン",
 		"eng": "ridicule, laziness",
 		"russian": "Высокомерный"
 	},
 	{
 		"kandji": "鶴",
-		"katakana": "カク ツ",
+		"on":"カク ツ",
 		"eng": "crane, stork",
 		"russian": "Журавль"
 	},
 	{
 		"kandji": "謀",
-		"katakana": "ボウ ム",
-		"hiragana": "はか.る たばか.る はかりごと",
+		"on":"ボウ ム",
+		"kun":"はか.る たばか.る はかりごと",
 		"eng": "conspire, cheat, impose on, plan, devise, scheme, have in mind, deceive",
 		"russian": "Замышлять"
 	},
 	{
 		"kandji": "暖",
-		"katakana": "ダン ノン",
-		"hiragana": "あたた.か あたた.かい あたた.まる あたた.める",
+		"on":"ダン ノン",
+		"kun":"あたた.か あたた.かい あたた.まる あたた.める",
 		"eng": "warmth",
 		"russian": "Тёплый"
 	},
 	{
 		"kandji": "昌",
-		"katakana": "ショウ サカ",
+		"on":"ショウ サカ",
 		"eng": "prosperous, bright, clear",
 		"russian": "Процветающий"
 	},
 	{
 		"kandji": "拍",
-		"katakana": "ハク ヒョウ",
+		"on":"ハク ヒョウ",
 		"eng": "clap, beat (music)",
 		"russian": "Хлопать"
 	},
 	{
 		"kandji": "朗",
-		"katakana": "ロウ アキ.ラ",
-		"hiragana": "ほが.らか",
+		"on":"ロウ アキ.ラ",
+		"kun":"ほが.らか",
 		"eng": "melodious, clear, bright, serene, cheerful",
 		"russian": "Звучный"
 	},
 	{
 		"kandji": "寛",
-		"katakana": "カン ユル.ヤ",
-		"hiragana": "くつろ.ぐ ひろ.い",
+		"on":"カン ユル.ヤ",
+		"kun":"くつろ.ぐ ひろ.い",
 		"eng": "tolerant, leniency, generosity, relax, feel at home, be at ease, broadminded",
 		"russian": "Великодушие"
 	},
 	{
 		"kandji": "覆",
-		"katakana": "フク",
-		"hiragana": "おお.う くつがえ.す くつがえ.る",
+		"on":"フク",
+		"kun":"おお.う くつがえ.す くつがえ.る",
 		"eng": "capsize, cover, shade, mantle, be ruined",
 		"russian": "Покрывать"
 	},
 	{
 		"kandji": "胞",
-		"katakana": "ホウ",
+		"on":"ホウ",
 		"eng": "placenta, sac, sheath",
 		"russian": "Плацента"
 	},
 	{
 		"kandji": "泣",
-		"katakana": "キュウ",
-		"hiragana": "な.く",
+		"on":"キュウ",
+		"kun":"な.く",
 		"eng": "cry, weep, moan",
 		"russian": "Плакать"
 	},
 	{
 		"kandji": "隔",
-		"katakana": "カク",
-		"hiragana": "へだ.てる へだ.たる",
+		"on":"カク",
+		"kun":"へだ.てる へだ.たる",
 		"eng": "isolate, alternate, distance, separate, gulf",
 		"russian": "Разделять"
 	},
 	{
 		"kandji": "浄",
-		"katakana": "ジョウ セイ",
-		"hiragana": "きよ.める きよ.い",
+		"on":"ジョウ セイ",
+		"kun":"きよ.める きよ.い",
 		"eng": "clean, purify, cleanse, exorcise, Manchu Dynasty",
 		"russian": "Священный"
 	},
 	{
 		"kandji": "没",
-		"katakana": "ボツ モツ",
-		"hiragana": "おぼ.れる しず.む ない",
+		"on":"ボツ モツ",
+		"kun":"おぼ.れる しず.む ない",
 		"eng": "drown, sink, hide, fall into, disappear, die",
 		"russian": "Скрываться из виду"
 	},
 	{
 		"kandji": "暇",
-		"katakana": "カ",
-		"hiragana": "ひま いとま",
+		"on":"カ",
+		"kun":"ひま いとま",
 		"eng": "spare time, rest, leisure, time, leave of absence",
 		"russian": "Досуг"
 	},
 	{
 		"kandji": "肺",
-		"katakana": "ハイ",
+		"on":"ハイ",
 		"eng": "lungs",
 		"russian": "Лёгкие"
 	},
 	{
 		"kandji": "貞",
-		"katakana": "テイ サ",
+		"on":"テイ サ",
 		"eng": "upright, chastity, constancy, righteousness",
 		"russian": "Целомудрие"
 	},
 	{
 		"kandji": "靖",
-		"katakana": "セイ ジョウ ヤス.ンジ",
+		"on":"セイ ジョウ ヤス.ンジ",
 		"eng": "peaceful",
 		"russian": "Успокоение"
 	},
 	{
 		"kandji": "鑑",
-		"katakana": "カン カガ",
-		"hiragana": "かんが.みる",
+		"on":"カン カガ",
+		"kun":"かんが.みる",
 		"eng": "specimen, take warning from, learn from",
 		"russian": "Оценивать"
 	},
 	{
 		"kandji": "飼",
-		"katakana": "シ カ.",
+		"on":"シ カ.",
 		"eng": "domesticate, raise, keep, feed",
 		"russian": "Выкармливать"
 	},
 	{
 		"kandji": "陰",
-		"katakana": "イン",
-		"hiragana": "かげ かげ.る",
+		"on":"イン",
+		"kun":"かげ かげ.る",
 		"eng": "shade, yin, negative, sex organs, secret, shadow",
 		"russian": "Тень"
 	},
 	{
 		"kandji": "銘",
-		"katakana": "メ",
+		"on":"メ",
 		"eng": "inscription, signature (of artisan)",
 		"russian": "Надпись"
 	},
 	{
 		"kandji": "随",
-		"katakana": "ズイ",
-		"hiragana": "まにまに したが.う",
+		"on":"ズイ",
+		"kun":"まにまに したが.う",
 		"eng": "follow, though, notwithstanding, while, during, both, all, obey, submit to, comply, at the mercy of (the wave",
 		"russian": "Произвольный"
 	},
 	{
 		"kandji": "烈",
-		"katakana": "レツ ハゲ.シ",
+		"on":"レツ ハゲ.シ",
 		"eng": "ardent, violent, vehement, furious, severe, extreme",
 		"russian": "Яростный"
 	},
 	{
 		"kandji": "尋",
-		"katakana": "ジン ヒ",
-		"hiragana": "たず.ねる",
+		"on":"ジン ヒ",
+		"kun":"たず.ねる",
 		"eng": "inquire, fathom, look for",
 		"russian": "Разыскивать"
 	},
 	{
 		"kandji": "稿",
-		"katakana": "コウ",
-		"hiragana": "わら したがき",
+		"on":"コウ",
+		"kun":"わら したがき",
 		"eng": "draft, copy, manuscript, straw",
 		"russian": "Рукопись"
 	},
 	{
 		"kandji": "丹",
-		"katakana": "タン",
+		"on":"タン",
 		"eng": "rust-colored, red, red lead, pills",
 		"russian": "Свинцовый сурик"
 	},
 	{
 		"kandji": "啓",
-		"katakana": "ケイ サト.",
-		"hiragana": "ひら.く",
+		"on":"ケイ サト.",
+		"kun":"ひら.く",
 		"eng": "disclose, open, say",
 		"russian": "Просвещать"
 	},
 	{
 		"kandji": "也",
-		"katakana": "ヤ エ マ",
-		"hiragana": "なり か",
+		"on":"ヤ エ マ",
+		"kun":"なり か",
 		"eng": "to be (classical)",
 		"russian": "Является"
 	},
 	{
 		"kandji": "丘",
-		"katakana": "キュウ オ",
+		"on":"キュウ オ",
 		"eng": "hill, knoll",
 		"russian": "Холм"
 	},
 	{
 		"kandji": "棟",
-		"katakana": "トウ",
-		"hiragana": "むね むな-",
+		"on":"トウ",
+		"kun":"むね むな-",
 		"eng": "ridgepole, ridge",
 		"russian": "Конёк"
 	},
 	{
 		"kandji": "壌",
-		"katakana": "ジョウ",
-		"hiragana": "つち",
+		"on":"ジョウ",
+		"kun":"つち",
 		"eng": "lot, earth, soil",
 		"russian": "Почва"
 	},
 	{
 		"kandji": "漫",
-		"katakana": "マン",
-		"hiragana": "みがりに",
+		"on":"マン",
+		"kun":"みがりに",
 		"eng": "cartoon, involuntarily, in spite of oneself, corrupt",
 		"russian": "Бесцельный"
 	},
 	{
 		"kandji": "玄",
-		"katakana": "ゲ",
+		"on":"ゲ",
 		"eng": "mysterious, occultness",
 		"russian": "Непостижимый"
 	},
 	{
 		"kandji": "粘",
-		"katakana": "ネン",
-		"hiragana": "ねば.る",
+		"on":"ネン",
+		"kun":"ねば.る",
 		"eng": "sticky, glutinous, greasy, persevere",
 		"russian": "Липкий"
 	},
 	{
 		"kandji": "悟",
-		"katakana": "ゴ",
-		"hiragana": "さと.る",
+		"on":"ゴ",
+		"kun":"さと.る",
 		"eng": "enlightenment, perceive, discern, realize, understand",
 		"russian": "Просветление"
 	},
@@ -3193,702 +3193,702 @@
 	},
 	{
 		"kandji": "妊",
-		"katakana": "ニン ジン",
-		"hiragana": "はら.む みごも.る",
+		"on":"ニン ジン",
+		"kun":"はら.む みごも.る",
 		"eng": "pregnancy",
 		"russian": "Беременная"
 	},
 	{
 		"kandji": "熟",
-		"katakana": "ジュク",
-		"hiragana": "う.れる",
+		"on":"ジュク",
+		"kun":"う.れる",
 		"eng": "mellow, ripen, mature, acquire skill",
 		"russian": "Спелый"
 	},
 	{
 		"kandji": "旭",
-		"katakana": "キョク アサ",
+		"on":"キョク アサ",
 		"eng": "rising sun, morning sun",
 		"russian": "Восходящее солнце"
 	},
 	{
 		"kandji": "恩",
-		"katakana": "オ",
+		"on":"オ",
 		"eng": "grace, kindness, goodness, favor, mercy, blessing, benefit",
 		"russian": "Признательность"
 	},
 	{
 		"kandji": "騰",
-		"katakana": "トウ",
+		"on":"トウ",
 		"eng": "inflation, advancing, going",
 		"russian": "Рост цен"
 	},
 	{
 		"kandji": "往",
-		"katakana": "オウ ユ.",
-		"hiragana": "い.く いにしえ さき.に",
+		"on":"オウ ユ.",
+		"kun":"い.く いにしえ さき.に",
 		"eng": "journey, chase away, let go, going, travel",
 		"russian": "Направляться"
 	},
 	{
 		"kandji": "豆",
-		"katakana": "トウ ズ",
-		"hiragana": "まめ まめ",
+		"on":"トウ ズ",
+		"kun":"まめ まめ",
 		"eng": "beans, pea, midget",
 		"russian": "Боб"
 	},
 	{
 		"kandji": "遂",
-		"katakana": "スイ",
-		"hiragana": "と.げる つい.に",
+		"on":"スイ",
+		"kun":"と.げる つい.に",
 		"eng": "consummate, accomplish, attain, commit (suicide)",
 		"russian": "Осуществлять"
 	},
 	{
 		"kandji": "狂",
-		"katakana": "キョウ",
-		"hiragana": "くる.う くる.おしい くるお.しい",
+		"on":"キョウ",
+		"kun":"くる.う くる.おしい くるお.しい",
 		"eng": "lunatic, insane, crazy, confuse",
 		"russian": "Сумасшедший"
 	},
 	{
 		"kandji": "岐",
-		"katakana": "キ",
+		"on":"キ",
 		"eng": "branch off, fork in road, scene, arena, theater",
 		"russian": "Разветвляться"
 	},
 	{
 		"kandji": "陛",
-		"katakana": "ヘイ",
+		"on":"ヘイ",
 		"eng": "highness, steps (of throne)",
 		"russian": "Его Величество"
 	},
 	{
 		"kandji": "緯",
-		"katakana": "イ",
-		"hiragana": "よこいと ぬき",
+		"on":"イ",
+		"kun":"よこいと ぬき",
 		"eng": "horizontal, woof, left & right, latitude",
 		"russian": "Широта"
 	},
 	{
 		"kandji": "培",
-		"katakana": "バイ",
-		"hiragana": "つちか.う",
+		"on":"バイ",
+		"kun":"つちか.う",
 		"eng": "cultivate, foster",
 		"russian": "Выращивать"
 	},
 	{
 		"kandji": "衰",
-		"katakana": "スイ",
-		"hiragana": "おとろ.える",
+		"on":"スイ",
+		"kun":"おとろ.える",
 		"eng": "decline, wane, weaken",
 		"russian": "Упадок"
 	},
 	{
 		"kandji": "艇",
-		"katakana": "テイ",
+		"on":"テイ",
 		"eng": "rowboat, small boat",
 		"russian": "Катер"
 	},
 	{
 		"kandji": "屈",
-		"katakana": "クツ カガ.メ",
-		"hiragana": "かが.む",
+		"on":"クツ カガ.メ",
+		"kun":"かが.む",
 		"eng": "yield, bend, flinch, submit",
 		"russian": "Гнуться"
 	},
 	{
 		"kandji": "径",
-		"katakana": "ケイ",
-		"hiragana": "みち こみち さしわたし ただちに",
+		"on":"ケイ",
+		"kun":"みち こみち さしわたし ただちに",
 		"eng": "diameter, path, method",
 		"russian": "Диаметр"
 	},
 	{
 		"kandji": "淡",
-		"katakana": "タン",
-		"hiragana": "あわ.い",
+		"on":"タン",
+		"kun":"あわ.い",
 		"eng": "thin, faint, pale, fleeting",
 		"russian": "Пресный"
 	},
 	{
 		"kandji": "抽",
-		"katakana": "チュウ",
-		"hiragana": "ひき-",
+		"on":"チュウ",
+		"kun":"ひき-",
 		"eng": "pluck, pull, extract, excel",
 		"russian": "Извлекать"
 	},
 	{
 		"kandji": "披",
-		"katakana": "ヒ",
+		"on":"ヒ",
 		"eng": "expose, open",
 		"russian": "Раскрывать"
 	},
 	{
 		"kandji": "廷",
-		"katakana": "テ",
+		"on":"テ",
 		"eng": "courts, imperial court, government office",
 		"russian": "Суд"
 	},
 	{
 		"kandji": "錦",
-		"katakana": "キン ニシ",
+		"on":"キン ニシ",
 		"eng": "brocade, fine dress, honors",
 		"russian": "Парча"
 	},
 	{
 		"kandji": "准",
-		"katakana": "ジュン",
+		"on":"ジュン",
 		"eng": "quasi-, semi-, associate",
 		"russian": "Младший"
 	},
 	{
 		"kandji": "暑",
-		"katakana": "ショ",
-		"hiragana": "あつ.い",
+		"on":"ショ",
+		"kun":"あつ.い",
 		"eng": "sultry, hot, summer heat",
 		"russian": "Жаркий"
 	},
 	{
 		"kandji": "磯",
-		"katakana": "キ イ",
+		"on":"キ イ",
 		"eng": "seashore, beach",
 		"russian": "Взморье"
 	},
 	{
 		"kandji": "奨",
-		"katakana": "ショウ ソウ スス.メ",
+		"on":"ショウ ソウ スス.メ",
 		"eng": "exhort, urge, encourage",
 		"russian": "Поощрять"
 	},
 	{
 		"kandji": "浸",
-		"katakana": "シン",
-		"hiragana": "ひた.す ひた.る",
+		"on":"シン",
+		"kun":"ひた.す ひた.る",
 		"eng": "immersed, soak, dip, steep, moisten, wet, dunk",
 		"russian": "Замачивать"
 	},
 	{
 		"kandji": "剰",
-		"katakana": "ジョウ",
-		"hiragana": "あまつさえ あま.り あま.る",
+		"on":"ジョウ",
+		"kun":"あまつさえ あま.り あま.る",
 		"eng": "surplus, besides",
 		"russian": "Вдобавок"
 	},
 	{
 		"kandji": "胆",
-		"katakana": "タン キ",
+		"on":"タン キ",
 		"eng": "gall bladder, courage, pluck, nerve",
 		"russian": "Жёлчный пузырь"
 	},
 	{
 		"kandji": "繊",
-		"katakana": "セン",
+		"on":"セン",
 		"eng": "slender, fine, thin kimono",
 		"russian": "Волокно"
 	},
 	{
 		"kandji": "駒",
-		"katakana": "ク",
-		"hiragana": "こま",
+		"on":"ク",
+		"kun":"こま",
 		"eng": "pony, horse, colt",
 		"russian": "Пешка"
 	},
 	{
 		"kandji": "虚",
-		"katakana": "キョ コ",
-		"hiragana": "むな.しい うつ.ろ",
+		"on":"キョ コ",
+		"kun":"むな.しい うつ.ろ",
 		"eng": "void, emptiness, unpreparedness, crack, fissure, untruth",
 		"russian": "Пустота"
 	},
 	{
 		"kandji": "霊",
-		"katakana": "レイ リョウ",
-		"hiragana": "たま",
+		"on":"レイ リョウ",
+		"kun":"たま",
 		"eng": "spirits, soul",
 		"russian": "Дух"
 	},
 	{
 		"kandji": "帳",
-		"katakana": "チョウ",
-		"hiragana": "とばり",
+		"on":"チョウ",
+		"kun":"とばり",
 		"eng": "notebook, account book, album",
 		"russian": "Книга для записей"
 	},
 	{
 		"kandji": "悔",
-		"katakana": "カイ",
-		"hiragana": "く.いる く.やむ くや.しい",
+		"on":"カイ",
+		"kun":"く.いる く.やむ くや.しい",
 		"eng": "repent, regret",
 		"russian": "Раскаиваться"
 	},
 	{
 		"kandji": "諭",
-		"katakana": "ユ サト.",
+		"on":"ユ サト.",
 		"eng": "rebuke, admonish, charge, warn, persuade",
 		"russian": "Увещевать"
 	},
 	{
 		"kandji": "惨",
-		"katakana": "サン ザン",
-		"hiragana": "みじ.め いた.む むご.い",
+		"on":"サン ザン",
+		"kun":"みじ.め いた.む むご.い",
 		"eng": "wretched, disaster, cruelty, harsh",
 		"russian": "Трагический"
 	},
 	{
 		"kandji": "虐",
-		"katakana": "ギャク",
-		"hiragana": "しいた.げる",
+		"on":"ギャク",
+		"kun":"しいた.げる",
 		"eng": "tyrannize, oppress",
 		"russian": "Тиранить"
 	},
 	{
 		"kandji": "翻",
-		"katakana": "ホン ハン",
-		"hiragana": "ひるがえ.る ひるがえ.す",
+		"on":"ホン ハン",
+		"kun":"ひるがえ.る ひるがえ.す",
 		"eng": "flip, turn over, wave, flutter, change (mind)",
 		"russian": "Перелагать"
 	},
 	{
 		"kandji": "墜",
-		"katakana": "ツイ",
+		"on":"ツイ",
 		"eng": "crash, fall (down)",
 		"russian": "Свалиться"
 	},
 	{
 		"kandji": "沼",
-		"katakana": "ショウ",
-		"hiragana": "ぬま",
+		"on":"ショウ",
+		"kun":"ぬま",
 		"eng": "marsh, lake, bog, swamp, pond",
 		"russian": "Болото"
 	},
 	{
 		"kandji": "据",
-		"katakana": "キョ",
-		"hiragana": "す.える す.わる",
+		"on":"キョ",
+		"kun":"す.える す.わる",
 		"eng": "set, lay a foundation, install, equip, squat down, sit down",
 		"russian": "Устанавливать"
 	},
 	{
 		"kandji": "肥",
-		"katakana": "ヒ フト.",
-		"hiragana": "こ.える こえ こ.やす こ.やし",
+		"on":"ヒ フト.",
+		"kun":"こ.える こえ こ.やす こ.やし",
 		"eng": "fertilizer, get fat, fertile, manure, pamper",
 		"russian": "Удобрение"
 	},
 	{
 		"kandji": "徐",
-		"katakana": "ジョ",
-		"hiragana": "おもむ.ろに",
+		"on":"ジョ",
+		"kun":"おもむ.ろに",
 		"eng": "gradually, slowly, deliberately, gently",
 		"russian": "Медленно"
 	},
 	{
 		"kandji": "糖",
-		"katakana": "トウ",
+		"on":"トウ",
 		"eng": "sugar",
 		"russian": "Сахар"
 	},
 	{
 		"kandji": "搭",
-		"katakana": "トウ",
+		"on":"トウ",
 		"eng": "board, load (a vehicle), ride",
 		"russian": "Погрузка"
 	},
 	{
 		"kandji": "盾",
-		"katakana": "ジュン",
-		"hiragana": "たて",
+		"on":"ジュン",
+		"kun":"たて",
 		"eng": "shield, escutcheon, pretext",
 		"russian": "Щит"
 	},
 	{
 		"kandji": "脈",
-		"katakana": "ミャク",
-		"hiragana": "すじ",
+		"on":"ミャク",
+		"kun":"すじ",
 		"eng": "vein, pulse, hope",
 		"russian": "Жила"
 	},
 	{
 		"kandji": "滝",
-		"katakana": "ロウ ソウ タ",
+		"on":"ロウ ソウ タ",
 		"eng": "waterfall, rapids, cascade",
 		"russian": "Водопад"
 	},
 	{
 		"kandji": "軌",
-		"katakana": "キ",
+		"on":"キ",
 		"eng": "rut, wheel, track, model, way of doing",
 		"russian": "Колея"
 	},
 	{
 		"kandji": "俵",
-		"katakana": "ヒョウ",
-		"hiragana": "たわら",
+		"on":"ヒョウ",
+		"kun":"たわら",
 		"eng": "bag, bale, sack, counter for bags",
 		"russian": "Соломенный мешок"
 	},
 	{
 		"kandji": "妨",
-		"katakana": "ボウ",
-		"hiragana": "さまた.げる",
+		"on":"ボウ",
+		"kun":"さまた.げる",
 		"eng": "disturb, prevent, hamper, obstruct",
 		"russian": "Препятствовать"
 	},
 	{
 		"kandji": "擦",
-		"katakana": "サツ",
-		"hiragana": "す.る す.れる -ず.れ こす.る こす.れる",
+		"on":"サツ",
+		"kun":"す.る す.れる -ず.れ こす.る こす.れる",
 		"eng": "grate, rub, scratch, scrape, chafe, scour",
 		"russian": "Тереть"
 	},
 	{
 		"kandji": "鯨",
-		"katakana": "ゲイ",
-		"hiragana": "くじら",
+		"on":"ゲイ",
+		"kun":"くじら",
 		"eng": "whale",
 		"russian": "Кит"
 	},
 	{
 		"kandji": "荘",
-		"katakana": "ソウ ショウ チャン オゴソ.",
-		"hiragana": "ほうき",
+		"on":"ソウ ショウ チャン オゴソ.",
+		"kun":"ほうき",
 		"eng": "villa, inn, cottage, feudal manor",
 		"russian": "Дача"
 	},
 	{
 		"kandji": "諾",
-		"katakana": "ダク",
+		"on":"ダク",
 		"eng": "consent, assent, agreement",
 		"russian": "Согласие"
 	},
 	{
 		"kandji": "雷",
-		"katakana": "ライ カミナ",
+		"on":"ライ カミナ",
 		"eng": "thunder, lightening bolt",
 		"russian": "Гром"
 	},
 	{
 		"kandji": "漂",
-		"katakana": "ヒョウ",
-		"hiragana": "ただよ.う",
+		"on":"ヒョウ",
+		"kun":"ただよ.う",
 		"eng": "drift, float (on liquid)",
 		"russian": "Дрейф"
 	},
 	{
 		"kandji": "懐",
-		"katakana": "カイ エ オモ.",
-		"hiragana": "ふところ なつ.かしい なつ.かしむ なつ.く なつ.ける なず.ける いだ.く",
+		"on":"カイ エ オモ.",
+		"kun":"ふところ なつ.かしい なつ.かしむ なつ.く なつ.ける なず.ける いだ.く",
 		"eng": "pocket, feelings, heart, yearn, miss someone, become attached to, bosom, breast",
 		"russian": "Ностальгия"
 	},
 	{
 		"kandji": "勘",
-		"katakana": "カ",
+		"on":"カ",
 		"eng": "intuition, perception",
 		"russian": "Разбираться"
 	},
 	{
 		"kandji": "栽",
-		"katakana": "サイ",
+		"on":"サイ",
 		"eng": "plantation, planting",
 		"russian": "Выращивать"
 	},
 	{
 		"kandji": "拐",
-		"katakana": "カイ",
+		"on":"カイ",
 		"eng": "kidnap, falsify",
 		"russian": "Похищать"
 	},
 	{
 		"kandji": "駄",
-		"katakana": "ダ タ",
+		"on":"ダ タ",
 		"eng": "burdensome, pack horse, horse load, send by horse",
 		"russian": "Вьюк"
 	},
 	{
 		"kandji": "添",
-		"katakana": "テン モ.",
-		"hiragana": "そ.える そ.う も.える",
+		"on":"テン モ.",
+		"kun":"そ.える そ.う も.える",
 		"eng": "annexed, accompany, marry, suit, meet, satisfy, attach, append, garnish, imitate",
 		"russian": "Добавлять"
 	},
 	{
 		"kandji": "冠",
-		"katakana": "カン カンム",
+		"on":"カン カンム",
 		"eng": "crown, best, peerless",
 		"russian": "Корона"
 	},
 	{
 		"kandji": "斜",
-		"katakana": "シャ",
-		"hiragana": "なな.め はす",
+		"on":"シャ",
+		"kun":"なな.め はす",
 		"eng": "diagonal, slanting, oblique",
 		"russian": "Наискось"
 	},
 	{
 		"kandji": "鏡",
-		"katakana": "キョウ ケイ カガ",
+		"on":"キョウ ケイ カガ",
 		"eng": "mirror, speculum, barrel-head, round rice-cake offering",
 		"russian": "Зеркало"
 	},
 	{
 		"kandji": "聡",
-		"katakana": "ソウ ミミザト.",
-		"hiragana": "さと.い",
+		"on":"ソウ ミミザト.",
+		"kun":"さと.い",
 		"eng": "wise, fast learner",
 		"russian": "Сообразительный"
 	},
 	{
 		"kandji": "浪",
-		"katakana": "ロ",
+		"on":"ロ",
 		"eng": "wandering, waves, billows",
 		"russian": "Бродить"
 	},
 	{
 		"kandji": "亜",
-		"katakana": "ア アシア ツ.",
+		"on":"ア アシア ツ.",
 		"eng": "Asia, rank next, come after, -ous",
 		"russian": "Под-"
 	},
 	{
 		"kandji": "覧",
-		"katakana": "ラン",
-		"hiragana": "み.る",
+		"on":"ラン",
+		"kun":"み.る",
 		"eng": "perusal, see",
 		"russian": "Осматривать"
 	},
 	{
 		"kandji": "詐",
-		"katakana": "サ",
-		"hiragana": "いつわ.る",
+		"on":"サ",
+		"kun":"いつわ.る",
 		"eng": "lie, falsehood, deceive, pretend",
 		"russian": "Лгать"
 	},
 	{
 		"kandji": "壇",
-		"katakana": "ダン タン",
+		"on":"ダン タン",
 		"eng": "podium, stage, rostrum, terrace",
 		"russian": "Трибуна"
 	},
 	{
 		"kandji": "勲",
-		"katakana": "クン イサ",
+		"on":"クン イサ",
 		"eng": "meritorious deed, merit",
 		"russian": "Орден"
 	},
 	{
 		"kandji": "魔",
-		"katakana": "マ",
+		"on":"マ",
 		"eng": "witch, demon, evil spirit",
 		"russian": "Демон"
 	},
 	{
 		"kandji": "酬",
-		"katakana": "シュウ シュ トウ",
-		"hiragana": "むく.いる",
+		"on":"シュウ シュ トウ",
+		"kun":"むく.いる",
 		"eng": "repay, reward, retribution",
 		"russian": "Отплачивать"
 	},
 	{
 		"kandji": "紫",
-		"katakana": "シ ムラサ",
+		"on":"シ ムラサ",
 		"eng": "purple, violet",
 		"russian": "Фиолетовый"
 	},
 	{
 		"kandji": "曙",
-		"katakana": "ショ",
-		"hiragana": "あけぼの",
+		"on":"ショ",
+		"kun":"あけぼの",
 		"eng": "dawn, daybreak",
 		"russian": "Рассвет"
 	},
 	{
 		"kandji": "紋",
-		"katakana": "モ",
+		"on":"モ",
 		"eng": "family crest, figures",
 		"russian": "Герб"
 	},
 	{
 		"kandji": "卸",
-		"katakana": "シャ",
-		"hiragana": "おろ.す おろし おろ.し",
+		"on":"シャ",
+		"kun":"おろ.す おろし おろ.し",
 		"eng": "wholesale",
 		"russian": "Оптовый"
 	},
 	{
 		"kandji": "奮",
-		"katakana": "フン",
-		"hiragana": "ふる.う",
+		"on":"フン",
+		"kun":"ふる.う",
 		"eng": "stirred up, be invigorated, flourish",
 		"russian": "Воодушевление"
 	},
 	{
 		"kandji": "欄",
-		"katakana": "ラン",
-		"hiragana": "てすり",
+		"on":"ラン",
+		"kun":"てすり",
 		"eng": "column, handrail, blank, space",
 		"russian": "Столбец"
 	},
 	{
 		"kandji": "逸",
-		"katakana": "イツ ハグ.レ",
-		"hiragana": "そ.れる そ.らす",
+		"on":"イツ ハグ.レ",
+		"kun":"そ.れる そ.らす",
 		"eng": "deviate, idleness, leisure, miss the mark, evade, elude, parry, diverge",
 		"russian": "Отклоняться"
 	},
 	{
 		"kandji": "涯",
-		"katakana": "ガイ",
-		"hiragana": "はて",
+		"on":"ガイ",
+		"kun":"はて",
 		"eng": "horizon, shore",
 		"russian": "Предел"
 	},
 	{
 		"kandji": "拓",
-		"katakana": "タク ヒラ.",
+		"on":"タク ヒラ.",
 		"eng": "clear (the land), open, break up (land)",
 		"russian": "Поднимать целину"
 	},
 	{
 		"kandji": "眼",
-		"katakana": "ガン ゲン",
-		"hiragana": "まなこ め",
+		"on":"ガン ゲン",
+		"kun":"まなこ め",
 		"eng": "eyeball",
 		"russian": "Глаз"
 	},
 	{
 		"kandji": "獄",
-		"katakana": "ゴク",
+		"on":"ゴク",
 		"eng": "prison, jail",
 		"russian": "Тюрьма"
 	},
 	{
 		"kandji": "尚",
-		"katakana": "ショウ ナ",
+		"on":"ショウ ナ",
 		"eng": "esteem, furthermore, still, yet",
 		"russian": "Ещё"
 	},
 	{
 		"kandji": "彫",
-		"katakana": "チョウ",
-		"hiragana": "ほ.る -ぼ.り",
+		"on":"チョウ",
+		"kun":"ほ.る -ぼ.り",
 		"eng": "carve, engrave, chisel",
 		"russian": "Резьба"
 	},
 	{
 		"kandji": "穏",
-		"katakana": "オン",
-		"hiragana": "おだ.やか",
+		"on":"オン",
+		"kun":"おだ.やか",
 		"eng": "calm, quiet, moderation",
 		"russian": "Умеренный"
 	},
 	{
 		"kandji": "顕",
-		"katakana": "ケン アラワ.レ",
-		"hiragana": "あきらか",
+		"on":"ケン アラワ.レ",
+		"kun":"あきらか",
 		"eng": "appear, existing",
 		"russian": "Выявлять"
 	},
 	{
 		"kandji": "巧",
-		"katakana": "コウ ウマ.",
-		"hiragana": "たく.み たく.む",
+		"on":"コウ ウマ.",
+		"kun":"たく.み たく.む",
 		"eng": "adroit, skilled, ingenuity",
 		"russian": "Мастерство"
 	},
 	{
 		"kandji": "矛",
-		"katakana": "ム ボウ",
-		"hiragana": "ほこ",
+		"on":"ム ボウ",
+		"kun":"ほこ",
 		"eng": "halberd, arms, festival float",
 		"russian": "Копьё"
 	},
 	{
 		"kandji": "垣",
-		"katakana": "エン カ",
+		"on":"エン カ",
 		"eng": "hedge, fence, wall",
 		"russian": "Ограда"
 	},
 	{
 		"kandji": "欺",
-		"katakana": "ギ",
-		"hiragana": "あざむ.く",
+		"on":"ギ",
+		"kun":"あざむ.く",
 		"eng": "deceit, cheat, delude",
 		"russian": "Обман"
 	},
 	{
 		"kandji": "釣",
-		"katakana": "チョウ",
-		"hiragana": "つ.る つ.り つ.り",
+		"on":"チョウ",
+		"kun":"つ.る つ.り つ.り",
 		"eng": "angling, fish, catch, allure, ensnare",
 		"russian": "Удить"
 	},
 	{
 		"kandji": "萩",
-		"katakana": "シュウ ハ",
+		"on":"シュウ ハ",
 		"eng": "bush clover",
 		"russian": "Леспедеца"
 	},
 	{
 		"kandji": "粛",
-		"katakana": "シュク スク",
-		"hiragana": "つつし.む",
+		"on":"シュク スク",
+		"kun":"つつし.む",
 		"eng": "solemn, quietly, softly",
 		"russian": "Чистка"
 	},
 	{
 		"kandji": "栗",
-		"katakana": "リツ リ オノノ",
-		"hiragana": "くり",
+		"on":"リツ リ オノノ",
+		"kun":"くり",
 		"eng": "chestnut",
 		"russian": "Каштан"
 	},
 	{
 		"kandji": "愚",
-		"katakana": "グ",
-		"hiragana": "おろ.か",
+		"on":"グ",
+		"kun":"おろ.か",
 		"eng": "foolish, folly, absurdity, stupid",
 		"russian": "Глупый"
 	},
 	{
 		"kandji": "嘉",
-		"katakana": "カ ヨ",
-		"hiragana": "よみ.する",
+		"on":"カ ヨ",
+		"kun":"よみ.する",
 		"eng": "applaud, praise, esteem",
 		"russian": "Восхищаться"
 	},
 	{
 		"kandji": "遭",
-		"katakana": "ソウ",
-		"hiragana": "あ.う あ.わせる",
+		"on":"ソウ",
+		"kun":"あ.う あ.わせる",
 		"eng": "encounter, meet, party, association, interview, join",
 		"russian": "Быть застигнутым"
 	},
 	{
 		"kandji": "架",
-		"katakana": "カ",
-		"hiragana": "か.ける か.かる",
+		"on":"カ",
+		"kun":"か.ける か.かる",
 		"eng": "erect, frame, mount, support, shelf, construct",
 		"russian": "Подставка"
 	},
 	{
 		"kandji": "鬼",
-		"katakana": "キ",
-		"hiragana": "おに おに-",
+		"on":"キ",
+		"kun":"おに おに-",
 		"eng": "ghost, devil",
 		"russian": "Чёрт"
 	},
 	{
 		"kandji": "庶",
-		"katakana": "ショ",
+		"on":"ショ",
 		"eng": "commoner, all, bastard",
 		"russian": "Многочисленный"
 	},
 	{
 		"kandji": "稚",
-		"katakana": "チ ジ オデ",
-		"hiragana": "いとけない おさない おくて",
+		"on":"チ ジ オデ",
+		"kun":"いとけない おさない おくて",
 		"eng": "immature, young",
 		"russian": "Детский"
 	},
@@ -3899,370 +3899,370 @@
 	},
 	{
 		"kandji": "幻",
-		"katakana": "ゲン",
-		"hiragana": "まぼろし",
+		"on":"ゲン",
+		"kun":"まぼろし",
 		"eng": "phantasm, vision, dream, illusion, apparition",
 		"russian": "Призрак"
 	},
 	{
 		"kandji": "煮",
-		"katakana": "シャ",
-		"hiragana": "に.る -に に.える に.やす",
+		"on":"シャ",
+		"kun":"に.る -に に.える に.やす",
 		"eng": "boil, cook",
 		"russian": "Варить"
 	},
 	{
 		"kandji": "姫",
-		"katakana": "キ",
-		"hiragana": "ひめ ひめ-",
+		"on":"キ",
+		"kun":"ひめ ひめ-",
 		"eng": "princess",
 		"russian": "Барышня"
 	},
 	{
 		"kandji": "誓",
-		"katakana": "セイ",
-		"hiragana": "ちか.う",
+		"on":"セイ",
+		"kun":"ちか.う",
 		"eng": "vow, swear, pledge",
 		"russian": "Клятва"
 	},
 	{
 		"kandji": "把",
-		"katakana": "ハ",
+		"on":"ハ",
 		"eng": "grasp, faggot, bunch, counter for bundles",
 		"russian": "Вязанка"
 	},
 	{
 		"kandji": "践",
-		"katakana": "セン",
-		"hiragana": "ふ.む",
+		"on":"セン",
+		"kun":"ふ.む",
 		"eng": "tread, step on, trample, practice, carry through",
 		"russian": "Практика"
 	},
 	{
 		"kandji": "呈",
-		"katakana": "テイ",
+		"on":"テイ",
 		"eng": "display, offer, present, send, exhibit",
 		"russian": "Являть"
 	},
 	{
 		"kandji": "疎",
-		"katakana": "ソ ショ",
-		"hiragana": "うと.い うと.む まば.ら",
+		"on":"ソ ショ",
+		"kun":"うと.い うと.む まば.ら",
 		"eng": "alienate, rough, neglect, shun, sparse",
 		"russian": "Чуждаться"
 	},
 	{
 		"kandji": "仰",
-		"katakana": "ギョウ コウ",
-		"hiragana": "あお.ぐ おお.せ お.っしゃる おっしゃ.る",
+		"on":"ギョウ コウ",
+		"kun":"あお.ぐ おお.せ お.っしゃる おっしゃ.る",
 		"eng": "face-up, look up, depend, seek, respect, rever, drink, take",
 		"russian": "Смотреть вверх"
 	},
 	{
 		"kandji": "剛",
-		"katakana": "ゴ",
+		"on":"ゴ",
 		"eng": "sturdy, strength",
 		"russian": "Жёсткий"
 	},
 	{
 		"kandji": "疾",
-		"katakana": "シツ",
+		"on":"シツ",
 		"eng": "rapidly",
 		"russian": "Болезнь"
 	},
 	{
 		"kandji": "征",
-		"katakana": "セ",
+		"on":"セ",
 		"eng": "subjugate, attack the rebellious, collect taxes",
 		"russian": "Идти войной"
 	},
 	{
 		"kandji": "砕",
-		"katakana": "サイ",
-		"hiragana": "くだ.く くだ.ける",
+		"on":"サイ",
+		"kun":"くだ.く くだ.ける",
 		"eng": "smash, break, crush, familiar, popular",
 		"russian": "Раздроблять"
 	},
 	{
 		"kandji": "謡",
-		"katakana": "ヨウ",
-		"hiragana": "うた.い うた.う",
+		"on":"ヨウ",
+		"kun":"うた.い うた.う",
 		"eng": "noh chanting",
 		"russian": "Народная песня"
 	},
 	{
 		"kandji": "嫁",
-		"katakana": "カ",
-		"hiragana": "よめ とつ.ぐ",
+		"on":"カ",
+		"kun":"よめ とつ.ぐ",
 		"eng": "marry into, bride",
 		"russian": "Невеста"
 	},
 	{
 		"kandji": "謙",
-		"katakana": "ケ",
+		"on":"ケ",
 		"eng": "self-effacing, humble oneself, condescend, be modest",
 		"russian": "Скромность"
 	},
 	{
 		"kandji": "后",
-		"katakana": "コウ ゴ",
-		"hiragana": "きさき",
+		"on":"コウ ゴ",
+		"kun":"きさき",
 		"eng": "empress, queen, after, behind, back, later",
 		"russian": "Императрица"
 	},
 	{
 		"kandji": "嘆",
-		"katakana": "タン",
-		"hiragana": "なげ.く なげ.かわしい",
+		"on":"タン",
+		"kun":"なげ.く なげ.かわしい",
 		"eng": "sigh, lament, moan, grieve",
 		"russian": "Вздыхать"
 	},
 	{
 		"kandji": "菌",
-		"katakana": "キン",
+		"on":"キン",
 		"eng": "germ, fungus, bacteria",
 		"russian": "Микроб"
 	},
 	{
 		"kandji": "鎌",
-		"katakana": "レン ケン カ",
+		"on":"レン ケン カ",
 		"eng": "sickle, scythe, trick",
 		"russian": "Серп"
 	},
 	{
 		"kandji": "巣",
-		"katakana": "ソウ",
-		"hiragana": "す す.くう",
+		"on":"ソウ",
+		"kun":"す す.くう",
 		"eng": "nest, rookery, hive, cobweb, den",
 		"russian": "Гнездо"
 	},
 	{
 		"kandji": "頻",
-		"katakana": "ヒン",
-		"hiragana": "しき.りに",
+		"on":"ヒン",
+		"kun":"しき.りに",
 		"eng": "repeatedly, recur",
 		"russian": "Часто"
 	},
 	{
 		"kandji": "琴",
-		"katakana": "キン",
-		"hiragana": "こと",
+		"on":"キン",
+		"kun":"こと",
 		"eng": "harp, koto",
 		"russian": "Кото"
 	},
 	{
 		"kandji": "班",
-		"katakana": "ハン",
+		"on":"ハン",
 		"eng": "squad, corps, unit, group",
 		"russian": "Бригада"
 	},
 	{
 		"kandji": "棚",
-		"katakana": "ホウ",
-		"hiragana": "たな -だな",
+		"on":"ホウ",
+		"kun":"たな -だな",
 		"eng": "shelf, ledge, rack, mount, mantle, trellis",
 		"russian": "Полка"
 	},
 	{
 		"kandji": "潔",
-		"katakana": "ケツ イサギヨ.",
+		"on":"ケツ イサギヨ.",
 		"eng": "undefiled, pure, clean, righteous, gallant",
 		"russian": "Чистота"
 	},
 	{
 		"kandji": "酷",
-		"katakana": "コク",
-		"hiragana": "ひど.い",
+		"on":"コク",
+		"kun":"ひど.い",
 		"eng": "cruel, severe, atrocious, unjust",
 		"russian": "Жестокий"
 	},
 	{
 		"kandji": "宰",
-		"katakana": "サ",
+		"on":"サ",
 		"eng": "superintend, manager, rule",
 		"russian": "Руководить"
 	},
 	{
 		"kandji": "廊",
-		"katakana": "ロウ",
+		"on":"ロウ",
 		"eng": "corridor, hall, tower",
 		"russian": "Коридор"
 	},
 	{
 		"kandji": "寂",
-		"katakana": "ジャク セキ",
-		"hiragana": "さび さび.しい さび.れる さみ.しい",
+		"on":"ジャク セキ",
+		"kun":"さび さび.しい さび.れる さみ.しい",
 		"eng": "loneliness, quietly, mellow, mature, death of a priest",
 		"russian": "Одиночество"
 	},
 	{
 		"kandji": "辰",
-		"katakana": "シン ジン タ",
+		"on":"シン ジン タ",
 		"eng": "sign of the dragon, 7-9AM, fifth sign of Chinese zodiac",
 		"russian": "Знак Дракона"
 	},
 	{
 		"kandji": "霞",
-		"katakana": "カ ゲ",
-		"hiragana": "かすみ かす.む",
+		"on":"カ ゲ",
+		"kun":"かすみ かす.む",
 		"eng": "be hazy, grow dim, blurred",
 		"russian": "Дымка"
 	},
 	{
 		"kandji": "伏",
-		"katakana": "フク フ.",
-		"hiragana": "ふ.せる",
+		"on":"フク フ.",
+		"kun":"ふ.せる",
 		"eng": "prostrated, bend down, bow, cover, lay (pipes)",
 		"russian": "Ложиться"
 	},
 	{
 		"kandji": "碁",
-		"katakana": "ゴ",
+		"on":"ゴ",
 		"eng": "Go",
 		"russian": "Игра го"
 	},
 	{
 		"kandji": "俗",
-		"katakana": "ゾク",
+		"on":"ゾク",
 		"eng": "vulgar, customs, manners, worldliness, mundane things",
 		"russian": "Житейский"
 	},
 	{
 		"kandji": "漠",
-		"katakana": "バク",
+		"on":"バク",
 		"eng": "vague, obscure, desert, wide",
 		"russian": "Бескрайний"
 	},
 	{
 		"kandji": "邪",
-		"katakana": "ジャ",
-		"hiragana": "よこし.ま",
+		"on":"ジャ",
+		"kun":"よこし.ま",
 		"eng": "wicked, injustice, wrong",
 		"russian": "Дурной"
 	},
 	{
 		"kandji": "晶",
-		"katakana": "ショ",
+		"on":"ショ",
 		"eng": "sparkle, clear, crystal",
 		"russian": "Кристалл"
 	},
 	{
 		"kandji": "墨",
-		"katakana": "ボク ス",
+		"on":"ボク ス",
 		"eng": "black ink, India ink, ink stick, Mexico",
 		"russian": "Тушь"
 	},
 	{
 		"kandji": "鎮",
-		"katakana": "チン オサ",
-		"hiragana": "しず.める しず.まる",
+		"on":"チン オサ",
+		"kun":"しず.める しず.まる",
 		"eng": "tranquilize, ancient peace-preservation centers",
 		"russian": "Усмирять"
 	},
 	{
 		"kandji": "洞",
-		"katakana": "ドウ ホ",
+		"on":"ドウ ホ",
 		"eng": "den, cave, excavation",
 		"russian": "Пещера"
 	},
 	{
 		"kandji": "履",
-		"katakana": "リ",
-		"hiragana": "は.く",
+		"on":"リ",
+		"kun":"は.く",
 		"eng": "footgear, shoes, boots, put on (the feet",
 		"russian": "Осуществлять"
 	},
 	{
 		"kandji": "劣",
-		"katakana": "レツ",
-		"hiragana": "おと.る",
+		"on":"レツ",
+		"kun":"おと.る",
 		"eng": "inferiority, be inferior to, be worse",
 		"russian": "Хуже"
 	},
 	{
 		"kandji": "那",
-		"katakana": "ナ ダ イカ",
-		"hiragana": "なに なんぞ",
+		"on":"ナ ダ イカ",
+		"kun":"なに なんぞ",
 		"eng": "what?",
 		"russian": "Наха"
 	},
 	{
 		"kandji": "殴",
-		"katakana": "オウ",
-		"hiragana": "なぐ.る",
+		"on":"オウ",
+		"kun":"なぐ.る",
 		"eng": "assault, hit, beat, thrash",
 		"russian": "Бить"
 	},
 	{
 		"kandji": "娠",
-		"katakana": "シン",
+		"on":"シン",
 		"eng": "with child, pregnancy",
 		"russian": "Беременность"
 	},
 	{
 		"kandji": "奉",
-		"katakana": "ホウ ブ ホウ.ズ",
-		"hiragana": "たてまつ.る まつ.る",
+		"on":"ホウ ブ ホウ.ズ",
+		"kun":"たてまつ.る まつ.る",
 		"eng": "observance, offer, present, dedicate",
 		"russian": "Преподносить"
 	},
 	{
 		"kandji": "憂",
-		"katakana": "ユウ ウ.",
-		"hiragana": "うれ.える うれ.い う.い",
+		"on":"ユウ ウ.",
+		"kun":"うれ.える うれ.い う.い",
 		"eng": "melancholy, grieve, lament, be anxious, sad, unhappy",
 		"russian": "Беспокойство"
 	},
 	{
 		"kandji": "朴",
-		"katakana": "ボク",
-		"hiragana": "ほう ほお",
+		"on":"ボク",
+		"kun":"ほう ほお",
 		"eng": "crude, simple, plain, docile",
 		"russian": "Простодушный"
 	},
 	{
 		"kandji": "亭",
-		"katakana": "テイ チン",
+		"on":"テイ チン",
 		"eng": "pavilion, restaurant, mansion, arbor, cottage, vaudeville, music hall, stage name",
 		"russian": "Ресторан"
 	},
 	{
 		"kandji": "淳",
-		"katakana": "ジュン シュン アツ.",
+		"on":"ジュン シュン アツ.",
 		"eng": "pure",
 		"russian": "Чистосердечный"
 	},
 	{
 		"kandji": "怪",
-		"katakana": "カイ ケ",
-		"hiragana": "あや.しい あや.しむ",
+		"on":"カイ ケ",
+		"kun":"あや.しい あや.しむ",
 		"eng": "suspicious, mystery, apparition",
 		"russian": "Загадочный"
 	},
 	{
 		"kandji": "鳩",
-		"katakana": "キュウ ク アツ.メ",
-		"hiragana": "はと",
+		"on":"キュウ ク アツ.メ",
+		"kun":"はと",
 		"eng": "pigeon, dove",
 		"russian": "Голубь"
 	},
 	{
 		"kandji": "酔",
-		"katakana": "スイ",
-		"hiragana": "よ.う よ.い",
+		"on":"スイ",
+		"kun":"よ.う よ.い",
 		"eng": "drunk, feel sick, poisoned, elated, spellbound",
 		"russian": "Пьяный"
 	},
 	{
 		"kandji": "惜",
-		"katakana": "セキ",
-		"hiragana": "お.しい お.しむ",
+		"on":"セキ",
+		"kun":"お.しい お.しむ",
 		"eng": "pity, be sparing of, frugal, stingy, regret",
 		"russian": "Жалко"
 	},
 	{
 		"kandji": "穫",
-		"katakana": "カク",
+		"on":"カク",
 		"eng": "harvest, reap",
 		"russian": "Урожай"
 	},
@@ -4273,2592 +4273,2592 @@
 	},
 	{
 		"kandji": "潤",
-		"katakana": "ジュン ウル.",
-		"hiragana": "うるお.う うるお.す",
+		"on":"ジュン ウル.",
+		"kun":"うるお.う うるお.す",
 		"eng": "wet, be watered, profit by, receive benefits, favor, charm, steep",
 		"russian": "Влажный"
 	},
 	{
 		"kandji": "悼",
-		"katakana": "トウ",
-		"hiragana": "いた.む",
+		"on":"トウ",
+		"kun":"いた.む",
 		"eng": "lament, grieve over",
 		"russian": "Оплакивать"
 	},
 	{
 		"kandji": "乏",
-		"katakana": "ボウ",
-		"hiragana": "とぼ.しい とも.しい",
+		"on":"ボウ",
+		"kun":"とぼ.しい とも.しい",
 		"eng": "destitution, scarce, limited",
 		"russian": "Скудный"
 	},
 	{
 		"kandji": "該",
-		"katakana": "ガイ",
+		"on":"ガイ",
 		"eng": "above-stated, the said, that specific",
 		"russian": "Вышеупомянутый"
 	},
 	{
 		"kandji": "赴",
-		"katakana": "フ",
-		"hiragana": "おもむ.く",
+		"on":"フ",
+		"kun":"おもむ.く",
 		"eng": "proceed, get, become, tend",
 		"russian": "Направляться"
 	},
 	{
 		"kandji": "桑",
-		"katakana": "ソウ ク",
+		"on":"ソウ ク",
 		"eng": "mulberry",
 		"russian": "Тутовое дерево"
 	},
 	{
 		"kandji": "桂",
-		"katakana": "ケイ カツ",
+		"on":"ケイ カツ",
 		"eng": "Japanese Judas-tree, cinnamon tree",
 		"russian": "Багряник"
 	},
 	{
 		"kandji": "髄",
-		"katakana": "ズイ",
+		"on":"ズイ",
 		"eng": "marrow, pith",
 		"russian": "Костный мозг"
 	},
 	{
 		"kandji": "虎",
-		"katakana": "コ ト",
+		"on":"コ ト",
 		"eng": "tiger, drunkard",
 		"russian": "Тигр"
 	},
 	{
 		"kandji": "盆",
-		"katakana": "ボン",
+		"on":"ボン",
 		"eng": "basin, lantern festival, tray",
 		"russian": "Поднос"
 	},
 	{
 		"kandji": "晋",
-		"katakana": "シン スス.",
+		"on":"シン スス.",
 		"eng": "advance",
 		"russian": "Династия Цзинь"
 	},
 	{
 		"kandji": "穂",
-		"katakana": "スイ",
+		"on":"スイ",
 		"eng": "ear, ear (grain), head, crest (wave)",
 		"russian": "Колос"
 	},
 	{
 		"kandji": "壮",
-		"katakana": "ソウ サカ",
+		"on":"ソウ サカ",
 		"eng": "robust, manhood, prosperity",
 		"russian": "Энергичный"
 	},
 	{
 		"kandji": "堤",
-		"katakana": "テイ",
-		"hiragana": "つつみ",
+		"on":"テイ",
+		"kun":"つつみ",
 		"eng": "dike, bank, embankment",
 		"russian": "Дамба"
 	},
 	{
 		"kandji": "飢",
-		"katakana": "キ",
-		"hiragana": "う.える",
+		"on":"キ",
+		"kun":"う.える",
 		"eng": "hungry, starve",
 		"russian": "Голод"
 	},
 	{
 		"kandji": "傍",
-		"katakana": "ボウ ソ",
-		"hiragana": "かたわ.ら わき おか- はた",
+		"on":"ボウ ソ",
+		"kun":"かたわ.ら わき おか- はた",
 		"eng": "bystander, side, besides, while, nearby, 3rd person",
 		"russian": "Сбоку"
 	},
 	{
 		"kandji": "疫",
-		"katakana": "エキ ヤク",
+		"on":"エキ ヤク",
 		"eng": "epidemic",
 		"russian": "Эпидемия"
 	},
 	{
 		"kandji": "累",
-		"katakana": "ルイ",
+		"on":"ルイ",
 		"eng": "accumulate, involvement, trouble, tie up, continually",
 		"russian": "Накапливаться"
 	},
 	{
 		"kandji": "痴",
-		"katakana": "チ",
-		"hiragana": "し.れる おろか",
+		"on":"チ",
+		"kun":"し.れる おろか",
 		"eng": "stupid, foolish",
 		"russian": "Слабоумие"
 	},
 	{
 		"kandji": "搬",
-		"katakana": "ハン",
+		"on":"ハン",
 		"eng": "conveyor, carry, transport",
 		"russian": "Перевозить"
 	},
 	{
 		"kandji": "晃",
-		"katakana": "コウ アキラ",
+		"on":"コウ アキラ",
 		"eng": "clear",
 		"russian": "Ослепительный"
 	},
 	{
 		"kandji": "癒",
-		"katakana": "ユ",
-		"hiragana": "い.える いや.す",
+		"on":"ユ",
+		"kun":"い.える いや.す",
 		"eng": "healing, cure, quench (thirst), wreak",
 		"russian": "Заживать"
 	},
 	{
 		"kandji": "桐",
-		"katakana": "トウ ドウ キ",
+		"on":"トウ ドウ キ",
 		"eng": "paulownia",
 		"russian": "Павлония"
 	},
 	{
 		"kandji": "寸",
-		"katakana": "ス",
+		"on":"ス",
 		"eng": "measurement, foot, 10",
 		"russian": "Дюйм"
 	},
 	{
 		"kandji": "郭",
-		"katakana": "カク クル",
+		"on":"カク クル",
 		"eng": "enclosure, quarters, fortification, red-light district",
 		"russian": "Ограждённая площадь"
 	},
 	{
 		"kandji": "尿",
-		"katakana": "ニョウ",
+		"on":"ニョウ",
 		"eng": "urine",
 		"russian": "Моча"
 	},
 	{
 		"kandji": "凶",
-		"katakana": "キョウ",
+		"on":"キョウ",
 		"eng": "villain, evil, bad luck, disaster",
 		"russian": "Несчастье"
 	},
 	{
 		"kandji": "吐",
-		"katakana": "ト",
-		"hiragana": "は.く つ.く",
+		"on":"ト",
+		"kun":"は.く つ.く",
 		"eng": "spit, vomit, belch, confess, tell (lies)",
 		"russian": "Изрыгать"
 	},
 	{
 		"kandji": "宴",
-		"katakana": "エン ウタ",
+		"on":"エン ウタ",
 		"eng": "banquet, feast, party",
 		"russian": "Банкет"
 	},
 	{
 		"kandji": "鷹",
-		"katakana": "ヨウ オウ",
-		"hiragana": "たか",
+		"on":"ヨウ オウ",
+		"kun":"たか",
 		"eng": "hawk",
 		"russian": "Сокол"
 	},
 	{
 		"kandji": "賓",
-		"katakana": "ヒン",
+		"on":"ヒン",
 		"eng": "V.I.P., guest",
 		"russian": "Почётный гость"
 	},
 	{
 		"kandji": "虜",
-		"katakana": "リョ ロ",
-		"hiragana": "とりこ とりく",
+		"on":"リョ ロ",
+		"kun":"とりこ とりく",
 		"eng": "captive, barbarian, low epithet for the enemy",
 		"russian": "Пленный"
 	},
 	{
 		"kandji": "陶",
-		"katakana": "ト",
+		"on":"ト",
 		"eng": "pottery, porcelain",
 		"russian": "Гончарное дело"
 	},
 	{
 		"kandji": "鐘",
-		"katakana": "ショウ",
-		"hiragana": "かね",
+		"on":"ショウ",
+		"kun":"かね",
 		"eng": "bell, gong, chimes",
 		"russian": "Колокол"
 	},
 	{
 		"kandji": "憾",
-		"katakana": "カン",
-		"hiragana": "うら.む",
+		"on":"カン",
+		"kun":"うら.む",
 		"eng": "remorse, regret, be sorry",
 		"russian": "Сожалеть"
 	},
 	{
 		"kandji": "猪",
-		"katakana": "チョ イノシ",
-		"hiragana": "い",
+		"on":"チョ イノシ",
+		"kun":"い",
 		"eng": "boar",
 		"russian": "Кабан"
 	},
 	{
 		"kandji": "紘",
-		"katakana": "コウ ツナ",
-		"hiragana": "おおづな つな",
+		"on":"コウ ツナ",
+		"kun":"おおづな つな",
 		"eng": "large",
 		"russian": "Стороны"
 	},
 	{
 		"kandji": "磁",
-		"katakana": "ジ",
+		"on":"ジ",
 		"eng": "magnet, porcelain",
 		"russian": "Магнит"
 	},
 	{
 		"kandji": "弥",
-		"katakana": "ミ ビ ワタ.",
-		"hiragana": "いや や あまねし いよいよ とおい ひさし ひさ.しい",
+		"on":"ミ ビ ワタ.",
+		"kun":"いや や あまねし いよいよ とおい ひさし ひさ.しい",
 		"eng": "all the more, increasingly",
 		"russian": "Ещё больше"
 	},
 	{
 		"kandji": "昆",
-		"katakana": "コン",
+		"on":"コン",
 		"eng": "descendants, elder brother, insect",
 		"russian": "Насекомое"
 	},
 	{
 		"kandji": "粗",
-		"katakana": "ソ",
-		"hiragana": "あら.い あら-",
+		"on":"ソ",
+		"kun":"あら.い あら-",
 		"eng": "coarse, rough, rugged",
 		"russian": "Грубый"
 	},
 	{
 		"kandji": "訂",
-		"katakana": "テイ",
+		"on":"テイ",
 		"eng": "revise, correct, decide",
 		"russian": "Исправлять"
 	},
 	{
 		"kandji": "芽",
-		"katakana": "ガ",
+		"on":"ガ",
 		"eng": "bud, sprout, spear, germ",
 		"russian": "Бутон"
 	},
 	{
 		"kandji": "庄",
-		"katakana": "ショウ ソ ソウ ホ",
+		"on":"ショウ ソ ソウ ホ",
 		"eng": "level",
 		"russian": "Поместье"
 	},
 	{
 		"kandji": "傘",
-		"katakana": "サン",
-		"hiragana": "かさ",
+		"on":"サン",
+		"kun":"かさ",
 		"eng": "umbrella",
 		"russian": "Зонтик"
 	},
 	{
 		"kandji": "敦",
-		"katakana": "トン タイ ダン チョウ アツ.",
+		"on":"トン タイ ダン チョウ アツ.",
 		"eng": "industry, kindliness",
 		"russian": "Чистосердечный"
 	},
 	{
 		"kandji": "騎",
-		"katakana": "キ",
+		"on":"キ",
 		"eng": "equestrian, riding on horses, counter for equestrians",
 		"russian": "Всадник"
 	},
 	{
 		"kandji": "寧",
-		"katakana": "ネイ ムシ.",
+		"on":"ネイ ムシ.",
 		"eng": "rather, preferably",
 		"russian": "Вежливый"
 	},
 	{
 		"kandji": "循",
-		"katakana": "ジュン",
+		"on":"ジュン",
 		"eng": "sequential, fellow",
 		"russian": "Циркуляция"
 	},
 	{
 		"kandji": "忍",
-		"katakana": "ニン シノ.バセ",
-		"hiragana": "しの.ぶ",
+		"on":"ニン シノ.バセ",
+		"kun":"しの.ぶ",
 		"eng": "endure, bear, put up with, conceal, secrete, spy, sneak",
 		"russian": "Ниндзя"
 	},
 	{
 		"kandji": "怠",
-		"katakana": "タイ",
-		"hiragana": "おこた.る なま.ける",
+		"on":"タイ",
+		"kun":"おこた.る なま.ける",
 		"eng": "neglect, laziness",
 		"russian": "Лень"
 	},
 	{
 		"kandji": "如",
-		"katakana": "ジョ ニョ ゴト.",
+		"on":"ジョ ニョ ゴト.",
 		"eng": "likeness, like, such as, as if, better, best, equal",
 		"russian": "Подобно"
 	},
 	{
 		"kandji": "寮",
-		"katakana": "リョウ",
+		"on":"リョウ",
 		"eng": "dormitory, hostel, villa, tea pavillion",
 		"russian": "Общежитие"
 	},
 	{
 		"kandji": "祐",
-		"katakana": "ユウ ウ タス.ケ",
+		"on":"ユウ ウ タス.ケ",
 		"eng": "help",
 		"russian": "Помощь"
 	},
 	{
 		"kandji": "鵬",
-		"katakana": "ホウ",
-		"hiragana": "おおとり",
+		"on":"ホウ",
+		"kun":"おおとり",
 		"eng": "phoenix",
 		"russian": "Птица Хо"
 	},
 	{
 		"kandji": "鉛",
-		"katakana": "エン",
-		"hiragana": "なまり",
+		"on":"エン",
+		"kun":"なまり",
 		"eng": "lead",
 		"russian": "Свинец"
 	},
 	{
 		"kandji": "珠",
-		"katakana": "シュ タ",
+		"on":"シュ タ",
 		"eng": "pearl, gem, jewel",
 		"russian": "Жемчуг"
 	},
 	{
 		"kandji": "凝",
-		"katakana": "ギョウ",
-		"hiragana": "こ.る こ.らす こご.らす こご.らせる こご.る",
+		"on":"ギョウ",
+		"kun":"こ.る こ.らす こご.らす こご.らせる こご.る",
 		"eng": "congeal, freeze, stiff, be absorbed in",
 		"russian": "Застывать"
 	},
 	{
 		"kandji": "苗",
-		"katakana": "ビョウ ミョウ",
-		"hiragana": "なえ なわ",
+		"on":"ビョウ ミョウ",
+		"kun":"なえ なわ",
 		"eng": "seedling, sapling, shoot",
 		"russian": "Рассада"
 	},
 	{
 		"kandji": "獣",
-		"katakana": "ジュウ",
-		"hiragana": "けもの けだもの",
+		"on":"ジュウ",
+		"kun":"けもの けだもの",
 		"eng": "animal, beast",
 		"russian": "Зверь"
 	},
 	{
 		"kandji": "哀",
-		"katakana": "アイ",
-		"hiragana": "あわ.れ あわ.れむ かな.しい",
+		"on":"アイ",
+		"kun":"あわ.れ あわ.れむ かな.しい",
 		"eng": "pathetic, grief, sorrow, pathos, pity, sympathize",
 		"russian": "Печаль"
 	},
 	{
 		"kandji": "跳",
-		"katakana": "チョウ",
-		"hiragana": "は.ねる と.ぶ -と.び",
+		"on":"チョウ",
+		"kun":"は.ねる と.ぶ -と.び",
 		"eng": "hop, leap up, spring, jerk, prance, buck, splash, sputter, snap",
 		"russian": "Прыгать"
 	},
 	{
 		"kandji": "匠",
-		"katakana": "ショウ",
-		"hiragana": "たくみ",
+		"on":"ショウ",
+		"kun":"たくみ",
 		"eng": "artisan, workman, carpenter",
 		"russian": "Мастер"
 	},
 	{
 		"kandji": "垂",
-		"katakana": "スイ ナンナント.",
-		"hiragana": "た.れる た.らす た.れ -た.れ",
+		"on":"スイ ナンナント.",
+		"kun":"た.れる た.らす た.れ -た.れ",
 		"eng": "droop, suspend, hang, slouch",
 		"russian": "Висеть"
 	},
 	{
 		"kandji": "蛇",
-		"katakana": "ジャ ダ イ ヤ ヘ",
+		"on":"ジャ ダ イ ヤ ヘ",
 		"eng": "snake, serpent, hard drinker",
 		"russian": "Змея"
 	},
 	{
 		"kandji": "澄",
-		"katakana": "チョウ -ス.マ",
-		"hiragana": "す.む す.ます",
+		"on":"チョウ -ス.マ",
+		"kun":"す.む す.ます",
 		"eng": "lucidity, be clear, clear, clarify, settle, strain, look grave",
 		"russian": "Отстояться"
 	},
 	{
 		"kandji": "縫",
-		"katakana": "ホウ ヌ.",
+		"on":"ホウ ヌ.",
 		"eng": "sew, stitch, embroider",
 		"russian": "Шить"
 	},
 	{
 		"kandji": "僧",
-		"katakana": "ソウ",
+		"on":"ソウ",
 		"eng": "Buddhist priest, monk",
 		"russian": "Бонза"
 	},
 	{
 		"kandji": "眺",
-		"katakana": "チョウ",
-		"hiragana": "なが.める",
+		"on":"チョウ",
+		"kun":"なが.める",
 		"eng": "stare, watch, look at, see, scrutinize",
 		"russian": "Глядеть"
 	},
 	{
 		"kandji": "亘",
-		"katakana": "コウ カン モト.メ",
-		"hiragana": "わた.る",
+		"on":"コウ カン モト.メ",
+		"kun":"わた.る",
 		"eng": "span, request",
 		"russian": "Тянуться"
 	},
 	{
 		"kandji": "呉",
-		"katakana": "ゴ ク",
-		"hiragana": "く.れる",
+		"on":"ゴ ク",
+		"kun":"く.れる",
 		"eng": "give, do something for",
 		"russian": "Делать для кого-л."
 	},
 	{
 		"kandji": "凡",
-		"katakana": "ボン ハン スベ.",
-		"hiragana": "およ.そ おうよ.そ",
+		"on":"ボン ハン スベ.",
+		"kun":"およ.そ おうよ.そ",
 		"eng": "mediocre",
 		"russian": "Посредственный"
 	},
 	{
 		"kandji": "憩",
-		"katakana": "ケイ",
-		"hiragana": "いこ.い いこ.う",
+		"on":"ケイ",
+		"kun":"いこ.い いこ.う",
 		"eng": "recess, rest, relax, repose",
 		"russian": "Передышка"
 	},
 	{
 		"kandji": "媛",
-		"katakana": "エン",
-		"hiragana": "ひめ",
+		"on":"エン",
+		"kun":"ひめ",
 		"eng": "beautiful woman, princess",
 		"russian": "Барышня"
 	},
 	{
 		"kandji": "溝",
-		"katakana": "コウ ミ",
+		"on":"コウ ミ",
 		"eng": "gutter, ditch, sewer, drain, 10**32",
 		"russian": "Канава"
 	},
 	{
 		"kandji": "恭",
-		"katakana": "キョウ ウヤウヤ.シ",
+		"on":"キョウ ウヤウヤ.シ",
 		"eng": "respect, reverent",
 		"russian": "Почтительный"
 	},
 	{
 		"kandji": "刈",
-		"katakana": "ガイ カイ カ.",
+		"on":"ガイ カイ カ.",
 		"eng": "reap, cut, clip, trim, prune",
 		"russian": "Косить"
 	},
 	{
 		"kandji": "睡",
-		"katakana": "スイ",
+		"on":"スイ",
 		"eng": "drowsy, sleep, die",
 		"russian": "Сон"
 	},
 	{
 		"kandji": "錯",
-		"katakana": "サク シャク",
+		"on":"サク シャク",
 		"eng": "confused, mix, be in disorder",
 		"russian": "Запутываться"
 	},
 	{
 		"kandji": "伯",
-		"katakana": "ハ",
+		"on":"ハ",
 		"eng": "chief, count, earl, uncle, Brazil",
 		"russian": "Граф"
 	},
 	{
 		"kandji": "笹",
-		"katakana": "サ",
+		"on":"サ",
 		"eng": "bamboo grass",
 		"russian": "Низкорослый бамбук"
 	},
 	{
 		"kandji": "穀",
-		"katakana": "コ",
+		"on":"コ",
 		"eng": "cereals, grain",
 		"russian": "Зерно"
 	},
 	{
 		"kandji": "陵",
-		"katakana": "リョウ",
-		"hiragana": "みささぎ",
+		"on":"リョウ",
+		"kun":"みささぎ",
 		"eng": "mausoleum, imperial tomb",
 		"russian": "Усыпальница"
 	},
 	{
 		"kandji": "霧",
-		"katakana": "ム ボウ ブ",
-		"hiragana": "きり",
+		"on":"ム ボウ ブ",
+		"kun":"きり",
 		"eng": "fog, mist",
 		"russian": "Туман"
 	},
 	{
 		"kandji": "魂",
-		"katakana": "コン",
-		"hiragana": "たましい たま",
+		"on":"コン",
+		"kun":"たましい たま",
 		"eng": "soul, spirit",
 		"russian": "Душа"
 	},
 	{
 		"kandji": "弊",
-		"katakana": "ヘイ",
+		"on":"ヘイ",
 		"eng": "abuse, evil, vice, breakage",
 		"russian": "Зло"
 	},
 	{
 		"kandji": "妃",
-		"katakana": "ヒ キサ",
+		"on":"ヒ キサ",
 		"eng": "queen, princess",
 		"russian": "Принцесса"
 	},
 	{
 		"kandji": "舶",
-		"katakana": "ハク",
+		"on":"ハク",
 		"eng": "liner, ship",
 		"russian": "Лайнер"
 	},
 	{
 		"kandji": "餓",
-		"katakana": "ガ",
-		"hiragana": "う.える",
+		"on":"ガ",
+		"kun":"う.える",
 		"eng": "starve, hungry, thirst",
 		"russian": "Голод"
 	},
 	{
 		"kandji": "窮",
-		"katakana": "キュウ キョウ",
-		"hiragana": "きわ.める きわ.まる きわ.まり きわ.み",
+		"on":"キュウ キョウ",
+		"kun":"きわ.める きわ.まる きわ.まり きわ.み",
 		"eng": "hard up, destitute, suffer, perplexed, cornered",
 		"russian": "Тяжёлое положение"
 	},
 	{
 		"kandji": "掌",
-		"katakana": "ショウ",
-		"hiragana": "てのひら たなごころ",
+		"on":"ショウ",
+		"kun":"てのひら たなごころ",
 		"eng": "manipulate, rule, administer, conduct, palm of hand",
 		"russian": "Ладонь"
 	},
 	{
 		"kandji": "麗",
-		"katakana": "レイ ウラ.ラ",
-		"hiragana": "うるわ.しい",
+		"on":"レイ ウラ.ラ",
+		"kun":"うるわ.しい",
 		"eng": "lovely, companion",
 		"russian": "Прекрасный"
 	},
 	{
 		"kandji": "綾",
-		"katakana": "リン ア",
+		"on":"リン ア",
 		"eng": "design, figured cloth, twill",
 		"russian": "Узорчатый"
 	},
 	{
 		"kandji": "臭",
-		"katakana": "シュウ",
-		"hiragana": "くさ.い -くさ.い にお.う にお.い",
+		"on":"シュウ",
+		"kun":"くさ.い -くさ.い にお.う にお.い",
 		"eng": "stinking, ill-smelling, suspicious looking, odor, savor, fragrance, be fragrant, stink, glow, be bright",
 		"russian": "Зловоние"
 	},
 	{
 		"kandji": "悦",
-		"katakana": "エツ ヨロコ.バ",
-		"hiragana": "よろこ.ぶ",
+		"on":"エツ ヨロコ.バ",
+		"kun":"よろこ.ぶ",
 		"eng": "ecstasy, joy, rapture",
 		"russian": "Восторг"
 	},
 	{
 		"kandji": "刃",
-		"katakana": "ジン ニン キ.",
-		"hiragana": "は やいば",
+		"on":"ジン ニン キ.",
+		"kun":"は やいば",
 		"eng": "blade, sword, edge",
 		"russian": "Клинок"
 	},
 	{
 		"kandji": "縛",
-		"katakana": "バク",
-		"hiragana": "しば.る",
+		"on":"バク",
+		"kun":"しば.る",
 		"eng": "truss, arrest, bind, tie, restrain",
 		"russian": "Связывать"
 	},
 	{
 		"kandji": "暦",
-		"katakana": "レキ",
-		"hiragana": "こよみ",
+		"on":"レキ",
+		"kun":"こよみ",
 		"eng": "calendar, almanac",
 		"russian": "Календарь"
 	},
 	{
 		"kandji": "宜",
-		"katakana": "ギ ヨロ.シ",
-		"hiragana": "よろ.しい",
+		"on":"ギ ヨロ.シ",
+		"kun":"よろ.しい",
 		"eng": "best regards, good",
 		"russian": "Благоприятный"
 	},
 	{
 		"kandji": "盲",
-		"katakana": "モウ",
-		"hiragana": "めくら",
+		"on":"モウ",
+		"kun":"めくら",
 		"eng": "blind, blind man, ignoramus",
 		"russian": "Слепой"
 	},
 	{
 		"kandji": "粋",
-		"katakana": "スイ",
-		"hiragana": "いき",
+		"on":"スイ",
+		"kun":"いき",
 		"eng": "chic, style, purity, essence, pith, cream, elite, choice",
 		"russian": "Изысканный"
 	},
 	{
 		"kandji": "辱",
-		"katakana": "ジョク",
-		"hiragana": "はずかし.める",
+		"on":"ジョク",
+		"kun":"はずかし.める",
 		"eng": "embarrass, humiliate, shame",
 		"russian": "Унижать"
 	},
 	{
 		"kandji": "毅",
-		"katakana": "キ ギ ツヨ.",
+		"on":"キ ギ ツヨ.",
 		"eng": "strong",
 		"russian": "Решительность"
 	},
 	{
 		"kandji": "轄",
-		"katakana": "カツ",
-		"hiragana": "くさび",
+		"on":"カツ",
+		"kun":"くさび",
 		"eng": "control, wedge",
 		"russian": "Юрисдикция"
 	},
 	{
 		"kandji": "猿",
-		"katakana": "エン サ",
+		"on":"エン サ",
 		"eng": "monkey",
 		"russian": "Обезьяна"
 	},
 	{
 		"kandji": "弦",
-		"katakana": "ゲン",
-		"hiragana": "つる",
+		"on":"ゲン",
+		"kun":"つる",
 		"eng": "bowstring, chord, hypotenuse",
 		"russian": "Тетива"
 	},
 	{
 		"kandji": "稔",
-		"katakana": "ネン ジン ニン ミノ",
-		"hiragana": "みの.る",
+		"on":"ネン ジン ニン ミノ",
+		"kun":"みの.る",
 		"eng": "harvest, ripen",
 		"russian": "Созревать"
 	},
 	{
 		"kandji": "窒",
-		"katakana": "チツ",
+		"on":"チツ",
 		"eng": "plug up, obstruct",
 		"russian": "Удушье"
 	},
 	{
 		"kandji": "炊",
-		"katakana": "スイ -ダ.",
-		"hiragana": "た.く",
+		"on":"スイ -ダ.",
+		"kun":"た.く",
 		"eng": "cook, boil",
 		"russian": "Готовить пищу"
 	},
 	{
 		"kandji": "洪",
-		"katakana": "コ",
+		"on":"コ",
 		"eng": "deluge, flood, vast",
 		"russian": "Наводнение"
 	},
 	{
 		"kandji": "摂",
-		"katakana": "セツ ショウ ト.",
-		"hiragana": "おさ.める かね.る",
+		"on":"セツ ショウ ト.",
+		"kun":"おさ.める かね.る",
 		"eng": "vicarious, surrogate, act in addition to",
 		"russian": "Регент"
 	},
 	{
 		"kandji": "飽",
-		"katakana": "ホウ ア.",
-		"hiragana": "あ.きる あ.かす",
+		"on":"ホウ ア.",
+		"kun":"あ.きる あ.かす",
 		"eng": "sated, tired of, bored, satiate",
 		"russian": "Приедаться"
 	},
 	{
 		"kandji": "冗",
-		"katakana": "ジョウ",
+		"on":"ジョウ",
 		"eng": "superfluous, uselessness",
 		"russian": "Избыточный"
 	},
 	{
 		"kandji": "桃",
-		"katakana": "トウ モ",
+		"on":"トウ モ",
 		"eng": "peach tree",
 		"russian": "Персик"
 	},
 	{
 		"kandji": "狩",
-		"katakana": "シュ -ガ.",
-		"hiragana": "か.る か.り",
+		"on":"シュ -ガ.",
+		"kun":"か.る か.り",
 		"eng": "hunt, raid, gather",
 		"russian": "Охотиться"
 	},
 	{
 		"kandji": "朱",
-		"katakana": "シュ ア",
+		"on":"シュ ア",
 		"eng": "vermilion, cinnabar, scarlet, red, bloody",
 		"russian": "Киноварь"
 	},
 	{
 		"kandji": "渦",
-		"katakana": "カ",
-		"hiragana": "うず",
+		"on":"カ",
+		"kun":"うず",
 		"eng": "whirlpool, eddy, vortex",
 		"russian": "Водоворот"
 	},
 	{
 		"kandji": "紳",
-		"katakana": "シ",
+		"on":"シ",
 		"eng": "sire, good belt, gentleman",
 		"russian": "Джентльмен"
 	},
 	{
 		"kandji": "枢",
-		"katakana": "スウ シュ",
-		"hiragana": "とぼそ からくり",
+		"on":"スウ シュ",
+		"kun":"とぼそ からくり",
 		"eng": "hinge, pivot, door",
 		"russian": "Ось"
 	},
 	{
 		"kandji": "碑",
-		"katakana": "ヒ",
-		"hiragana": "いしぶみ",
+		"on":"ヒ",
+		"kun":"いしぶみ",
 		"eng": "tombstone, monument",
 		"russian": "Надгробие"
 	},
 	{
 		"kandji": "鍛",
-		"katakana": "タン キタ.エ",
+		"on":"タン キタ.エ",
 		"eng": "forge, discipline, train",
 		"russian": "Ковать"
 	},
 	{
 		"kandji": "刀",
-		"katakana": "トウ ソ",
-		"hiragana": "かたな",
+		"on":"トウ ソ",
+		"kun":"かたな",
 		"eng": "sword, saber, knife",
 		"russian": "Катана"
 	},
 	{
 		"kandji": "鼓",
-		"katakana": "コ",
-		"hiragana": "つづみ",
+		"on":"コ",
+		"kun":"つづみ",
 		"eng": "drum, beat, rouse, muster",
 		"russian": "Барабан"
 	},
 	{
 		"kandji": "裸",
-		"katakana": "ラ",
-		"hiragana": "はだか",
+		"on":"ラ",
+		"kun":"はだか",
 		"eng": "naked, nude, uncovered, partially clothed",
 		"russian": "Голый"
 	},
 	{
 		"kandji": "猶",
-		"katakana": "ユウ ユ",
-		"hiragana": "なお",
+		"on":"ユウ ユ",
+		"kun":"なお",
 		"eng": "furthermore, still, yet",
 		"russian": "Еврей"
 	},
 	{
 		"kandji": "塊",
-		"katakana": "カイ ケ",
-		"hiragana": "かたまり つちくれ",
+		"on":"カイ ケ",
+		"kun":"かたまり つちくれ",
 		"eng": "clod, lump, chink, clot, mass",
 		"russian": "Кусок"
 	},
 	{
 		"kandji": "旋",
-		"katakana": "セン",
+		"on":"セン",
 		"eng": "rotation, go around",
 		"russian": "Вертеться"
 	},
 	{
 		"kandji": "弓",
-		"katakana": "キュウ ユ",
+		"on":"キュウ ユ",
 		"eng": "bow, bow (archery, violin)",
 		"russian": "Лук"
 	},
 	{
 		"kandji": "幣",
-		"katakana": "ヘイ ヌ",
+		"on":"ヘイ ヌ",
 		"eng": "cash, bad habit, humble prefix, gift, Shinto offerings of cloth, rope, cut paper",
 		"russian": "Валюта"
 	},
 	{
 		"kandji": "膜",
-		"katakana": "マク",
+		"on":"マク",
 		"eng": "membrane",
 		"russian": "Перепонка"
 	},
 	{
 		"kandji": "扇",
-		"katakana": "セン オウ",
+		"on":"セン オウ",
 		"eng": "fan, folding fan",
 		"russian": "Веер"
 	},
 	{
 		"kandji": "腸",
-		"katakana": "チョウ",
-		"hiragana": "はらわた",
+		"on":"チョウ",
+		"kun":"はらわた",
 		"eng": "intestines, guts, bowels, viscera",
 		"russian": "Кишечник"
 	},
 	{
 		"kandji": "槽",
-		"katakana": "ソウ",
-		"hiragana": "ふね",
+		"on":"ソウ",
+		"kun":"ふね",
 		"eng": "vat, tub, tank",
 		"russian": "Цистерна"
 	},
 	{
 		"kandji": "慈",
-		"katakana": "ジ イツク.シ",
+		"on":"ジ イツク.シ",
 		"eng": "mercy",
 		"russian": "Привязанность"
 	},
 	{
 		"kandji": "楊",
-		"katakana": "ヨウ ヤナ",
-		"hiragana": "かわ",
+		"on":"ヨウ ヤナ",
+		"kun":"かわ",
 		"eng": "willow",
 		"russian": "Ива"
 	},
 	{
 		"kandji": "伐",
-		"katakana": "バツ ハツ カ ボチ",
-		"hiragana": "き.る そむ.く う.つ",
+		"on":"バツ ハツ カ ボチ",
+		"kun":"き.る そむ.く う.つ",
 		"eng": "fell, strike, attack, punish",
 		"russian": "Рубить"
 	},
 	{
 		"kandji": "駿",
-		"katakana": "シュン スン スグ.レ",
+		"on":"シュン スン スグ.レ",
 		"eng": "a good horse, speed, a fast person",
 		"russian": "Быстроногий"
 	},
 	{
 		"kandji": "漬",
-		"katakana": "シ",
-		"hiragana": "つ.ける つ.かる -づ.け -づけ",
+		"on":"シ",
+		"kun":"つ.ける つ.かる -づ.け -づけ",
 		"eng": "pickling, soak, moisten, steep",
 		"russian": "Мариновать"
 	},
 	{
 		"kandji": "糾",
-		"katakana": "キュウ",
-		"hiragana": "ただ.す",
+		"on":"キュウ",
+		"kun":"ただ.す",
 		"eng": "twist, ask, investigate, verify",
 		"russian": "Разузнавать"
 	},
 	{
 		"kandji": "亮",
-		"katakana": "リョウ アキラ",
+		"on":"リョウ アキラ",
 		"eng": "clear, help",
 		"russian": "Имена"
 	},
 	{
 		"kandji": "墳",
-		"katakana": "フン",
+		"on":"フン",
 		"eng": "tomb, mound",
 		"russian": "Курган"
 	},
 	{
 		"kandji": "坪",
-		"katakana": "ヘイ",
-		"hiragana": "つぼ",
+		"on":"ヘイ",
+		"kun":"つぼ",
 		"eng": "two-mat area, ~36 sq ft",
 		"russian": "Цубо"
 	},
 	{
 		"kandji": "紺",
-		"katakana": "コン",
+		"on":"コン",
 		"eng": "dark blue, navy",
 		"russian": "Тёмно-синий"
 	},
 	{
 		"kandji": "娯",
-		"katakana": "ゴ",
+		"on":"ゴ",
 		"eng": "recreation, pleasure",
 		"russian": "Веселиться"
 	},
 	{
 		"kandji": "椿",
-		"katakana": "チン チュン ツバ",
+		"on":"チン チュン ツバ",
 		"eng": "camellia",
 		"russian": "Камелия"
 	},
 	{
 		"kandji": "舌",
-		"katakana": "ゼツ",
-		"hiragana": "した",
+		"on":"ゼツ",
+		"kun":"した",
 		"eng": "tongue, reed, clapper",
 		"russian": "Язык"
 	},
 	{
 		"kandji": "羅",
-		"katakana": "ラ",
+		"on":"ラ",
 		"eng": "gauze, thin silk, Rome",
 		"russian": "Тонкий шёлк"
 	},
 	{
 		"kandji": "峡",
-		"katakana": "キョウ コウ ハザ",
+		"on":"キョウ コウ ハザ",
 		"eng": "gorge, ravine",
 		"russian": "Ущелье"
 	},
 	{
 		"kandji": "俸",
-		"katakana": "ホウ",
+		"on":"ホウ",
 		"eng": "stipend, salary",
 		"russian": "Жалованье"
 	},
 	{
 		"kandji": "厘",
-		"katakana": "リン",
+		"on":"リン",
 		"eng": "rin, 1, 10sen, 1, 10bu",
 		"russian": "Самая малость"
 	},
 	{
 		"kandji": "峰",
-		"katakana": "ホウ",
-		"hiragana": "みね",
+		"on":"ホウ",
+		"kun":"みね",
 		"eng": "summit, peak",
 		"russian": "Вершина"
 	},
 	{
 		"kandji": "圭",
-		"katakana": "ケイ",
+		"on":"ケイ",
 		"eng": "square jewel, corner, angle, edge",
 		"russian": "Яшмовый скипетр"
 	},
 	{
 		"kandji": "醸",
-		"katakana": "ジョウ",
-		"hiragana": "かも.す",
+		"on":"ジョウ",
+		"kun":"かも.す",
 		"eng": "brew, cause",
 		"russian": "Варить пиво"
 	},
 	{
 		"kandji": "蓮",
-		"katakana": "レン",
-		"hiragana": "はす はちす",
+		"on":"レン",
+		"kun":"はす はちす",
 		"eng": "lotus",
 		"russian": "Лотос"
 	},
 	{
 		"kandji": "弔",
-		"katakana": "チョウ",
-		"hiragana": "とむら.う とぶら.う",
+		"on":"チョウ",
+		"kun":"とむら.う とぶら.う",
 		"eng": "condolences, mourning, funeral",
 		"russian": "Соболезновать"
 	},
 	{
 		"kandji": "乙",
-		"katakana": "オツ イツ",
-		"hiragana": "おと- きのと",
+		"on":"オツ イツ",
+		"kun":"おと- きのと",
 		"eng": "the latter, duplicate, strange, witty",
 		"russian": "Второй"
 	},
 	{
 		"kandji": "汁",
-		"katakana": "ジュウ",
-		"hiragana": "しる -しる つゆ",
+		"on":"ジュウ",
+		"kun":"しる -しる つゆ",
 		"eng": "soup, juice, broth, sap, gravy, pus",
 		"russian": "Суп"
 	},
 	{
 		"kandji": "尼",
-		"katakana": "ニ",
-		"hiragana": "あま",
+		"on":"ニ",
+		"kun":"あま",
 		"eng": "nun",
 		"russian": "Монахиня"
 	},
 	{
 		"kandji": "遍",
-		"katakana": "ヘン",
-		"hiragana": "あまね.く",
+		"on":"ヘン",
+		"kun":"あまね.く",
 		"eng": "everywhere, times, widely, generally",
 		"russian": "Вездесущий"
 	},
 	{
 		"kandji": "衡",
-		"katakana": "コ",
+		"on":"コ",
 		"eng": "equilibrium, measuring rod, scale",
 		"russian": "Равновесие"
 	},
 	{
 		"kandji": "薫",
-		"katakana": "クン カオ.",
+		"on":"クン カオ.",
 		"eng": "send forth fragrance, fragrant, be scented, smoke (tobacco)",
 		"russian": "Благоухать"
 	},
 	{
 		"kandji": "猟",
-		"katakana": "リョウ レフ",
-		"hiragana": "かり か.る",
+		"on":"リョウ レフ",
+		"kun":"かり か.る",
 		"eng": "game-hunting, shooting, game, bag",
 		"russian": "Охота"
 	},
 	{
 		"kandji": "羊",
-		"katakana": "ヨウ ヒツ",
+		"on":"ヨウ ヒツ",
 		"eng": "sheep",
 		"russian": "Овца"
 	},
 	{
 		"kandji": "款",
-		"katakana": "カ",
+		"on":"カ",
 		"eng": "goodwill, article, section, friendship, collusion",
 		"russian": "Параграф"
 	},
 	{
 		"kandji": "閲",
-		"katakana": "エツ",
-		"hiragana": "けみ.する",
+		"on":"エツ",
+		"kun":"けみ.する",
 		"eng": "review, inspection, revision",
 		"russian": "Просматривать"
 	},
 	{
 		"kandji": "偵",
-		"katakana": "テイ",
+		"on":"テイ",
 		"eng": "spy",
 		"russian": "Выслеживать"
 	},
 	{
 		"kandji": "喝",
-		"katakana": "カツ",
+		"on":"カツ",
 		"eng": "hoarse, scold",
 		"russian": "Орать"
 	},
 	{
 		"kandji": "敢",
-		"katakana": "カン",
-		"hiragana": "あ.えて あ.えない あ.えず",
+		"on":"カン",
+		"kun":"あ.えて あ.えない あ.えず",
 		"eng": "daring, sad, tragic, pitiful, frail, feeble",
 		"russian": "Решительный"
 	},
 	{
 		"kandji": "胎",
-		"katakana": "タイ",
+		"on":"タイ",
 		"eng": "womb, uterus",
 		"russian": "Зародыш"
 	},
 	{
 		"kandji": "酵",
-		"katakana": "コウ",
+		"on":"コウ",
 		"eng": "fermentation",
 		"russian": "Дрожжи"
 	},
 	{
 		"kandji": "憤",
-		"katakana": "フン",
-		"hiragana": "いきどお.る",
+		"on":"フン",
+		"kun":"いきどお.る",
 		"eng": "aroused, resent, be indignant, anger",
 		"russian": "Негодовать"
 	},
 	{
 		"kandji": "豚",
-		"katakana": "トン",
-		"hiragana": "ぶた",
+		"on":"トン",
+		"kun":"ぶた",
 		"eng": "pork, pig",
 		"russian": "Свинья"
 	},
 	{
 		"kandji": "遮",
-		"katakana": "シャ",
-		"hiragana": "さえぎ.る",
+		"on":"シャ",
+		"kun":"さえぎ.る",
 		"eng": "intercept, interrupt, obstruct",
 		"russian": "Преграждать"
 	},
 	{
 		"kandji": "扉",
-		"katakana": "ヒ",
-		"hiragana": "とびら",
+		"on":"ヒ",
+		"kun":"とびら",
 		"eng": "front door, title page, front page",
 		"russian": "Створчатая дверь"
 	},
 	{
 		"kandji": "硫",
-		"katakana": "リュウ",
+		"on":"リュウ",
 		"eng": "sulphur",
 		"russian": "Сера"
 	},
 	{
 		"kandji": "赦",
-		"katakana": "シャ",
+		"on":"シャ",
 		"eng": "pardon, forgiveness",
 		"russian": "Щадить"
 	},
 	{
 		"kandji": "窃",
-		"katakana": "セツ",
-		"hiragana": "ぬす.む ひそ.か",
+		"on":"セツ",
+		"kun":"ぬす.む ひそ.か",
 		"eng": "stealth, steal, secret, private, hushed",
 		"russian": "Красть"
 	},
 	{
 		"kandji": "泡",
-		"katakana": "ホウ",
-		"hiragana": "あわ",
+		"on":"ホウ",
+		"kun":"あわ",
 		"eng": "bubbles, foam, suds, froth",
 		"russian": "Пена"
 	},
 	{
 		"kandji": "瑞",
-		"katakana": "ズイ スイ シル",
-		"hiragana": "みず-",
+		"on":"ズイ スイ シル",
+		"kun":"みず-",
 		"eng": "congratulations",
 		"russian": "Добрый знак"
 	},
 	{
 		"kandji": "又",
-		"katakana": "ユウ",
-		"hiragana": "また また- また.の",
+		"on":"ユウ",
+		"kun":"また また- また.の",
 		"eng": "or again, furthermore, on the other hand",
 		"russian": "Опять"
 	},
 	{
 		"kandji": "慨",
-		"katakana": "ガイ",
+		"on":"ガイ",
 		"eng": "rue, be sad, sigh, lament",
 		"russian": "Скорбеть"
 	},
 	{
 		"kandji": "紡",
-		"katakana": "ボウ",
-		"hiragana": "つむ.ぐ",
+		"on":"ボウ",
+		"kun":"つむ.ぐ",
 		"eng": "spinning",
 		"russian": "Прясть"
 	},
 	{
 		"kandji": "恨",
-		"katakana": "コン",
-		"hiragana": "うら.む うら.めしい",
+		"on":"コン",
+		"kun":"うら.む うら.めしい",
 		"eng": "regret, bear a grudge, resentment, malice, hatred",
 		"russian": "Обида"
 	},
 	{
 		"kandji": "肪",
-		"katakana": "ボウ",
+		"on":"ボウ",
 		"eng": "obese, fat",
 		"russian": "Жир"
 	},
 	{
 		"kandji": "扶",
-		"katakana": "フ",
-		"hiragana": "たす.ける",
+		"on":"フ",
+		"kun":"たす.ける",
 		"eng": "aid, help, assist",
 		"russian": "Денежная поддержка"
 	},
 	{
 		"kandji": "戯",
-		"katakana": "ギ ゲ",
-		"hiragana": "たわむ.れる ざ.れる じゃ.れる",
+		"on":"ギ ゲ",
+		"kun":"たわむ.れる ざ.れる じゃ.れる",
 		"eng": "frolic, play, sport",
 		"russian": "Забава"
 	},
 	{
 		"kandji": "伍",
-		"katakana": "ゴ イツ",
+		"on":"ゴ イツ",
 		"eng": "5, 5-man squad, file, line",
 		"russian": "Пять солдат"
 	},
 	{
 		"kandji": "忌",
-		"katakana": "キ イ.マワシ",
-		"hiragana": "い.む い.み",
+		"on":"キ イ.マワシ",
+		"kun":"い.む い.み",
 		"eng": "mourning, abhor, detestable, death anniversary",
 		"russian": "Воздерживаться"
 	},
 	{
 		"kandji": "濁",
-		"katakana": "ダク ジョク ニゴ.",
-		"hiragana": "にご.る",
+		"on":"ダク ジョク ニゴ.",
+		"kun":"にご.る",
 		"eng": "voiced, uncleanness, wrong, nigori, impurity",
 		"russian": "Мутный"
 	},
 	{
 		"kandji": "奔",
-		"katakana": "ホン",
+		"on":"ホン",
 		"eng": "bustle, run",
 		"russian": "Беготня"
 	},
 	{
 		"kandji": "斗",
-		"katakana": "ト ト",
+		"on":"ト ト",
 		"eng": "Big Dipper, 10 sho (vol), sake dipper",
 		"russian": "Ковш"
 	},
 	{
 		"kandji": "蘭",
-		"katakana": "ラン",
+		"on":"ラン",
 		"eng": "orchid, Holland",
 		"russian": "Орхидея"
 	},
 	{
 		"kandji": "迅",
-		"katakana": "ジン",
+		"on":"ジン",
 		"eng": "swift, fast",
 		"russian": "Быстрый"
 	},
 	{
 		"kandji": "肖",
-		"katakana": "ショウ",
-		"hiragana": "あやか.る",
+		"on":"ショウ",
+		"kun":"あやか.る",
 		"eng": "resemblance",
 		"russian": "Сходство"
 	},
 	{
 		"kandji": "鉢",
-		"katakana": "ハチ ハツ",
+		"on":"ハチ ハツ",
 		"eng": "bowl, rice tub, pot, crown",
 		"russian": "Горшок"
 	},
 	{
 		"kandji": "朽",
-		"katakana": "キュウ ク.チ",
+		"on":"キュウ ク.チ",
 		"eng": "decay, rot, remain in seclusion",
 		"russian": "Гнить"
 	},
 	{
 		"kandji": "殻",
-		"katakana": "カク コク バイ",
-		"hiragana": "から がら",
+		"on":"カク コク バイ",
+		"kun":"から がら",
 		"eng": "husk, nut shell",
 		"russian": "Скорлупа"
 	},
 	{
 		"kandji": "享",
-		"katakana": "キョウ コウ ウ.ケ",
+		"on":"キョウ コウ ウ.ケ",
 		"eng": "receive, undergo, answer (phone), take, get, catch",
 		"russian": "Получать"
 	},
 	{
 		"kandji": "秦",
-		"katakana": "シン ハ",
+		"on":"シン ハ",
 		"eng": "Manchu dynasty, name given to naturalized foreigners",
 		"russian": "Династия Цинь"
 	},
 	{
 		"kandji": "茅",
-		"katakana": "ボウ ミョウ チガ",
-		"hiragana": "かや",
+		"on":"ボウ ミョウ チガ",
+		"kun":"かや",
 		"eng": "miscanthus reed",
 		"russian": "Материал для кровли"
 	},
 	{
 		"kandji": "藩",
-		"katakana": "ハン",
+		"on":"ハン",
 		"eng": "clan, enclosure",
 		"russian": "Клан"
 	},
 	{
 		"kandji": "沙",
-		"katakana": "サ シャ",
-		"hiragana": "すな よなげる",
+		"on":"サ シャ",
+		"kun":"すな よなげる",
 		"eng": "sand",
 		"russian": "Песок"
 	},
 	{
 		"kandji": "輔",
-		"katakana": "ホ フ タス.ケ",
+		"on":"ホ フ タス.ケ",
 		"eng": "help",
 		"russian": "Содействие"
 	},
 	{
 		"kandji": "媒",
-		"katakana": "バイ",
+		"on":"バイ",
 		"eng": "mediator, go-between",
 		"russian": "Посредник"
 	},
 	{
 		"kandji": "鶏",
-		"katakana": "ケイ",
-		"hiragana": "にわとり とり",
+		"on":"ケイ",
+		"kun":"にわとり とり",
 		"eng": "chicken",
 		"russian": "Курица"
 	},
 	{
 		"kandji": "禅",
-		"katakana": "ゼン セン",
-		"hiragana": "しずか ゆず.る",
+		"on":"ゼン セン",
+		"kun":"しずか ゆず.る",
 		"eng": "Zen, silent meditation",
 		"russian": "Дзэн-буддизм"
 	},
 	{
 		"kandji": "嘱",
-		"katakana": "ショク",
-		"hiragana": "しょく.する たの.む",
+		"on":"ショク",
+		"kun":"しょく.する たの.む",
 		"eng": "entrust, request, send a message",
 		"russian": "Поручать"
 	},
 	{
 		"kandji": "胴",
-		"katakana": "ドウ",
+		"on":"ドウ",
 		"eng": "trunk, torso, hull (ship), hub of wheel",
 		"russian": "Туловище"
 	},
 	{
 		"kandji": "迭",
-		"katakana": "テツ",
+		"on":"テツ",
 		"eng": "transfer, alternation",
 		"russian": "Чередование"
 	},
 	{
 		"kandji": "挿",
-		"katakana": "ソウ",
-		"hiragana": "さ.す はさ.む",
+		"on":"ソウ",
+		"kun":"さ.す はさ.む",
 		"eng": "insert, put in, graft, wear (sword)",
 		"russian": "Вставлять"
 	},
 	{
 		"kandji": "嵐",
-		"katakana": "ラン アラ",
+		"on":"ラン アラ",
 		"eng": "storm, tempest",
 		"russian": "Буря"
 	},
 	{
 		"kandji": "椎",
-		"katakana": "ツイ スイ ウ.",
-		"hiragana": "つち",
+		"on":"ツイ スイ ウ.",
+		"kun":"つち",
 		"eng": "oak, mallet",
 		"russian": "Позвонок"
 	},
 	{
 		"kandji": "絹",
-		"katakana": "ケン",
-		"hiragana": "きぬ",
+		"on":"ケン",
+		"kun":"きぬ",
 		"eng": "silk",
 		"russian": "Шёлк"
 	},
 	{
 		"kandji": "陪",
-		"katakana": "バイ",
+		"on":"バイ",
 		"eng": "obeisance, follow, accompany, attend on",
 		"russian": "Принимать участие"
 	},
 	{
 		"kandji": "剖",
-		"katakana": "ボウ",
+		"on":"ボウ",
 		"eng": "divide",
 		"russian": "Вскрытие"
 	},
 	{
 		"kandji": "譜",
-		"katakana": "フ",
+		"on":"フ",
 		"eng": "musical score, music, note, staff, table, genealogy",
 		"russian": "Ноты"
 	},
 	{
 		"kandji": "郁",
-		"katakana": "イ",
+		"on":"イ",
 		"eng": "cultural progress, perfume",
 		"russian": "Благоухающий"
 	},
 	{
 		"kandji": "悠",
-		"katakana": "ユ",
+		"on":"ユ",
 		"eng": "permanence, distant, long time, leisure",
 		"russian": "Неторопливый"
 	},
 	{
 		"kandji": "淑",
-		"katakana": "シュク シト.ヤ",
+		"on":"シュク シト.ヤ",
 		"eng": "graceful, gentle, pure",
 		"russian": "Грациозный"
 	},
 	{
 		"kandji": "帆",
-		"katakana": "ハン",
-		"hiragana": "ほ",
+		"on":"ハン",
+		"kun":"ほ",
 		"eng": "sail",
 		"russian": "Парус"
 	},
 	{
 		"kandji": "暁",
-		"katakana": "ギョウ キョウ サト.",
-		"hiragana": "あかつき",
+		"on":"ギョウ キョウ サト.",
+		"kun":"あかつき",
 		"eng": "daybreak, dawn, in the event",
 		"russian": "Рассвет"
 	},
 	{
 		"kandji": "傑",
-		"katakana": "ケ",
+		"on":"ケ",
 		"eng": "greatness, excellence",
 		"russian": "Выдающийся"
 	},
 	{
 		"kandji": "楠",
-		"katakana": "ナン ダン ゼン ネン クスノ",
-		"hiragana": "くす",
+		"on":"ナン ダン ゼン ネン クスノ",
+		"kun":"くす",
 		"eng": "camphor tree",
 		"russian": "Камфарное дерево"
 	},
 	{
 		"kandji": "笛",
-		"katakana": "テキ フ",
+		"on":"テキ フ",
 		"eng": "flute, clarinet, pipe, whistle, bagpipe, piccolo",
 		"russian": "Флейта"
 	},
 	{
 		"kandji": "玲",
-		"katakana": "レ",
+		"on":"レ",
 		"eng": "sound of jewels",
 		"russian": "Звон драгоценностей"
 	},
 	{
 		"kandji": "奴",
-		"katakana": "ド ヤッ",
-		"hiragana": "やつ",
+		"on":"ド ヤッ",
+		"kun":"やつ",
 		"eng": "guy, slave, manservant, fellow",
 		"russian": "Парень"
 	},
 	{
 		"kandji": "錠",
-		"katakana": "ジョウ",
+		"on":"ジョウ",
 		"eng": "lock, fetters, shackles",
 		"russian": "Замо´к"
 	},
 	{
 		"kandji": "拳",
-		"katakana": "ケン ゲン",
-		"hiragana": "こぶし",
+		"on":"ケン ゲン",
+		"kun":"こぶし",
 		"eng": "fist",
 		"russian": "Кулак"
 	},
 	{
 		"kandji": "翔",
-		"katakana": "ショウ ト.",
-		"hiragana": "かけ.る",
+		"on":"ショウ ト.",
+		"kun":"かけ.る",
 		"eng": "soar, fly",
 		"russian": "Полёт"
 	},
 	{
 		"kandji": "遷",
-		"katakana": "セン",
-		"hiragana": "うつ.る うつ.す みやこがえ",
+		"on":"セン",
+		"kun":"うつ.る うつ.す みやこがえ",
 		"eng": "transition, move, change",
 		"russian": "Перемещать"
 	},
 	{
 		"kandji": "拙",
-		"katakana": "セツ",
-		"hiragana": "つたな.い",
+		"on":"セツ",
+		"kun":"つたな.い",
 		"eng": "bungling, clumsy, unskillful",
 		"russian": "Неумелый"
 	},
 	{
 		"kandji": "侍",
-		"katakana": "ジ シ ハベ.",
-		"hiragana": "さむらい",
+		"on":"ジ シ ハベ.",
+		"kun":"さむらい",
 		"eng": "waiter, samurai, wait upon, serve",
 		"russian": "Самурай"
 	},
 	{
 		"kandji": "尺",
-		"katakana": "シャ",
+		"on":"シャ",
 		"eng": "shaku, Japanese foot, measure, scale, rule",
 		"russian": "Мера длины"
 	},
 	{
 		"kandji": "峠",
-		"hiragana": "とうげ",
+		"kun":"とうげ",
 		"eng": "mountain peak, mountain pass, climax, crest, (kokuji)",
 		"russian": "Перевал"
 	},
 	{
 		"kandji": "篤",
-		"katakana": "トク",
-		"hiragana": "あつ.い",
+		"on":"トク",
+		"kun":"あつ.い",
 		"eng": "fervent, kind, cordial, serious, deliberate",
 		"russian": "Преданный"
 	},
 	{
 		"kandji": "肇",
-		"katakana": "チョウ ジョウ トウ ハジ",
-		"hiragana": "はじ.める",
+		"on":"チョウ ジョウ トウ ハジ",
+		"kun":"はじ.める",
 		"eng": "beginning",
 		"russian": "Основывать"
 	},
 	{
 		"kandji": "渇",
-		"katakana": "カツ",
-		"hiragana": "かわ.く",
+		"on":"カツ",
+		"kun":"かわ.く",
 		"eng": "thirst, dry up, parch",
 		"russian": "Жажда"
 	},
 	{
 		"kandji": "叔",
-		"katakana": "シュ",
+		"on":"シュ",
 		"eng": "uncle, youth",
 		"russian": "Дядя"
 	},
 	{
 		"kandji": "雌",
-		"katakana": "シ",
-		"hiragana": "め- めす めん",
+		"on":"シ",
+		"kun":"め- めす めん",
 		"eng": "feminine, female",
 		"russian": "Самка"
 	},
 	{
 		"kandji": "亨",
-		"katakana": "コウ キョウ ホウ タテマツ.",
+		"on":"コウ キョウ ホウ タテマツ.",
 		"eng": "undergo, answer (phone), take, get, catch",
 		"russian": "Благополучие"
 	},
 	{
 		"kandji": "堪",
-		"katakana": "カン タン",
-		"hiragana": "た.える たま.る こ.らえる こた.える",
+		"on":"カン タン",
+		"kun":"た.える たま.る こ.らえる こた.える",
 		"eng": "withstand, endure, support, resist",
 		"russian": "Терпеть"
 	},
 	{
 		"kandji": "叙",
-		"katakana": "ジョ",
-		"hiragana": "つい.ず ついで",
+		"on":"ジョ",
+		"kun":"つい.ず ついで",
 		"eng": "confer, relate, narrate, describe",
 		"russian": "Описывать"
 	},
 	{
 		"kandji": "酢",
-		"katakana": "サク",
-		"hiragana": "す",
+		"on":"サク",
+		"kun":"す",
 		"eng": "vinegar, sour, acid, tart",
 		"russian": "Уксус"
 	},
 	{
 		"kandji": "吟",
-		"katakana": "ギン",
+		"on":"ギン",
 		"eng": "versify, singing, recital",
 		"russian": "Читать нараспев"
 	},
 	{
 		"kandji": "逓",
-		"katakana": "テイ",
-		"hiragana": "かわ.る たがいに",
+		"on":"テイ",
+		"kun":"かわ.る たがいに",
 		"eng": "relay, in turn, sending",
 		"russian": "Почтовая связь"
 	},
 	{
 		"kandji": "嶺",
-		"katakana": "レイ リョ",
+		"on":"レイ リョ",
 		"eng": "peak, summit",
 		"russian": "Пик"
 	},
 	{
 		"kandji": "甚",
-		"katakana": "ジン ハナハ.ダシ",
-		"hiragana": "はなは.だ",
+		"on":"ジン ハナハ.ダシ",
+		"kun":"はなは.だ",
 		"eng": "tremendously, very, great, exceedingly",
 		"russian": "Чрезвычайно"
 	},
 	{
 		"kandji": "喬",
-		"katakana": "キョウ タカ.",
+		"on":"キョウ タカ.",
 		"eng": "high, boasting",
 		"russian": "Высокий"
 	},
 	{
 		"kandji": "崇",
-		"katakana": "スウ アガ.メ",
+		"on":"スウ アガ.メ",
 		"eng": "adore, respect, revere, worship",
 		"russian": "Почитать"
 	},
 	{
 		"kandji": "漆",
-		"katakana": "シツ ウル",
+		"on":"シツ ウル",
 		"eng": "lacquer, varnish, seven",
 		"russian": "Лак"
 	},
 	{
 		"kandji": "岬",
-		"katakana": "コウ ミサ",
+		"on":"コウ ミサ",
 		"eng": "headland, cape, spit, promontory",
 		"russian": "Мыс"
 	},
 	{
 		"kandji": "癖",
-		"katakana": "ヘキ",
-		"hiragana": "くせ くせ.に",
+		"on":"ヘキ",
+		"kun":"くせ くせ.に",
 		"eng": "mannerism, habit, vice, trait, fault, kink",
 		"russian": "Привычка"
 	},
 	{
 		"kandji": "愉",
-		"katakana": "ユ タノ.シ",
-		"hiragana": "たの.しい",
+		"on":"ユ タノ.シ",
+		"kun":"たの.しい",
 		"eng": "pleasure, happy, rejoice",
 		"russian": "Приятный"
 	},
 	{
 		"kandji": "寅",
-		"katakana": "イン ト",
+		"on":"イン ト",
 		"eng": "sign of the tiger, 3-5AM, third sign of Chinese zodiac",
 		"russian": "Знак Тигра"
 	},
 	{
 		"kandji": "礁",
-		"katakana": "ショウ",
+		"on":"ショウ",
 		"eng": "reef, sunken rock",
 		"russian": "Риф"
 	},
 	{
 		"kandji": "乃",
-		"katakana": "ナイ ダイ ノ アイ ナン",
-		"hiragana": "の すなわ.ち",
+		"on":"ナイ ダイ ノ アイ ナン",
+		"kun":"の すなわ.ち",
 		"eng": "from, possessive particle, whereupon, accordingly",
 		"russian": "Родительный падеж"
 	},
 	{
 		"kandji": "洲",
-		"katakana": "シュウ ス",
-		"hiragana": "しま",
+		"on":"シュウ ス",
+		"kun":"しま",
 		"eng": "continent, sandbar, island, country",
 		"russian": "Мель"
 	},
 	{
 		"kandji": "屯",
-		"katakana": "トン",
+		"on":"トン",
 		"eng": "barracks, police station, camp",
 		"russian": "Военный лагерь"
 	},
 	{
 		"kandji": "樺",
-		"katakana": "カ カン",
-		"hiragana": "かば",
+		"on":"カ カン",
+		"kun":"かば",
 		"eng": "birch",
 		"russian": "Берёза"
 	},
 	{
 		"kandji": "槙",
-		"katakana": "テン シン",
-		"hiragana": "まき こずえ",
+		"on":"テン シン",
+		"kun":"まき こずえ",
 		"eng": "twig, ornamental evergreen",
 		"russian": "Подокарп"
 	},
 	{
 		"kandji": "姻",
-		"katakana": "イン",
+		"on":"イン",
 		"eng": "matrimony, marry",
 		"russian": "Брачное родство"
 	},
 	{
 		"kandji": "巌",
-		"katakana": "ガン ケワ.シ",
-		"hiragana": "いわ いわお",
+		"on":"ガン ケワ.シ",
+		"kun":"いわ いわお",
 		"eng": "rock, crag, boulder",
 		"russian": "Утёс"
 	},
 	{
 		"kandji": "擬",
-		"katakana": "ギ",
-		"hiragana": "まが.い もど.き",
+		"on":"ギ",
+		"kun":"まが.い もど.き",
 		"eng": "mimic, aim (a gun) at, nominate, imitate",
 		"russian": "Имитация"
 	},
 	{
 		"kandji": "塀",
-		"katakana": "ヘイ ベイ",
+		"on":"ヘイ ベイ",
 		"eng": "fence, wall, (kokuji)",
 		"russian": "Ограда"
 	},
 	{
 		"kandji": "唇",
-		"katakana": "シン",
-		"hiragana": "くちびる",
+		"on":"シン",
+		"kun":"くちびる",
 		"eng": "lips",
 		"russian": "Губы"
 	},
 	{
 		"kandji": "睦",
-		"katakana": "ボク モク ムツ.",
-		"hiragana": "むつ.まじい むつ.む",
+		"on":"ボク モク ムツ.",
+		"kun":"むつ.まじい むつ.む",
 		"eng": "intimate, friendly, harmonious",
 		"russian": "Дружный"
 	},
 	{
 		"kandji": "閑",
-		"katakana": "カ",
+		"on":"カ",
 		"eng": "leisure",
 		"russian": "Досуг"
 	},
 	{
 		"kandji": "胡",
-		"katakana": "ウ コ ゴ ナン",
+		"on":"ウ コ ゴ ナン",
 		"eng": "barbarian, foreign",
 		"russian": "Варварский"
 	},
 	{
 		"kandji": "幽",
-		"katakana": "ユウ",
+		"on":"ユウ",
 		"eng": "seclude, confine to a room",
 		"russian": "Потусторонний"
 	},
 	{
 		"kandji": "峻",
-		"katakana": "シュン タカ.",
-		"hiragana": "けわ.しい",
+		"on":"シュン タカ.",
+		"kun":"けわ.しい",
 		"eng": "high, steep",
 		"russian": "Суровый"
 	},
 	{
 		"kandji": "曹",
-		"katakana": "ソウ ゾウ",
-		"hiragana": "つかさ ともがら へや",
+		"on":"ソウ ゾウ",
+		"kun":"つかさ ともがら へや",
 		"eng": "cadet, friend",
 		"russian": "Сержант"
 	},
 	{
 		"kandji": "詠",
-		"katakana": "エイ ウタ.",
-		"hiragana": "よ.む",
+		"on":"エイ ウタ.",
+		"kun":"よ.む",
 		"eng": "recitation, poem, song, composing",
 		"russian": "Стихосложение"
 	},
 	{
 		"kandji": "卑",
-		"katakana": "ヒ",
-		"hiragana": "いや.しい いや.しむ いや.しめる",
+		"on":"ヒ",
+		"kun":"いや.しい いや.しむ いや.しめる",
 		"eng": "lowly, base, vile, vulgar",
 		"russian": "Вульгарный"
 	},
 	{
 		"kandji": "侮",
-		"katakana": "ブ",
-		"hiragana": "あなど.る あなず.る",
+		"on":"ブ",
+		"kun":"あなど.る あなず.る",
 		"eng": "scorn, despise, make light of, contempt",
 		"russian": "Оскорблять"
 	},
 	{
 		"kandji": "鋳",
-		"katakana": "チュウ イ シュ シュウ",
-		"hiragana": "い.る",
+		"on":"チュウ イ シュ シュウ",
+		"kun":"い.る",
 		"eng": "casting, mint",
 		"russian": "Отливать"
 	},
 	{
 		"kandji": "抹",
-		"katakana": "マツ",
+		"on":"マツ",
 		"eng": "rub, paint, erase",
 		"russian": "Растирать"
 	},
 	{
 		"kandji": "尉",
-		"katakana": "イ ジョウ",
+		"on":"イ ジョウ",
 		"eng": "military officer, jailer, old man, rank",
 		"russian": "Младший офицер"
 	},
 	{
 		"kandji": "槻",
-		"katakana": "キ",
-		"hiragana": "つき",
+		"on":"キ",
+		"kun":"つき",
 		"eng": "Zelkova tree",
 		"russian": "Дзельква"
 	},
 	{
 		"kandji": "隷",
-		"katakana": "レイ",
-		"hiragana": "したが.う しもべ",
+		"on":"レイ",
+		"kun":"したが.う しもべ",
 		"eng": "slave, servant, prisoner, criminal, follower",
 		"russian": "Раб"
 	},
 	{
 		"kandji": "禍",
-		"katakana": "カ",
-		"hiragana": "わざわい",
+		"on":"カ",
+		"kun":"わざわい",
 		"eng": "calamity, misfortune, evil, curse",
 		"russian": "Бедствие"
 	},
 	{
 		"kandji": "蝶",
-		"katakana": "チョウ",
+		"on":"チョウ",
 		"eng": "butterfly",
 		"russian": "Бабочка"
 	},
 	{
 		"kandji": "酪",
-		"katakana": "ラク",
+		"on":"ラク",
 		"eng": "dairy products, whey, broth, fruit juice",
 		"russian": "Молокопродукты"
 	},
 	{
 		"kandji": "茎",
-		"katakana": "ケイ キョウ",
-		"hiragana": "くき",
+		"on":"ケイ キョウ",
+		"kun":"くき",
 		"eng": "stalk, stem",
 		"russian": "Стебель"
 	},
 	{
 		"kandji": "帥",
-		"katakana": "スイ",
+		"on":"スイ",
 		"eng": "commander, leading troops, governor",
 		"russian": "Верховное командование"
 	},
 	{
 		"kandji": "逝",
-		"katakana": "セイ",
-		"hiragana": "ゆ.く",
+		"on":"セイ",
+		"kun":"ゆ.く",
 		"eng": "departed, die",
 		"russian": "Скончаться"
 	},
 	{
 		"kandji": "汽",
-		"katakana": "キ",
+		"on":"キ",
 		"eng": "vapor, steam",
 		"russian": "Пар"
 	},
 	{
 		"kandji": "琢",
-		"katakana": "タク ミガ.",
+		"on":"タク ミガ.",
 		"eng": "polish",
 		"russian": "Шлифовать"
 	},
 	{
 		"kandji": "匿",
-		"katakana": "トク",
-		"hiragana": "かくま.う",
+		"on":"トク",
+		"kun":"かくま.う",
 		"eng": "hide, shelter, shield",
 		"russian": "Укрывать"
 	},
 	{
 		"kandji": "襟",
-		"katakana": "キン",
-		"hiragana": "えり",
+		"on":"キン",
+		"kun":"えり",
 		"eng": "collar, neck, lapel",
 		"russian": "Воротник"
 	},
 	{
 		"kandji": "蛍",
-		"katakana": "ケイ",
-		"hiragana": "ほたる",
+		"on":"ケイ",
+		"kun":"ほたる",
 		"eng": "lightning-bug, firefly",
 		"russian": "Светлячок"
 	},
 	{
 		"kandji": "蕉",
-		"katakana": "ショウ",
+		"on":"ショウ",
 		"eng": "banana",
 		"russian": "Басё"
 	},
 	{
 		"kandji": "寡",
-		"katakana": "カ",
+		"on":"カ",
 		"eng": "widow, minority, few",
 		"russian": "Мало"
 	},
 	{
 		"kandji": "琉",
-		"katakana": "リュウ ル",
+		"on":"リュウ ル",
 		"eng": "lapis lazuli",
 		"russian": "Рюкю"
 	},
 	{
 		"kandji": "痢",
-		"katakana": "リ",
+		"on":"リ",
 		"eng": "diarrhea",
 		"russian": "Понос"
 	},
 	{
 		"kandji": "庸",
-		"katakana": "ヨ",
+		"on":"ヨ",
 		"eng": "commonplace, ordinary, employment",
 		"russian": "Заурядный"
 	},
 	{
 		"kandji": "朋",
-		"katakana": "ホウ",
-		"hiragana": "とも",
+		"on":"ホウ",
+		"kun":"とも",
 		"eng": "companion, friend",
 		"russian": "Друг"
 	},
 	{
 		"kandji": "坑",
-		"katakana": "コウ",
+		"on":"コウ",
 		"eng": "pit, hole",
 		"russian": "Шахта"
 	},
 	{
 		"kandji": "藍",
-		"katakana": "ラン",
-		"hiragana": "あい",
+		"on":"ラン",
+		"kun":"あい",
 		"eng": "indigo",
 		"russian": "Индиго"
 	},
 	{
 		"kandji": "賊",
-		"katakana": "ゾク",
+		"on":"ゾク",
 		"eng": "burglar, rebel, traitor, robber",
 		"russian": "Разбойник"
 	},
 	{
 		"kandji": "搾",
-		"katakana": "サク",
-		"hiragana": "しぼ.る",
+		"on":"サク",
+		"kun":"しぼ.る",
 		"eng": "squeeze",
 		"russian": "Выжимать"
 	},
 	{
 		"kandji": "畔",
-		"katakana": "ハン ア",
+		"on":"ハン ア",
 		"eng": "paddy ridge, levee",
 		"russian": "Прибрежье"
 	},
 	{
 		"kandji": "遼",
-		"katakana": "リョ",
+		"on":"リョ",
 		"eng": "distant",
 		"russian": "Ляодун"
 	},
 	{
 		"kandji": "唄",
-		"katakana": "バイ",
-		"hiragana": "うた うた.う",
+		"on":"バイ",
+		"kun":"うた うた.う",
 		"eng": "songs with samisen",
 		"russian": "Песня"
 	},
 	{
 		"kandji": "孔",
-		"katakana": "コウ ア",
+		"on":"コウ ア",
 		"eng": "cavity, hole, slit, very, great, exceedingly",
 		"russian": "Отверстие"
 	},
 	{
 		"kandji": "橘",
-		"katakana": "キツ タチバ",
+		"on":"キツ タチバ",
 		"eng": "mandarin orange",
 		"russian": "Дикий цитрус"
 	},
 	{
 		"kandji": "漱",
-		"katakana": "ソウ シュウ ス",
-		"hiragana": "くちすす.ぐ くちそそ.ぐ うがい すす.ぐ",
+		"on":"ソウ シュウ ス",
+		"kun":"くちすす.ぐ くちそそ.ぐ うがい すす.ぐ",
 		"eng": "gargle, rinse mouth",
 		"russian": "Полоскать рот"
 	},
 	{
 		"kandji": "呂",
-		"katakana": "ロ リョ セボ",
+		"on":"ロ リョ セボ",
 		"eng": "spine, backbone",
 		"russian": "Ванна"
 	},
 	{
 		"kandji": "拷",
-		"katakana": "ゴウ",
+		"on":"ゴウ",
 		"eng": "torture, beat",
 		"russian": "Пытать"
 	},
 	{
 		"kandji": "嬢",
-		"katakana": "ジョウ",
-		"hiragana": "むすめ",
+		"on":"ジョウ",
+		"kun":"むすめ",
 		"eng": "lass, girl, Miss, daughter",
 		"russian": "Барышня"
 	},
 	{
 		"kandji": "苑",
-		"katakana": "エン オン ウ.",
-		"hiragana": "その",
+		"on":"エン オン ウ.",
+		"kun":"その",
 		"eng": "garden, farm, park",
 		"russian": "Сад"
 	},
 	{
 		"kandji": "巽",
-		"katakana": "ソン",
-		"hiragana": "たつみ",
+		"on":"ソン",
+		"kun":"たつみ",
 		"eng": "southeast",
 		"russian": "Юго-восток"
 	},
 	{
 		"kandji": "杜",
-		"katakana": "ト トウ ズ",
-		"hiragana": "もり ふさ.ぐ やまなし",
+		"on":"ト トウ ズ",
+		"kun":"もり ふさ.ぐ やまなし",
 		"eng": "woods, grove",
 		"russian": "Храмовая роща"
 	},
 	{
 		"kandji": "渓",
-		"katakana": "ケイ",
-		"hiragana": "たに たにがわ",
+		"on":"ケイ",
+		"kun":"たに たにがわ",
 		"eng": "mountain stream, valley",
 		"russian": "Ущелье"
 	},
 	{
 		"kandji": "翁",
-		"katakana": "オウ オキ",
+		"on":"オウ オキ",
 		"eng": "venerable old man",
 		"russian": "Старец"
 	},
 	{
 		"kandji": "廉",
-		"katakana": "レ",
+		"on":"レ",
 		"eng": "bargain, reason, charge, suspicion, point, account, purity, honest, low price, cheap, rested, contented, peacef",
 		"russian": "Неподкупный"
 	},
 	{
 		"kandji": "謹",
-		"katakana": "キン",
-		"hiragana": "つつし.む",
+		"on":"キン",
+		"kun":"つつし.む",
 		"eng": "discreet, reverently, humbly",
 		"russian": "Почтительно"
 	},
 	{
 		"kandji": "瞳",
-		"katakana": "ドウ トウ ヒト",
+		"on":"ドウ トウ ヒト",
 		"eng": "pupil",
 		"russian": "Зрачок"
 	},
 	{
 		"kandji": "湧",
-		"katakana": "ユウ ヨウ ユ ワ.",
+		"on":"ユウ ヨウ ユ ワ.",
 		"eng": "boil, ferment, seethe, uproar, breed",
 		"russian": "Бить фонтаном"
 	},
 	{
 		"kandji": "欣",
-		"katakana": "キン ゴン コン ヨロコ.",
-		"hiragana": "よろこ.ぶ",
+		"on":"キン ゴン コン ヨロコ.",
+		"kun":"よろこ.ぶ",
 		"eng": "take pleasure in, rejoice",
 		"russian": "Восхищение"
 	},
 	{
 		"kandji": "窯",
-		"katakana": "ヨウ",
-		"hiragana": "かま",
+		"on":"ヨウ",
+		"kun":"かま",
 		"eng": "kiln, oven, furnace",
 		"russian": "Печь для обжига"
 	},
 	{
 		"kandji": "褒",
-		"katakana": "ホウ",
-		"hiragana": "ほ.める",
+		"on":"ホウ",
+		"kun":"ほ.める",
 		"eng": "praise, extol",
 		"russian": "Хвалить"
 	},
 	{
 		"kandji": "醜",
-		"katakana": "シュウ",
-		"hiragana": "みにく.い しこ",
+		"on":"シュウ",
+		"kun":"みにく.い しこ",
 		"eng": "ugly, unclean, shame, bad looking",
 		"russian": "Безобразный"
 	},
 	{
 		"kandji": "升",
-		"katakana": "ショウ マ",
+		"on":"ショウ マ",
 		"eng": "measuring box, 1.8 liter",
 		"russian": "Мера ёмкости"
 	},
 	{
 		"kandji": "殉",
-		"katakana": "ジュン",
+		"on":"ジュン",
 		"eng": "martyrdom, follow by resigning",
 		"russian": "Самопожертвование"
 	},
 	{
 		"kandji": "煩",
-		"katakana": "ハン ボン",
-		"hiragana": "わずら.う わずら.わす",
+		"on":"ハン ボン",
+		"kun":"わずら.う わずら.わす",
 		"eng": "anxiety, trouble, worry, pain, ill, annoy, nuisance, irksome",
 		"russian": "Заботы"
 	},
 	{
 		"kandji": "巴",
-		"katakana": "ハ ウズマ",
-		"hiragana": "ともえ",
+		"on":"ハ ウズマ",
+		"kun":"ともえ",
 		"eng": "comma-design",
 		"russian": "-ха-"
 	},
 	{
 		"kandji": "禎",
-		"katakana": "テイ タダ.シ",
-		"hiragana": "さいわ.い",
+		"on":"テイ タダ.シ",
+		"kun":"さいわ.い",
 		"eng": "happiness",
 		"russian": "Имена"
 	},
 	{
 		"kandji": "劾",
-		"katakana": "ガイ",
+		"on":"ガイ",
 		"eng": "censure, criminal investigation",
 		"russian": "Обвинять"
 	},
 	{
 		"kandji": "堕",
-		"katakana": "ダ",
-		"hiragana": "お.ちる くず.す くず.れる",
+		"on":"ダ",
+		"kun":"お.ちる くず.す くず.れる",
 		"eng": "degenerate, descend to, lapse into",
 		"russian": "Деградировать"
 	},
 	{
 		"kandji": "租",
-		"katakana": "ソ",
+		"on":"ソ",
 		"eng": "tariff, crop tax, borrowing",
 		"russian": "Аренда"
 	},
 	{
 		"kandji": "稜",
-		"katakana": "リョウ ロウ",
-		"hiragana": "いつ かど",
+		"on":"リョウ ロウ",
+		"kun":"いつ かど",
 		"eng": "angle, edge, corner, power, majesty",
 		"russian": "Угол"
 	},
 	{
 		"kandji": "桟",
-		"katakana": "サン セン カケハ",
+		"on":"サン セン カケハ",
 		"eng": "scaffold, cleat, frame, jetty, bolt (door)",
 		"russian": "Настил"
 	},
 	{
 		"kandji": "倭",
-		"katakana": "ワ イ シタガ.",
+		"on":"ワ イ シタガ.",
 		"eng": "Yamato, ancient Japan",
 		"russian": "Ямато"
 	},
 	{
 		"kandji": "婿",
-		"katakana": "セイ",
-		"hiragana": "むこ",
+		"on":"セイ",
+		"kun":"むこ",
 		"eng": "bridegroom, son-in-law",
 		"russian": "Зять"
 	},
 	{
 		"kandji": "慕",
-		"katakana": "ボ",
-		"hiragana": "した.う",
+		"on":"ボ",
+		"kun":"した.う",
 		"eng": "pining, yearn for, love dearly, adore",
 		"russian": "Обожать"
 	},
 	{
 		"kandji": "斐",
-		"katakana": "ヒ",
+		"on":"ヒ",
 		"eng": "beautiful, patterned",
 		"russian": "Польза"
 	},
 	{
 		"kandji": "罷",
-		"katakana": "ヒ",
-		"hiragana": "まか.り- や.める",
+		"on":"ヒ",
+		"kun":"まか.り- や.める",
 		"eng": "quit, stop, leave, withdraw, go",
 		"russian": "Забастовка"
 	},
 	{
 		"kandji": "矯",
-		"katakana": "キョウ",
-		"hiragana": "た.める",
+		"on":"キョウ",
+		"kun":"た.める",
 		"eng": "rectify, straighten, correct, reform, cure, control, pretend, falsify",
 		"russian": "Выпрямлять"
 	},
 	{
 		"kandji": "某",
-		"katakana": "ボウ",
-		"hiragana": "それがし なにがし",
+		"on":"ボウ",
+		"kun":"それがし なにがし",
 		"eng": "so-and-so, one, a certain, that person",
 		"russian": "Некий"
 	},
 	{
 		"kandji": "囚",
-		"katakana": "シュウ",
-		"hiragana": "とら.われる",
+		"on":"シュウ",
+		"kun":"とら.われる",
 		"eng": "captured, criminal, arrest, catch",
 		"russian": "Арестант"
 	},
 	{
 		"kandji": "魁",
-		"katakana": "カイ",
-		"hiragana": "さきがけ かしら",
+		"on":"カイ",
+		"kun":"さきがけ かしら",
 		"eng": "charging ahead of others",
 		"russian": "Предвестник"
 	},
 	{
 		"kandji": "虹",
-		"katakana": "コウ",
-		"hiragana": "にじ",
+		"on":"コウ",
+		"kun":"にじ",
 		"eng": "rainbow",
 		"russian": "Радуга"
 	},
 	{
 		"kandji": "鴻",
-		"katakana": "コウ",
-		"hiragana": "おおとり ひしくい",
+		"on":"コウ",
+		"kun":"おおとり ひしくい",
 		"eng": "large bird, wild goose",
 		"russian": "Тундровый изменник"
 	},
 	{
 		"kandji": "泌",
-		"katakana": "ヒツ ヒ",
+		"on":"ヒツ ヒ",
 		"eng": "ooze, flow, soak in, penetrate, secrete",
 		"russian": "Секреция"
 	},
 	{
 		"kandji": "於",
-		"katakana": "オ ヨ",
-		"hiragana": "おい.て お.ける ああ より",
+		"on":"オ ヨ",
+		"kun":"おい.て お.ける ああ より",
 		"eng": "at, in, on, as for",
 		"russian": "В"
 	},
 	{
 		"kandji": "赳",
-		"katakana": "キュ",
+		"on":"キュ",
 		"eng": "strong and brave",
 		"russian": "Сильный и храбрый"
 	},
 	{
 		"kandji": "漸",
-		"katakana": "ゼン",
+		"on":"ゼン",
 		"eng": "steadily, gradually advancing, finally, barely",
 		"russian": "Постепенно"
 	},
 	{
 		"kandji": "蚊",
-		"katakana": "ブン",
-		"hiragana": "か",
+		"on":"ブン",
+		"kun":"か",
 		"eng": "mosquito",
 		"russian": "Комар"
 	},
 	{
 		"kandji": "葵",
-		"katakana": "キ アオ",
+		"on":"キ アオ",
 		"eng": "hollyhock",
 		"russian": "Мальва"
 	},
 	{
 		"kandji": "厄",
-		"katakana": "ヤク",
+		"on":"ヤク",
 		"eng": "unlucky, misfortune, bad luck, disaster",
 		"russian": "Несчастье"
 	},
 	{
 		"kandji": "藻",
-		"katakana": "ソウ",
-		"hiragana": "も",
+		"on":"ソウ",
+		"kun":"も",
 		"eng": "seaweed, duckweed",
 		"russian": "Водоросль"
 	},
 	{
 		"kandji": "禄",
-		"katakana": "ロク フ",
-		"hiragana": "さいわ.い",
+		"on":"ロク フ",
+		"kun":"さいわ.い",
 		"eng": "fief, allowance, pension, grant, happiness",
 		"russian": "Паёк"
 	},
 	{
 		"kandji": "孟",
-		"katakana": "モウ ボウ ミョウ カシ",
+		"on":"モウ ボウ ミョウ カシ",
 		"eng": "chief, beginning",
 		"russian": "Мэн-цзы"
 	},
 	{
 		"kandji": "嫡",
-		"katakana": "チャク テキ",
+		"on":"チャク テキ",
 		"eng": "legitimate wife, direct descent (non-bastard)",
 		"russian": "Законный"
 	},
 	{
 		"kandji": "尭",
-		"katakana": "ギョウ タカ.",
+		"on":"ギョウ タカ.",
 		"eng": "high, far",
 		"russian": "Император Яо"
 	},
 	{
 		"kandji": "嚇",
-		"katakana": "カク",
-		"hiragana": "おど.かす",
+		"on":"カク",
+		"kun":"おど.かす",
 		"eng": "menacing, dignity, majesty, threaten",
 		"russian": "Угроза"
 	},
 	{
 		"kandji": "巳",
-		"katakana": "シ",
-		"hiragana": "み",
+		"on":"シ",
+		"kun":"み",
 		"eng": "sign of the snake or serpent, 9-11AM, sixth sign of Chinese zodiac",
 		"russian": "Знак Змеи"
 	},
 	{
 		"kandji": "凸",
-		"katakana": "トツ",
-		"hiragana": "でこ",
+		"on":"トツ",
+		"kun":"でこ",
 		"eng": "convex, beetle brow, uneven",
 		"russian": "Выпуклый"
 	},
 	{
 		"kandji": "暢",
-		"katakana": "チョウ ノビ.",
+		"on":"チョウ ノビ.",
 		"eng": "stretch",
 		"russian": "Плавный"
 	},
 	{
 		"kandji": "韻",
-		"katakana": "イン",
+		"on":"イン",
 		"eng": "rhyme, elegance, tone",
 		"russian": "Рифма"
 	},
 	{
 		"kandji": "霜",
-		"katakana": "ソウ",
-		"hiragana": "しも",
+		"on":"ソウ",
+		"kun":"しも",
 		"eng": "frost",
 		"russian": "Иней"
 	},
 	{
 		"kandji": "硝",
-		"katakana": "ショウ",
+		"on":"ショウ",
 		"eng": "nitrate, saltpeter",
 		"russian": "Селитра"
 	},
 	{
 		"kandji": "勅",
-		"katakana": "チョク ミコトノ",
-		"hiragana": "いまし.める",
+		"on":"チョク ミコトノ",
+		"kun":"いまし.める",
 		"eng": "imperial order",
 		"russian": "Императорский"
 	},
 	{
 		"kandji": "芹",
-		"katakana": "キン セ",
+		"on":"キン セ",
 		"eng": "parsley",
 		"russian": "Омежник"
 	},
 	{
 		"kandji": "杏",
-		"katakana": "キョウ アン コウ アン",
+		"on":"キョウ アン コウ アン",
 		"eng": "apricot",
 		"russian": "Абрикос"
 	},
 	{
 		"kandji": "棺",
-		"katakana": "カン",
+		"on":"カン",
 		"eng": "coffin, casket",
 		"russian": "Гроб"
 	},
 	{
 		"kandji": "儒",
-		"katakana": "ジュ",
+		"on":"ジュ",
 		"eng": "Confucian",
 		"russian": "Конфуцианство"
 	},
 	{
 		"kandji": "鳳",
-		"katakana": "ホウ フ",
+		"on":"ホウ フ",
 		"eng": "male mythical bird",
 		"russian": "Феникс"
 	},
 	{
 		"kandji": "馨",
-		"katakana": "ケイ キョウ カオ",
-		"hiragana": "かお.る",
+		"on":"ケイ キョウ カオ",
+		"kun":"かお.る",
 		"eng": "fragrant, balmy, favourable",
 		"russian": "Аромат"
 	},
 	{
 		"kandji": "慧",
-		"katakana": "ケイ エ サト",
+		"on":"ケイ エ サト",
 		"eng": "wise",
 		"russian": "Умный"
 	},
 	{
 		"kandji": "愁",
-		"katakana": "シュウ",
-		"hiragana": "うれ.える うれ.い",
+		"on":"シュウ",
+		"kun":"うれ.える うれ.い",
 		"eng": "distress, grieve, lament, be anxious",
 		"russian": "Горе"
 	},
 	{
 		"kandji": "楼",
-		"katakana": "ロウ",
-		"hiragana": "たかどの",
+		"on":"ロウ",
+		"kun":"たかどの",
 		"eng": "watchtower, lookout, high building",
 		"russian": "Высокое здание"
 	},
 	{
 		"kandji": "彬",
-		"katakana": "ヒン フン アキ.ラ",
-		"hiragana": "うるわ.しい",
+		"on":"ヒン フン アキ.ラ",
+		"kun":"うるわ.しい",
 		"eng": "refined, gentle",
 		"russian": "Имена"
 	},
 	{
 		"kandji": "匡",
-		"katakana": "キョウ オウ スク.",
+		"on":"キョウ オウ スク.",
 		"eng": "correct, save, assist",
 		"russian": "Исправлять"
 	},
 	{
 		"kandji": "眉",
-		"katakana": "ビ ミ",
-		"hiragana": "まゆ",
+		"on":"ビ ミ",
+		"kun":"まゆ",
 		"eng": "eyebrow",
 		"russian": "Бровь"
 	},
 	{
 		"kandji": "欽",
-		"katakana": "キン コン ツツシ.",
+		"on":"キン コン ツツシ.",
 		"eng": "respect, revere, long for",
 		"russian": "Почитание"
 	},
 	{
 		"kandji": "薪",
-		"katakana": "シン",
-		"hiragana": "たきぎ まき",
+		"on":"シン",
+		"kun":"たきぎ まき",
 		"eng": "fuel, firewood, kindling",
 		"russian": "Дрова"
 	},
 	{
 		"kandji": "褐",
-		"katakana": "カツ",
+		"on":"カツ",
 		"eng": "brown, woollen kimono",
 		"russian": "Коричневый"
 	},
 	{
 		"kandji": "賜",
-		"katakana": "シ",
-		"hiragana": "たまわ.る たま.う たも.う",
+		"on":"シ",
+		"kun":"たまわ.る たま.う たも.う",
 		"eng": "grant, gift, boon, results",
 		"russian": "Жаловать"
 	},
 	{
 		"kandji": "嵯",
-		"katakana": "サ シ",
+		"on":"サ シ",
 		"eng": "steep, craggy, rugged",
 		"russian": "Кварталы Сага"
 	},
 	{
 		"kandji": "綜",
-		"katakana": "ソウ",
-		"hiragana": "おさ.める す.べる",
+		"on":"ソウ",
+		"kun":"おさ.める す.べる",
 		"eng": "rule",
 		"russian": "Обобщать"
 	},
 	{
 		"kandji": "繕",
-		"katakana": "ゼン",
-		"hiragana": "つくろ.う",
+		"on":"ゼン",
+		"kun":"つくろ.う",
 		"eng": "darning, repair, mend, trim, tidy up, adjust",
 		"russian": "Чинить"
 	},
 	{
 		"kandji": "栓",
-		"katakana": "セン",
+		"on":"セン",
 		"eng": "plug, bolt, cork, bung, stopper",
 		"russian": "Затычка"
 	},
 	{
 		"kandji": "翠",
-		"katakana": "スイ ミド",
-		"hiragana": "かわせみ",
+		"on":"スイ ミド",
+		"kun":"かわせみ",
 		"eng": "green",
 		"russian": "Нефрит"
 	},
 	{
 		"kandji": "鮎",
-		"katakana": "デン ネン ナマ",
-		"hiragana": "あゆ",
+		"on":"デン ネン ナマ",
+		"kun":"あゆ",
 		"eng": "freshwater trout, smelt",
 		"russian": "Айю"
 	},
 	{
 		"kandji": "榛",
-		"katakana": "シン ハン ハ",
-		"hiragana": "はしばみ",
+		"on":"シン ハン ハ",
+		"kun":"はしばみ",
 		"eng": "hazelnut, filbert",
 		"russian": "Орешник"
 	},
 	{
 		"kandji": "凹",
-		"katakana": "オウ",
-		"hiragana": "くぼ.む へこ.む ぼこ",
+		"on":"オウ",
+		"kun":"くぼ.む へこ.む ぼこ",
 		"eng": "concave, hollow, sunken",
 		"russian": "Вогнутый"
 	},
 	{
 		"kandji": "艶",
-		"katakana": "エン ナマ.メ",
-		"hiragana": "つや なま.めかしい あで.やか つや.めく",
+		"on":"エン ナマ.メ",
+		"kun":"つや なま.めかしい あで.やか つや.めく",
 		"eng": "glossy, luster, glaze, polish, charm, colorful, captivating",
 		"russian": "Очарование"
 	},
 	{
 		"kandji": "惣",
-		"katakana": "ソウ ソウジ",
-		"hiragana": "いそが.しい",
+		"on":"ソウ ソウジ",
+		"kun":"いそが.しい",
 		"eng": "all",
 		"russian": "Общий"
 	},
 	{
 		"kandji": "蔦",
-		"katakana": "チョウ ツ",
+		"on":"チョウ ツ",
 		"eng": "vine, ivy",
 		"russian": "Плющ"
 	},
 	{
 		"kandji": "錬",
-		"katakana": "レン",
-		"hiragana": "ね.る",
+		"on":"レン",
+		"kun":"ね.る",
 		"eng": "tempering, refine, drill, train, polish",
 		"russian": "Закалять"
 	},
 	{
 		"kandji": "隼",
-		"katakana": "シュン ジュン ハヤブ",
+		"on":"シュン ジュン ハヤブ",
 		"eng": "falcon",
 		"russian": "Сокол-сапсан"
 	},
 	{
 		"kandji": "渚",
-		"katakana": "ショ ナギ",
+		"on":"ショ ナギ",
 		"eng": "strand, beach, shore",
 		"russian": "Взморье"
 	},
 	{
 		"kandji": "衷",
-		"katakana": "チュウ",
+		"on":"チュウ",
 		"eng": "inmost, heart, mind, inside",
 		"russian": "Искренние чувства"
 	},
 	{
 		"kandji": "逐",
-		"katakana": "チク",
+		"on":"チク",
 		"eng": "pursue, drive away, chase, accomplish, attain, commit",
 		"russian": "Один за другим"
 	},
 	{
 		"kandji": "斥",
-		"katakana": "セキ",
-		"hiragana": "しりぞ.ける",
+		"on":"セキ",
+		"kun":"しりぞ.ける",
 		"eng": "reject, retreat, recede, withdraw, repel, repulse",
 		"russian": "Отгонять"
 	},
 	{
 		"kandji": "稀",
-		"katakana": "キ ケ",
-		"hiragana": "まれ まばら",
+		"on":"キ ケ",
+		"kun":"まれ まばら",
 		"eng": "rare, phenomenal, dilute (acid)",
 		"russian": "Редкий"
 	},
@@ -6869,187 +6869,187 @@
 	},
 	{
 		"kandji": "詔",
-		"katakana": "ショウ ミコトノ",
+		"on":"ショウ ミコトノ",
 		"eng": "imperial edict",
 		"russian": "Императорский указ"
 	},
 	{
 		"kandji": "皐",
-		"katakana": "コウ サツ",
+		"on":"コウ サツ",
 		"eng": "swamp, shore",
 		"russian": "Пятый месяц"
 	},
 	{
 		"kandji": "雛",
-		"katakana": "スウ ス ジュ",
-		"hiragana": "ひな ひよこ",
+		"on":"スウ ス ジュ",
+		"kun":"ひな ひよこ",
 		"eng": "chick, squab, duckling, doll",
 		"russian": "Цыплёнок"
 	},
 	{
 		"kandji": "惟",
-		"katakana": "イ ユイ オモ.ウ",
-		"hiragana": "おも.んみる これ",
+		"on":"イ ユイ オモ.ウ",
+		"kun":"おも.んみる これ",
 		"eng": "consider, reflect, think",
 		"russian": "Соображать"
 	},
 	{
 		"kandji": "佑",
-		"katakana": "ユウ ウ タス.ケ",
+		"on":"ユウ ウ タス.ケ",
 		"eng": "help, assist",
 		"russian": "Помощь"
 	},
 	{
 		"kandji": "耀",
-		"katakana": "ヨウ ヒカ",
-		"hiragana": "かがや.く",
+		"on":"ヨウ ヒカ",
+		"kun":"かがや.く",
 		"eng": "shine, sparkle, gleam, twinkle",
 		"russian": "Блистать"
 	},
 	{
 		"kandji": "黛",
-		"katakana": "タイ",
-		"hiragana": "まゆずみ",
+		"on":"タイ",
+		"kun":"まゆずみ",
 		"eng": "blackened eyebrows",
 		"russian": "Подведённые брови"
 	},
 	{
 		"kandji": "渥",
-		"katakana": "アク ウルオ.",
-		"hiragana": "あつ.い",
+		"on":"アク ウルオ.",
+		"kun":"あつ.い",
 		"eng": "kindness",
 		"russian": "Милостивый"
 	},
 	{
 		"kandji": "憧",
-		"katakana": "ショウ トウ ドウ",
-		"hiragana": "あこが.れる",
+		"on":"ショウ トウ ドウ",
+		"kun":"あこが.れる",
 		"eng": "yearn after, long for, aspire to, admire, adore",
 		"russian": "Жаждать"
 	},
 	{
 		"kandji": "宵",
-		"katakana": "ショウ",
-		"hiragana": "よい",
+		"on":"ショウ",
+		"kun":"よい",
 		"eng": "wee hours, evening, early night",
 		"russian": "Ранний вечер"
 	},
 	{
 		"kandji": "妄",
-		"katakana": "モウ ボウ",
-		"hiragana": "みだ.りに",
+		"on":"モウ ボウ",
+		"kun":"みだ.りに",
 		"eng": "delusion, unnecessarily, without authority, reckless",
 		"russian": "Вздор"
 	},
 	{
 		"kandji": "惇",
-		"katakana": "シュン ジュン トン アツ.",
+		"on":"シュン ジュン トン アツ.",
 		"eng": "sincere, kind, considerate",
 		"russian": "Имена"
 	},
 	{
 		"kandji": "脩",
-		"katakana": "シュウ ホジ",
-		"hiragana": "おさ.める なが.い",
+		"on":"シュウ ホジ",
+		"kun":"おさ.める なが.い",
 		"eng": "dried meat",
 		"russian": "Сушёное мясо"
 	},
 	{
 		"kandji": "甫",
-		"katakana": "ホ フ ハジ.メ",
+		"on":"ホ フ ハジ.メ",
 		"eng": "for the first time, not until",
 		"russian": "Имена"
 	},
 	{
 		"kandji": "酌",
-		"katakana": "シャク",
-		"hiragana": "く.む",
+		"on":"シャク",
+		"kun":"く.む",
 		"eng": "bar-tending, serving sake, the host, draw (water), ladle, scoop, pump",
 		"russian": "Поить сакэ"
 	},
 	{
 		"kandji": "蚕",
-		"katakana": "サン テン",
-		"hiragana": "かいこ こ",
+		"on":"サン テン",
+		"kun":"かいこ こ",
 		"eng": "silkworm",
 		"russian": "Шелковичный червь"
 	},
 	{
 		"kandji": "嬉",
-		"katakana": "キ タノ.シ",
-		"hiragana": "うれ.しい",
+		"on":"キ タノ.シ",
+		"kun":"うれ.しい",
 		"eng": "glad, pleased, rejoice",
 		"russian": "Радостный"
 	},
 	{
 		"kandji": "蒼",
-		"katakana": "ソウ",
-		"hiragana": "あお.い",
+		"on":"ソウ",
+		"kun":"あお.い",
 		"eng": "blue, pale",
 		"russian": "Бледный"
 	},
 	{
 		"kandji": "暉",
-		"katakana": "キ カガ.ヤ",
+		"on":"キ カガ.ヤ",
 		"eng": "shine, light",
 		"russian": "Солнечные лучи"
 	},
 	{
 		"kandji": "頒",
-		"katakana": "ハン",
-		"hiragana": "わか.つ",
+		"on":"ハン",
+		"kun":"わか.つ",
 		"eng": "distribute, disseminate, partition, understand",
 		"russian": "Раздавать"
 	},
 	{
 		"kandji": "只",
-		"katakana": "シ",
-		"hiragana": "ただ",
+		"on":"シ",
+		"kun":"ただ",
 		"eng": "only, free, in addition",
 		"russian": "Бесплатно"
 	},
 	{
 		"kandji": "肢",
-		"katakana": "シ",
+		"on":"シ",
 		"eng": "limb, arms & legs",
 		"russian": "Конечности"
 	},
 	{
 		"kandji": "檀",
-		"katakana": "ダン タン",
-		"hiragana": "まゆみ",
+		"on":"ダン タン",
+		"kun":"まゆみ",
 		"eng": "cedar, sandlewood, spindle tree",
 		"russian": "Бересклет"
 	},
 	{
 		"kandji": "凱",
-		"katakana": "ガイ カイ",
-		"hiragana": "かちどき やわらぐ",
+		"on":"ガイ カイ",
+		"kun":"かちどき やわらぐ",
 		"eng": "victory song",
 		"russian": "Триумф"
 	},
 	{
 		"kandji": "彗",
-		"katakana": "スイ エ ケイ セイ ホウ",
+		"on":"スイ エ ケイ セイ ホウ",
 		"eng": "comet",
 		"russian": "Комета"
 	},
 	{
 		"kandji": "謄",
-		"katakana": "トウ",
+		"on":"トウ",
 		"eng": "mimeograph, copy",
 		"russian": "Копирование"
 	},
 	{
 		"kandji": "梓",
-		"katakana": "シ",
-		"hiragana": "あずさ",
+		"on":"シ",
+		"kun":"あずさ",
 		"eng": "catalpa tree",
 		"russian": "Катальпа"
 	},
 	{
 		"kandji": "丑",
-		"katakana": "チュウ ウ",
+		"on":"チュウ ウ",
 		"eng": "sign of the ox or cow, 1-3AM, second sign of Chinese zodiac",
 		"russian": "Знак Быка"
 	},
@@ -7060,553 +7060,553 @@
 	},
 	{
 		"kandji": "叶",
-		"katakana": "キョウ カナ.",
-		"hiragana": "かな.える",
+		"on":"キョウ カナ.",
+		"kun":"かな.える",
 		"eng": "grant, answer",
 		"russian": "Исполняться"
 	},
 	{
 		"kandji": "汐",
-		"katakana": "セキ セ",
-		"hiragana": "しお うしお",
+		"on":"セキ セ",
+		"kun":"しお うしお",
 		"eng": "eventide, tide, salt water, opportunity",
 		"russian": "Прилив"
 	},
 	{
 		"kandji": "絢",
-		"katakana": "ケ",
+		"on":"ケ",
 		"eng": "kimono design",
 		"russian": "Яркий узор"
 	},
 	{
 		"kandji": "朔",
-		"katakana": "サク ツイタ",
+		"on":"サク ツイタ",
 		"eng": "conjunction (astronomy), first day of month",
 		"russian": "Новолуние"
 	},
 	{
 		"kandji": "伽",
-		"katakana": "カ ガ キャ ギャ",
-		"hiragana": "とぎ",
+		"on":"カ ガ キャ ギャ",
+		"kun":"とぎ",
 		"eng": "nursing, attending, entertainer",
 		"russian": "Сказочный"
 	},
 	{
 		"kandji": "畝",
-		"katakana": "ボウ ホ モ ム",
-		"hiragana": "せ うね",
+		"on":"ボウ ホ モ ム",
+		"kun":"せ うね",
 		"eng": "furrow, 30 tsubo, ridge, rib",
 		"russian": "Грядка"
 	},
 	{
 		"kandji": "抄",
-		"katakana": "ショ",
+		"on":"ショ",
 		"eng": "extract, selection, summary, copy, spread thin",
 		"russian": "Выписка"
 	},
 	{
 		"kandji": "爽",
-		"katakana": "ソウ",
-		"hiragana": "あき.らか さわ.やか たがう",
+		"on":"ソウ",
+		"kun":"あき.らか さわ.やか たがう",
 		"eng": "refreshing, bracing, resonant, sweet, clear",
 		"russian": "Освежающий"
 	},
 	{
 		"kandji": "黎",
-		"katakana": "レイ リ クロ.",
+		"on":"レイ リ クロ.",
 		"eng": "dark, black, many",
 		"russian": "Народ"
 	},
 	{
 		"kandji": "惰",
-		"katakana": "ダ",
+		"on":"ダ",
 		"eng": "lazy, laziness",
 		"russian": "Инерция"
 	},
 	{
 		"kandji": "蛮",
-		"katakana": "バン",
-		"hiragana": "えびす",
+		"on":"バン",
+		"kun":"えびす",
 		"eng": "barbarian",
 		"russian": "Дикарь"
 	},
 	{
 		"kandji": "冴",
-		"katakana": "ゴ コ ヒ.エ",
-		"hiragana": "さ.える こお.る",
+		"on":"ゴ コ ヒ.エ",
+		"kun":"さ.える こお.る",
 		"eng": "be clear, serene, cold, skilful",
 		"russian": "Ясный"
 	},
 	{
 		"kandji": "旺",
-		"katakana": "オウ キョウ ゴウ",
-		"hiragana": "かがや.き うつくし.い さかん",
+		"on":"オウ キョウ ゴウ",
+		"kun":"かがや.き うつくし.い さかん",
 		"eng": "flourishing, successful, beautiful, vigorous",
 		"russian": "Названия компаний"
 	},
 	{
 		"kandji": "萌",
-		"katakana": "ホウ キザ.",
-		"hiragana": "も.える きざ.す めばえ",
+		"on":"ホウ キザ.",
+		"kun":"も.える きざ.す めばえ",
 		"eng": "show symptoms of, sprout, bud, malt",
 		"russian": "Прорастать"
 	},
 	{
 		"kandji": "偲",
-		"katakana": "サイ シ",
-		"hiragana": "しの.ぶ",
+		"on":"サイ シ",
+		"kun":"しの.ぶ",
 		"eng": "recollect, remember",
 		"russian": "Вспоминать"
 	},
 	{
 		"kandji": "壱",
-		"katakana": "イチ イツ ヒト",
+		"on":"イチ イツ ヒト",
 		"eng": "I, one",
 		"russian": "Один"
 	},
 	{
 		"kandji": "瑠",
-		"katakana": "ル リュ",
+		"on":"ル リュ",
 		"eng": "lapis lazuli",
 		"russian": "Ляпис-лазурь"
 	},
 	{
 		"kandji": "允",
-		"katakana": "イン ユル",
-		"hiragana": "じょう まこと.に",
+		"on":"イン ユル",
+		"kun":"じょう まこと.に",
 		"eng": "license, sincerity, permit",
 		"russian": "Разрешение"
 	},
 	{
 		"kandji": "侯",
-		"katakana": "コウ",
+		"on":"コウ",
 		"eng": "marquis, lord, daimyo",
 		"russian": "Маркиз"
 	},
 	{
 		"kandji": "蒔",
-		"katakana": "シ ジ マ",
-		"hiragana": "う.える",
+		"on":"シ ジ マ",
+		"kun":"う.える",
 		"eng": "sow (seeds)",
 		"russian": "Сеять"
 	},
 	{
 		"kandji": "鯉",
-		"katakana": "リ",
-		"hiragana": "こい",
+		"on":"リ",
+		"kun":"こい",
 		"eng": "carp",
 		"russian": "Карп"
 	},
 	{
 		"kandji": "弧",
-		"katakana": "コ",
+		"on":"コ",
 		"eng": "arc, arch, bow",
 		"russian": "Дуга"
 	},
 	{
 		"kandji": "遥",
-		"katakana": "ヨウ",
-		"hiragana": "はる.か",
+		"on":"ヨウ",
+		"kun":"はる.か",
 		"eng": "far off, distant, long ago",
 		"russian": "Далеко"
 	},
 	{
 		"kandji": "舜",
-		"katakana": "シュ",
+		"on":"シュ",
 		"eng": "type of morning glory, rose of Sharon, althea",
 		"russian": "Император Шунь"
 	},
 	{
 		"kandji": "瑛",
-		"katakana": "エ",
+		"on":"エ",
 		"eng": "sparkle of jewelry, crystal",
 		"russian": "Прозрачный камень"
 	},
 	{
 		"kandji": "附",
-		"katakana": "フ ツ.",
-		"hiragana": "つ.ける",
+		"on":"フ ツ.",
+		"kun":"つ.ける",
 		"eng": "affixed, attach, refer to, append",
 		"russian": "Прикреплять"
 	},
 	{
 		"kandji": "彪",
-		"katakana": "ヒョウ ヒュウ ア",
+		"on":"ヒョウ ヒュウ ア",
 		"eng": "spotted, mottled, patterned, small tiger",
 		"russian": "Имена"
 	},
 	{
 		"kandji": "卯",
-		"katakana": "ボウ モウ",
+		"on":"ボウ モウ",
 		"eng": "sign of the hare or rabbit, 5-7AM, fourth sign of Chinese zodiac, east",
 		"russian": "Знак Зайца"
 	},
 	{
 		"kandji": "但",
-		"katakana": "タン タダ.",
+		"on":"タン タダ.",
 		"eng": "however, but",
 		"russian": "При условии"
 	},
 	{
 		"kandji": "綺",
-		"katakana": "キ",
-		"hiragana": "あや",
+		"on":"キ",
+		"kun":"あや",
 		"eng": "figured cloth, beautiful",
 		"russian": "Красивый"
 	},
 	{
 		"kandji": "芋",
-		"katakana": "ウ",
-		"hiragana": "いも",
+		"on":"ウ",
+		"kun":"いも",
 		"eng": "potato",
 		"russian": "Батат"
 	},
 	{
 		"kandji": "茜",
-		"katakana": "セン",
-		"hiragana": "あかね",
+		"on":"セン",
+		"kun":"あかね",
 		"eng": "madder, red dye, Turkey red",
 		"russian": "Марена"
 	},
 	{
 		"kandji": "凌",
-		"katakana": "リョウ",
-		"hiragana": "しの.ぐ",
+		"on":"リョウ",
+		"kun":"しの.ぐ",
 		"eng": "endure, keep (rain)out, stave off, tide over, defy, slight, surpass",
 		"russian": "Преодолевать"
 	},
 	{
 		"kandji": "皓",
-		"katakana": "コウ ヒカ.",
-		"hiragana": "しろ.い",
+		"on":"コウ ヒカ.",
+		"kun":"しろ.い",
 		"eng": "white, clear",
 		"russian": "Ослепительно белый"
 	},
 	{
 		"kandji": "洸",
-		"katakana": "コ",
+		"on":"コ",
 		"eng": "sparkling water",
 		"russian": "Водная ширь"
 	},
 	{
 		"kandji": "毬",
-		"katakana": "キュウ",
-		"hiragana": "いが まり",
+		"on":"キュウ",
+		"kun":"いが まり",
 		"eng": "burr, ball",
 		"russian": "Шишка"
 	},
 	{
 		"kandji": "婆",
-		"katakana": "バ",
-		"hiragana": "ばば ばあ",
+		"on":"バ",
+		"kun":"ばば ばあ",
 		"eng": "old woman, grandma, wet nurse",
 		"russian": "Старуха"
 	},
 	{
 		"kandji": "緋",
-		"katakana": "ヒ",
-		"hiragana": "あけ あか",
+		"on":"ヒ",
+		"kun":"あけ あか",
 		"eng": "scarlet, cardinal",
 		"russian": "Пунцовый"
 	},
 	{
 		"kandji": "鯛",
-		"katakana": "チョウ",
-		"hiragana": "たい",
+		"on":"チョウ",
+		"kun":"たい",
 		"eng": "sea bream, red snapper",
 		"russian": "Морской карась"
 	},
 	{
 		"kandji": "怜",
-		"katakana": "レイ レン リョウ サト.",
-		"hiragana": "あわ.れむ",
+		"on":"レイ レン リョウ サト.",
+		"kun":"あわ.れむ",
 		"eng": "wise",
 		"russian": "Умный"
 	},
 	{
 		"kandji": "邑",
-		"katakana": "ユウ ム",
-		"hiragana": "うれ.える くに",
+		"on":"ユウ ム",
+		"kun":"うれ.える くに",
 		"eng": "village, rural community, right village radical (no. 163)",
 		"russian": "Деревня"
 	},
 	{
 		"kandji": "倣",
-		"katakana": "ホウ",
-		"hiragana": "なら.う",
+		"on":"ホウ",
+		"kun":"なら.う",
 		"eng": "emulate, imitate",
 		"russian": "Подражать"
 	},
 	{
 		"kandji": "碧",
-		"katakana": "ヘキ ヒャ",
+		"on":"ヘキ ヒャ",
 		"eng": "blue, green",
 		"russian": "Лазурный"
 	},
 	{
 		"kandji": "啄",
-		"katakana": "タク ツク トク ツツ.",
-		"hiragana": "ついば.む",
+		"on":"タク ツク トク ツツ.",
+		"kun":"ついば.む",
 		"eng": "peck, pick up",
 		"russian": "Клевать"
 	},
 	{
 		"kandji": "穣",
-		"katakana": "ジョウ ユタ",
-		"hiragana": "わら",
+		"on":"ジョウ ユタ",
+		"kun":"わら",
 		"eng": "good crops, prosperity, 10**28",
 		"russian": "Богатый урожай"
 	},
 	{
 		"kandji": "酉",
-		"katakana": "ユウ ト",
+		"on":"ユウ ト",
 		"eng": "west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)",
 		"russian": "Знак Петуха"
 	},
 	{
 		"kandji": "悌",
-		"katakana": "テイ ダ",
+		"on":"テイ ダ",
 		"eng": "serving our elders",
 		"russian": "Братская любовь"
 	},
 	{
 		"kandji": "倹",
-		"katakana": "ケン",
-		"hiragana": "つま.しい つづまやか",
+		"on":"ケン",
+		"kun":"つま.しい つづまやか",
 		"eng": "frugal, economy, thrifty",
 		"russian": "Бережливый"
 	},
 	{
 		"kandji": "柚",
-		"katakana": "ユ ユウ ジク",
-		"hiragana": "ゆず",
+		"on":"ユ ユウ ジク",
+		"kun":"ゆず",
 		"eng": "citron",
 		"russian": "Цитрон"
 	},
 	{
 		"kandji": "繭",
-		"katakana": "ケン",
-		"hiragana": "まゆ きぬ",
+		"on":"ケン",
+		"kun":"まゆ きぬ",
 		"eng": "cocoon",
 		"russian": "Кокон"
 	},
 	{
 		"kandji": "亦",
-		"katakana": "エキ ヤク",
-		"hiragana": "また",
+		"on":"エキ ヤク",
+		"kun":"また",
 		"eng": "also, again",
 		"russian": "Тоже"
 	},
 	{
 		"kandji": "詢",
-		"katakana": "ジュン シュン",
-		"hiragana": "はか.る まこと",
+		"on":"ジュン シュン",
+		"kun":"はか.る まこと",
 		"eng": "consult with",
 		"russian": "Спрашивать"
 	},
 	{
 		"kandji": "采",
-		"katakana": "サイ",
-		"hiragana": "と.る いろどり",
+		"on":"サイ",
+		"kun":"と.る いろどり",
 		"eng": "dice, form, appearance, take, coloring",
 		"russian": "Игральная кость"
 	},
 	{
 		"kandji": "紗",
-		"katakana": "サ シャ ウスギ",
+		"on":"サ シャ ウスギ",
 		"eng": "gauze, gossamer",
 		"russian": "Шёлковый газ"
 	},
 	{
 		"kandji": "賦",
-		"katakana": "フ",
+		"on":"フ",
 		"eng": "levy, ode, prose, poem, tribute, installment",
 		"russian": "Взнос"
 	},
 	{
 		"kandji": "眸",
-		"katakana": "ボウ ム",
-		"hiragana": "ひとみ",
+		"on":"ボウ ム",
+		"kun":"ひとみ",
 		"eng": "pupil of the eye",
 		"russian": "Зрачок"
 	},
 	{
 		"kandji": "玖",
-		"katakana": "キュウ",
+		"on":"キュウ",
 		"eng": "beautiful black jewel, nine",
 		"russian": "Девять"
 	},
 	{
 		"kandji": "弐",
-		"katakana": "ニ ジ",
-		"hiragana": "ふた.つ そえ",
+		"on":"ニ ジ",
+		"kun":"ふた.つ そえ",
 		"eng": "II, two, second",
 		"russian": "Два"
 	},
 	{
 		"kandji": "錘",
-		"katakana": "スイ",
-		"hiragana": "つむ おもり",
+		"on":"スイ",
+		"kun":"つむ おもり",
 		"eng": "weight, plumb bob, sinker",
 		"russian": "Веретено"
 	},
 	{
 		"kandji": "諄",
-		"katakana": "シュン",
-		"hiragana": "ひちくど.い くど.い くどくど ねんご.ろ",
+		"on":"シュン",
+		"kun":"ひちくど.い くど.い くどくど ねんご.ろ",
 		"eng": "tedious",
 		"russian": "Назойливый"
 	},
 	{
 		"kandji": "倖",
-		"katakana": "コウ",
-		"hiragana": "しあわ.せ さいわ.い",
+		"on":"コウ",
+		"kun":"しあわ.せ さいわ.い",
 		"eng": "happiness, luck",
 		"russian": "Счастье"
 	},
 	{
 		"kandji": "痘",
-		"katakana": "トウ",
+		"on":"トウ",
 		"eng": "pox, smallpox",
 		"russian": "Оспа"
 	},
 	{
 		"kandji": "笙",
-		"katakana": "ショウ ソウ",
-		"hiragana": "ふえ",
+		"on":"ショウ ソウ",
+		"kun":"ふえ",
 		"eng": "a reed instrument",
 		"russian": "Духовой орган"
 	},
 	{
 		"kandji": "侃",
-		"katakana": "カン ツヨ.",
+		"on":"カン ツヨ.",
 		"eng": "strong, just, righteous, peace-loving",
 		"russian": "Откровенный"
 	},
 	{
 		"kandji": "裟",
-		"katakana": "サ シャ",
+		"on":"サ シャ",
 		"eng": "Buddhist surplice",
 		"russian": "Риза"
 	},
 	{
 		"kandji": "洵",
-		"katakana": "ジュン シュン",
-		"hiragana": "の.ぶ まこと.に",
+		"on":"ジュン シュン",
+		"kun":"の.ぶ まこと.に",
 		"eng": "alike, truth",
 		"russian": "Воистину"
 	},
 	{
 		"kandji": "爾",
-		"katakana": "ジ ニ ノ",
-		"hiragana": "なんじ しかり その",
+		"on":"ジ ニ ノ",
+		"kun":"なんじ しかり その",
 		"eng": "you, thou, second person",
 		"russian": "Это"
 	},
 	{
 		"kandji": "耗",
-		"katakana": "モウ コウ カウ",
+		"on":"モウ コウ カウ",
 		"eng": "decrease",
 		"russian": "Убыль"
 	},
 	{
 		"kandji": "昴",
-		"katakana": "コウ ボウ",
-		"hiragana": "すばる",
+		"on":"コウ ボウ",
+		"kun":"すばる",
 		"eng": "the Pleiades",
 		"russian": "Субару"
 	},
 	{
 		"kandji": "銑",
-		"katakana": "セン",
+		"on":"セン",
 		"eng": "pig iron",
 		"russian": "Чугун в чушках"
 	},
 	{
 		"kandji": "莞",
-		"katakana": "カン",
-		"hiragana": "い",
+		"on":"カン",
+		"kun":"い",
 		"eng": "reed used to cover tatami",
 		"russian": "Сцирпус"
 	},
 	{
 		"kandji": "伶",
-		"katakana": "レイ リョウ ワザオ",
+		"on":"レイ リョウ ワザオ",
 		"eng": "actor",
 		"russian": "Придворный музыкант"
 	},
 	{
 		"kandji": "碩",
-		"katakana": "セキ",
-		"hiragana": "おお.きい",
+		"on":"セキ",
+		"kun":"おお.きい",
 		"eng": "large, great, eminent",
 		"russian": "Выдающийся"
 	},
 	{
 		"kandji": "宥",
-		"katakana": "ユウ",
-		"hiragana": "なだ.める ゆる.す",
+		"on":"ユウ",
+		"kun":"なだ.める ゆる.す",
 		"eng": "soothe, calm, pacify",
 		"russian": "Утихомиривать"
 	},
 	{
 		"kandji": "滉",
-		"katakana": "コウ",
-		"hiragana": "ひろ.い",
+		"on":"コウ",
+		"kun":"ひろ.い",
 		"eng": "deep and broad",
 		"russian": "Глубокий и широкий"
 	},
 	{
 		"kandji": "晏",
-		"katakana": "アン",
-		"hiragana": "おそ.い",
+		"on":"アン",
+		"kun":"おそ.い",
 		"eng": "late, quiet, sets (sun)",
 		"russian": "Поздний"
 	},
 	{
 		"kandji": "伎",
-		"katakana": "ギ キ",
-		"hiragana": "わざ わざおぎ",
+		"on":"ギ キ",
+		"kun":"わざ わざおぎ",
 		"eng": "deed, skill",
 		"russian": "Кабуки"
 	},
 	{
 		"kandji": "朕",
-		"katakana": "チン",
+		"on":"チン",
 		"eng": "majestic plural, imperial we",
 		"russian": "Императорское «мы»"
 	},
 	{
 		"kandji": "迪",
-		"katakana": "テキ イタ.",
-		"hiragana": "みち みち.びく すす.む",
+		"on":"テキ イタ.",
+		"kun":"みち みち.びく すす.む",
 		"eng": "edify, way, path",
 		"russian": "Путь"
 	},
 	{
 		"kandji": "綸",
-		"katakana": "リン カン",
-		"hiragana": "いと",
+		"on":"リン カン",
+		"kun":"いと",
 		"eng": "thread, silk cloth",
 		"russian": "Слова императора"
 	},
 	{
 		"kandji": "且",
-		"katakana": "ショ ソ ショウ カ.",
+		"on":"ショ ソ ショウ カ.",
 		"eng": "moreover, also, furthermore",
 		"russian": "Кроме того"
 	},
 	{
 		"kandji": "竣",
-		"katakana": "ドウ シュン",
-		"hiragana": "わらわ わらべ おわ.る",
+		"on":"ドウ シュン",
+		"kun":"わらわ わらべ おわ.る",
 		"eng": "end, finish",
 		"russian": "Завершение"
 	},
 	{
 		"kandji": "晨",
-		"katakana": "シン",
-		"hiragana": "あした とき あさ",
+		"on":"シン",
+		"kun":"あした とき あさ",
 		"eng": "morning, early",
 		"russian": "Утренняя заря"
 	},
@@ -7617,391 +7617,391 @@
 	},
 	{
 		"kandji": "燦",
-		"katakana": "サン",
-		"hiragana": "さん.たる あき.らか きらめ.く きら.めく",
+		"on":"サン",
+		"kun":"さん.たる あき.らか きらめ.く きら.めく",
 		"eng": "brilliant",
 		"russian": "Блистающий"
 	},
 	{
 		"kandji": "麿",
-		"katakana": "マ",
+		"on":"マ",
 		"eng": "I, you, (kokuji)",
 		"russian": "Суффикс мужских имён"
 	},
 	{
 		"kandji": "頌",
-		"katakana": "ショウ ジュ ヨウ ホメ.",
-		"hiragana": "かたち たた.える",
+		"on":"ショウ ジュ ヨウ ホメ.",
+		"kun":"かたち たた.える",
 		"eng": "eulogy",
 		"russian": "Восхваление"
 	},
 	{
 		"kandji": "箇",
-		"katakana": "カ コ",
+		"on":"カ コ",
 		"eng": "counters for things",
 		"russian": "Штука"
 	},
 	{
 		"kandji": "楓",
-		"katakana": "フウ",
-		"hiragana": "かえで",
+		"on":"フウ",
+		"kun":"かえで",
 		"eng": "maple",
 		"russian": "Клён"
 	},
 	{
 		"kandji": "琳",
-		"katakana": "リン",
+		"on":"リン",
 		"eng": "jewel, tinkling of jewelry",
 		"russian": "Звон драгоценностей"
 	},
 	{
 		"kandji": "梧",
-		"katakana": "ゴ",
-		"hiragana": "あおぎり",
+		"on":"ゴ",
+		"kun":"あおぎり",
 		"eng": "Chinese parasol tree, phoenix tree",
 		"russian": "Фирмиана"
 	},
 	{
 		"kandji": "哉",
-		"katakana": "サイ",
-		"hiragana": "かな",
+		"on":"サイ",
+		"kun":"かな",
 		"eng": "how, what, alas, (question mark)",
 		"russian": "Ах!"
 	},
 	{
 		"kandji": "澪",
-		"katakana": "レイ",
-		"hiragana": "みお",
+		"on":"レイ",
+		"kun":"みお",
 		"eng": "water route, shipping channel",
 		"russian": "Фарватер"
 	},
 	{
 		"kandji": "匁",
-		"hiragana": "もんめ め ひゃくめ",
+		"kun":"もんめ め ひゃくめ",
 		"eng": "monme, 3.75 grams, (kokuji)",
 		"russian": "Моммэ"
 	},
 	{
 		"kandji": "晟",
-		"katakana": "セイ ジョウ",
-		"hiragana": "あきらか",
+		"on":"セイ ジョウ",
+		"kun":"あきらか",
 		"eng": "clear",
 		"russian": "Наполненный солнцем"
 	},
 	{
 		"kandji": "衿",
-		"katakana": "キン コン",
-		"hiragana": "えり",
+		"on":"キン コン",
+		"kun":"えり",
 		"eng": "neck, collar, lapel",
 		"russian": "Воротник"
 	},
 	{
 		"kandji": "凪",
-		"hiragana": "なぎ な.ぐ",
+		"kun":"なぎ な.ぐ",
 		"eng": "lull, calm, (kokuji)",
 		"russian": "Штиль"
 	},
 	{
 		"kandji": "梢",
-		"katakana": "ショウ",
-		"hiragana": "こずえ くすのき",
+		"on":"ショウ",
+		"kun":"こずえ くすのき",
 		"eng": "treetops, twig",
 		"russian": "Веточки"
 	},
 	{
 		"kandji": "丙",
-		"katakana": "ヘイ",
-		"hiragana": "ひのえ",
+		"on":"ヘイ",
+		"kun":"ひのえ",
 		"eng": "third class, 3rd, 3rd calendar sign",
 		"russian": "Третий"
 	},
 	{
 		"kandji": "颯",
-		"katakana": "サツ ソウ",
-		"hiragana": "さっ.と",
+		"on":"サツ ソウ",
+		"kun":"さっ.と",
 		"eng": "suddenly, smoothly",
 		"russian": "Шелест"
 	},
 	{
 		"kandji": "茄",
-		"katakana": "カ",
+		"on":"カ",
 		"eng": "eggplant",
 		"russian": "Баклажан"
 	},
 	{
 		"kandji": "勺",
-		"katakana": "シャク",
+		"on":"シャク",
 		"eng": "ladle, one tenth of a go, dip",
 		"russian": "Мера ёмкости"
 	},
 	{
 		"kandji": "恕",
-		"katakana": "ジョ ショ",
-		"hiragana": "ゆる.す",
+		"on":"ジョ ショ",
+		"kun":"ゆる.す",
 		"eng": "excuse, tolerate, forgive",
 		"russian": "Снисходительность"
 	},
 	{
 		"kandji": "蕗",
-		"katakana": "ロ ル",
-		"hiragana": "ふき",
+		"on":"ロ ル",
+		"kun":"ふき",
 		"eng": "butterbur, bog rhubarb",
 		"russian": "Белокопытник"
 	},
 	{
 		"kandji": "瑚",
-		"katakana": "コ ゴ",
+		"on":"コ ゴ",
 		"eng": "ancestral offering receptacle",
 		"russian": "Коралл"
 	},
 	{
 		"kandji": "遵",
-		"katakana": "ジュン",
+		"on":"ジュン",
 		"eng": "abide by, follow, obey, learn",
 		"russian": "Соблюдать"
 	},
 	{
 		"kandji": "瞭",
-		"katakana": "リョウ",
-		"hiragana": "あきらか",
+		"on":"リョウ",
+		"kun":"あきらか",
 		"eng": "clear",
 		"russian": "Очевидный"
 	},
 	{
 		"kandji": "燎",
-		"katakana": "リョウ",
-		"hiragana": "かがりび",
+		"on":"リョウ",
+		"kun":"かがりび",
 		"eng": "burn, bonfire",
 		"russian": "Осветительный костёр"
 	},
 	{
 		"kandji": "虞",
-		"katakana": "グ",
-		"hiragana": "おそれ",
+		"on":"グ",
+		"kun":"おそれ",
 		"eng": "uneasiness, fear, anxiety, concern",
 		"russian": "Опасения"
 	},
 	{
 		"kandji": "柊",
-		"katakana": "シュ シュウ",
-		"hiragana": "ひいらぎ",
+		"on":"シュ シュウ",
+		"kun":"ひいらぎ",
 		"eng": "holly",
 		"russian": "Падуб"
 	},
 	{
 		"kandji": "侑",
-		"katakana": "ユウ ウ タス.ケ",
-		"hiragana": "すす.める",
+		"on":"ユウ ウ タス.ケ",
+		"kun":"すす.める",
 		"eng": "urge to eat",
 		"russian": "Угощать"
 	},
 	{
 		"kandji": "謁",
-		"katakana": "エツ",
+		"on":"エツ",
 		"eng": "audience, audience (with king)",
 		"russian": "Аудиенция"
 	},
 	{
 		"kandji": "斤",
-		"hiragana": "おの",
+		"kun":"おの",
 		"eng": "axe, 1.32 lb, catty, counter for loaves of bread",
 		"russian": "Катти"
 	},
 	{
 		"kandji": "嵩",
-		"katakana": "スウ シュウ タカ.",
-		"hiragana": "かさ かさ.む",
+		"on":"スウ シュウ タカ.",
+		"kun":"かさ かさ.む",
 		"eng": "be aggravated, grow worse, grow bulky, swell",
 		"russian": "Громоздкий"
 	},
 	{
 		"kandji": "捺",
-		"katakana": "ナツ ダツ",
-		"hiragana": "さ.す お.す",
+		"on":"ナツ ダツ",
+		"kun":"さ.す お.す",
 		"eng": "press, print, affix a seal, stamp",
 		"russian": "Прикладывать печать"
 	},
 	{
 		"kandji": "蓉",
-		"katakana": "ヨ",
+		"on":"ヨ",
 		"eng": "lotus",
 		"russian": "Гибискус изменчивый"
 	},
 	{
 		"kandji": "茉",
-		"katakana": "マツ バツ",
+		"on":"マツ バツ",
 		"eng": "jasmine",
 		"russian": "Жасмин"
 	},
 	{
 		"kandji": "袈",
-		"katakana": "ケ カ",
+		"on":"ケ カ",
 		"eng": "a coarse camlet",
 		"russian": "Риза"
 	},
 	{
 		"kandji": "燿",
-		"katakana": "ヨウ",
-		"hiragana": "かがや.く ひかり",
+		"on":"ヨウ",
+		"kun":"かがや.く ひかり",
 		"eng": "shine",
 		"russian": "Блистать"
 	},
 	{
 		"kandji": "誼",
-		"katakana": "ギ",
-		"hiragana": "よしみ よい",
+		"on":"ギ",
+		"kun":"よしみ よい",
 		"eng": "friendship, intimacy",
 		"russian": "Дружба"
 	},
 	{
 		"kandji": "冶",
-		"katakana": "ヤ イ.",
+		"on":"ヤ イ.",
 		"eng": "melting, smelting",
 		"russian": "Металлургия"
 	},
 	{
 		"kandji": "栞",
-		"katakana": "カン",
-		"hiragana": "しおり",
+		"on":"カン",
+		"kun":"しおり",
 		"eng": "bookmark, guidebook",
 		"russian": "Закладка"
 	},
 	{
 		"kandji": "墾",
-		"katakana": "コン",
+		"on":"コン",
 		"eng": "ground-breaking, open up farmland",
 		"russian": "Расчистка"
 	},
 	{
 		"kandji": "勁",
-		"katakana": "ケイ",
-		"hiragana": "つよ.い",
+		"on":"ケイ",
+		"kun":"つよ.い",
 		"eng": "strong",
 		"russian": "Сильный"
 	},
 	{
 		"kandji": "菖",
-		"katakana": "ショウ",
+		"on":"ショウ",
 		"eng": "iris",
 		"russian": "Ирис"
 	},
 	{
 		"kandji": "旦",
-		"katakana": "タン ダン",
-		"hiragana": "あき.らか あきら ただし あさ あした",
+		"on":"タン ダン",
+		"kun":"あき.らか あきら ただし あさ あした",
 		"eng": "nightbreak, dawn, morning",
 		"russian": "Новый день"
 	},
 	{
 		"kandji": "椋",
-		"katakana": "リョウ ム",
+		"on":"リョウ ム",
 		"eng": "type of deciduous tree, grey starling",
 		"russian": "Скворец"
 	},
 	{
 		"kandji": "叡",
-		"katakana": "エイ",
-		"hiragana": "あき.らか",
+		"on":"エイ",
+		"kun":"あき.らか",
 		"eng": "intelligence, imperial",
 		"russian": "Императорский"
 	},
 	{
 		"kandji": "紬",
-		"katakana": "チュウ",
-		"hiragana": "つむぎ つむ.ぐ",
+		"on":"チュウ",
+		"kun":"つむぎ つむ.ぐ",
 		"eng": "pongee (a knotted silk cloth)",
 		"russian": "Чесуча"
 	},
 	{
 		"kandji": "胤",
-		"katakana": "イン タ",
+		"on":"イン タ",
 		"eng": "descendent, issue, offspring",
 		"russian": "Отцовская кровь"
 	},
 	{
 		"kandji": "凜",
-		"katakana": "リン",
-		"hiragana": "きびし.い",
+		"on":"リン",
+		"kun":"きびし.い",
 		"eng": "cold, strict, severe",
 		"russian": "Жестокий холод"
 	},
 	{
 		"kandji": "亥",
-		"katakana": "ガイ カイ",
+		"on":"ガイ カイ",
 		"eng": "sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac",
 		"russian": "Знак Кабана"
 	},
 	{
 		"kandji": "爵",
-		"katakana": "シャク",
+		"on":"シャク",
 		"eng": "baron, peerage, court rank",
 		"russian": "Титул"
 	},
 	{
 		"kandji": "脹",
-		"katakana": "チョウ",
-		"hiragana": "は.れる ふく.らむ ふく.れる",
+		"on":"チョウ",
+		"kun":"は.れる ふく.らむ ふく.れる",
 		"eng": "dilate, distend, bulge, fill out, swell",
 		"russian": "Вздуваться"
 	},
 	{
 		"kandji": "麟",
-		"katakana": "リン",
+		"on":"リン",
 		"eng": "Chinese unicorn, genius, giraffe, bright, shining",
 		"russian": "Цзилинь"
 	},
 	{
 		"kandji": "莉",
-		"katakana": "リ ライ レイ",
+		"on":"リ ライ レイ",
 		"eng": "jasmine",
 		"russian": "Жасмин"
 	},
 	{
 		"kandji": "汰",
-		"katakana": "タ タイ",
-		"hiragana": "おご.る にご.る よな.げる",
+		"on":"タ タイ",
+		"kun":"おご.る にご.る よな.げる",
 		"eng": "luxury, select",
 		"russian": "Отбор"
 	},
 	{
 		"kandji": "瑶",
-		"katakana": "ヨウ",
-		"hiragana": "たま",
+		"on":"ヨウ",
+		"kun":"たま",
 		"eng": "beautiful as a jewel",
 		"russian": "Прекрасный"
 	},
 	{
 		"kandji": "瑳",
-		"katakana": "サ",
-		"hiragana": "みが.く",
+		"on":"サ",
+		"kun":"みが.く",
 		"eng": "polish",
 		"russian": "Полировать"
 	},
 	{
 		"kandji": "耶",
-		"katakana": "ヤ ジャ",
-		"hiragana": "か",
+		"on":"ヤ ジャ",
+		"kun":"か",
 		"eng": "question mark",
 		"russian": "Христианство"
 	},
 	{
 		"kandji": "椰",
-		"katakana": "ヤ",
-		"hiragana": "やし",
+		"on":"ヤ",
+		"kun":"やし",
 		"eng": "coconut tree",
 		"russian": "Кокосовая пальма"
 	},
 	{
 		"kandji": "絃",
-		"katakana": "ゲン",
-		"hiragana": "いと",
+		"on":"ゲン",
+		"kun":"いと",
 		"eng": "string, cord, samisen music",
 		"russian": "Струна"
 	},
 	{
 		"kandji": "丞",
-		"katakana": "ジョウ ショウ タス.ケ",
-		"hiragana": "すく.う",
+		"on":"ジョウ ショウ タス.ケ",
+		"kun":"すく.う",
 		"eng": "help",
 		"russian": "Имена"
 	},
@@ -8012,67 +8012,67 @@
 	},
 	{
 		"kandji": "奎",
-		"katakana": "ケイ キ",
+		"on":"ケイ キ",
 		"eng": "star, god of literature",
 		"russian": "Культура"
 	},
 	{
 		"kandji": "塑",
-		"katakana": "ソ",
-		"hiragana": "でく",
+		"on":"ソ",
+		"kun":"でく",
 		"eng": "model, molding",
 		"russian": "Ваять"
 	},
 	{
 		"kandji": "昂",
-		"katakana": "コウ ゴウ タカ.ブ",
-		"hiragana": "あ.がる たか.い",
+		"on":"コウ ゴウ タカ.ブ",
+		"kun":"あ.がる たか.い",
 		"eng": "rise",
 		"russian": "Подниматься"
 	},
 	{
 		"kandji": "柾",
-		"hiragana": "まさ まさめ まさき",
+		"kun":"まさ まさめ まさき",
 		"eng": "straight grain, spindle tree, (kokuji)",
 		"russian": "Бересклет"
 	},
 	{
 		"kandji": "熙",
-		"katakana": "キ",
-		"hiragana": "たのし.む ひか.る ひろ.い よろこ.ぶ かわ.く あきらか ひろ.める ひろ.まる",
+		"on":"キ",
+		"kun":"たのし.む ひか.る ひろ.い よろこ.ぶ かわ.く あきらか ひろ.める ひろ.まる",
 		"eng": "bright, sunny, prosperous, merry",
 		"russian": "Имена"
 	},
 	{
 		"kandji": "菫",
-		"katakana": "キン",
-		"hiragana": "すみれ",
+		"on":"キン",
+		"kun":"すみれ",
 		"eng": "the violet",
 		"russian": "Фиалка"
 	},
 	{
 		"kandji": "諒",
-		"katakana": "リョウ マコト",
-		"hiragana": "あきら.か",
+		"on":"リョウ マコト",
+		"kun":"あきら.か",
 		"eng": "fact, reality, understand, appreciate",
 		"russian": "Понимание"
 	},
 	{
 		"kandji": "鞠",
-		"katakana": "キク キュウ マ",
+		"on":"キク キュウ マ",
 		"eng": "ball",
 		"russian": "Мяч"
 	},
 	{
 		"kandji": "崚",
-		"katakana": "リョウ",
+		"on":"リョウ",
 		"eng": "towering in a row",
 		"russian": "Громоздящиеся горы"
 	},
 	{
 		"kandji": "濫",
-		"katakana": "ラン",
-		"hiragana": "みだ.りに みだ.りがましい",
+		"on":"ラン",
+		"kun":"みだ.りに みだ.りがましい",
 		"eng": "excessive, overflow, spread out",
 		"russian": "Превышение"
 	}
