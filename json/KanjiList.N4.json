@@ -1,1102 +1,1102 @@
 [
 	{
-		"kandji": "会",
+		"kanji": "会",
 		"on":"カイ エ アツ.マ",
 		"kun":"あ.う あ.わせる",
 		"eng": "meeting, meet, party, association, interview, join",
 		"russian": "Встреча"
 	},
 	{
-		"kandji": "同",
+		"kanji": "同",
 		"on":"ドウ",
 		"kun":"おな.じ",
 		"eng": "same, agree, equal",
 		"russian": "Одинаковый"
 	},
 	{
-		"kandji": "事",
+		"kanji": "事",
 		"on":"ジ ズ ツカ.エ",
 		"kun":"こと つか.う",
 		"eng": "matter, thing, fact, business, reason, possibly",
 		"russian": "Дело"
 	},
 	{
-		"kandji": "自",
+		"kanji": "自",
 		"on":"ジ シ オノ.ズ",
 		"kun":"みずか.ら おの.ずから",
 		"eng": "oneself",
 		"russian": "Сам"
 	},
 	{
-		"kandji": "社",
+		"kanji": "社",
 		"on":"シャ ヤシ",
 		"kun":"やしろ",
 		"eng": "company, firm, office, association, shrine",
 		"russian": "Фирма"
 	},
 	{
-		"kandji": "発",
+		"kanji": "発",
 		"on":"ハツ ホツ ハナ.",
 		"kun":"た.つ あば.く おこ.る つか.わす",
 		"eng": "discharge, departure, publish, emit, start from, disclose",
 		"russian": "Испускать"
 	},
 	{
-		"kandji": "者",
+		"kanji": "者",
 		"on":"シャ",
 		"kun":"もの",
 		"eng": "someone, person",
 		"russian": "Человек"
 	},
 	{
-		"kandji": "地",
+		"kanji": "地",
 		"on":"チ",
 		"eng": "ground, earth",
 		"russian": "Земля"
 	},
 	{
-		"kandji": "業",
+		"kanji": "業",
 		"on":"ギョウ ゴウ ワ",
 		"eng": "business, vocation, arts, performance",
 		"russian": "Промышленность"
 	},
 	{
-		"kandji": "方",
+		"kanji": "方",
 		"on":"ホウ -ガ",
 		"kun":"かた -かた",
 		"eng": "direction, person, alternative",
 		"russian": "Сторона"
 	},
 	{
-		"kandji": "新",
+		"kanji": "新",
 		"on":"シン",
 		"kun":"あたら.しい あら.た あら- にい",
 		"eng": "new",
 		"russian": "Новый"
 	},
 	{
-		"kandji": "場",
+		"kanji": "場",
 		"on":"ジョウ チョウ",
 		"kun":"ば",
 		"eng": "location, place",
 		"russian": "Место"
 	},
 	{
-		"kandji": "員",
+		"kanji": "員",
 		"on":"イ",
 		"eng": "employee, member, number, the one in charge",
 		"russian": "Персонал"
 	},
 	{
-		"kandji": "立",
+		"kanji": "立",
 		"on":"リツ リュウ リットル -ダ.テ",
 		"kun":"た.つ -た.つ た.ち- た.てる -た.てる た.て- たて- -た.て -だ.て",
 		"eng": "stand up",
 		"russian": "Стоять"
 	},
 	{
-		"kandji": "開",
+		"kanji": "開",
 		"on":"カイ ア.ケ",
 		"kun":"ひら.く ひら.き -びら.き ひら.ける あ.く",
 		"eng": "open, unfold, unseal",
 		"russian": "Открывать"
 	},
 	{
-		"kandji": "手",
+		"kanji": "手",
 		"on":"シュ ズ",
 		"kun":"て て- -て た-",
 		"eng": "hand",
 		"russian": "Рука"
 	},
 	{
-		"kandji": "力",
+		"kanji": "力",
 		"on":"リョク リキ リイ チカ",
 		"eng": "power, strong, strain, bear up, exert",
 		"russian": "Сила"
 	},
 	{
-		"kandji": "問",
+		"kanji": "問",
 		"on":"モン ト",
 		"kun":"と.う と.い",
 		"eng": "question, ask, problem",
 		"russian": "Вопрос"
 	},
 	{
-		"kandji": "代",
+		"kanji": "代",
 		"on":"ダイ タイ シ",
 		"kun":"か.わる かわ.る かわ.り -がわ.り か.える よ",
 		"eng": "substitute, change, convert, replace, period, age, generation, charge, rate, fee",
 		"russian": "Замещать"
 	},
 	{
-		"kandji": "明",
+		"kanji": "明",
 		"on":"メイ ミョウ ミン ア.カ",
 		"kun":"あ.かり あか.るい あか.るむ あか.らむ あき.らか あ.ける -あ.け あ.く あ.くる",
 		"eng": "bright, light",
 		"russian": "Ясный"
 	},
 	{
-		"kandji": "動",
+		"kanji": "動",
 		"on":"ドウ ウゴ.カ",
 		"kun":"うご.く",
 		"eng": "move, motion, change, confusion, shift, shake",
 		"russian": "Двигаться"
 	},
 	{
-		"kandji": "京",
+		"kanji": "京",
 		"on":"キョウ ケイ キン ミヤ",
 		"eng": "capital, 10**16",
 		"russian": "Столичный город"
 	},
 	{
-		"kandji": "目",
+		"kanji": "目",
 		"on":"モク ボク",
 		"kun":"め -め ま",
 		"eng": "eye, class, look, insight, experience, care, favor",
 		"russian": "Глаз"
 	},
 	{
-		"kandji": "通",
+		"kanji": "通",
 		"on":"ツウ ツ カヨ.",
 		"kun":"とお.る とお.り -とお.り -どお.り とお.す とお.し -どお.し",
 		"eng": "traffic, pass through, avenue, commute, counter for letters",
 		"russian": "Проходить"
 	},
 	{
-		"kandji": "言",
+		"kanji": "言",
 		"on":"ゲン ゴン コ",
 		"kun":"い.う",
 		"eng": "say",
 		"russian": "Слово"
 	},
 	{
-		"kandji": "理",
+		"kanji": "理",
 		"on":"リ コトワ",
 		"eng": "logic, arrangement, reason, justice, truth",
 		"russian": "Принцип"
 	},
 	{
-		"kandji": "体",
+		"kanji": "体",
 		"on":"タイ テイ カタ",
 		"kun":"からだ",
 		"eng": "body, substance, object, reality, counter for images",
 		"russian": "Тело"
 	},
 	{
-		"kandji": "田",
+		"kanji": "田",
 		"on":"デン",
 		"eng": "rice field, rice paddy",
 		"russian": "Рисовое поле"
 	},
 	{
-		"kandji": "主",
+		"kanji": "主",
 		"on":"シュ ス シュウ アル",
 		"kun":"ぬし おも",
 		"eng": "lord, chief, master, main thing, principal",
 		"russian": "Хозяин"
 	},
 	{
-		"kandji": "題",
+		"kanji": "題",
 		"on":"ダイ",
 		"eng": "topic, subject",
 		"russian": "Тема"
 	},
 	{
-		"kandji": "意",
+		"kanji": "意",
 		"eng": "idea, mind, heart, taste, thought, desire, care, liking",
 		"russian": "Мысль"
 	},
 	{
-		"kandji": "不",
+		"kanji": "不",
 		"on":"フ ブ",
 		"eng": "negative, non-, bad, ugly, clumsy",
 		"russian": "Не"
 	},
 	{
-		"kandji": "作",
+		"kanji": "作",
 		"on":"サク サ -ヅク.",
 		"kun":"つく.る つく.り",
 		"eng": "make, production, prepare, build",
 		"russian": "Делать"
 	},
 	{
-		"kandji": "用",
+		"kanji": "用",
 		"on":"ヨウ モチ.イ",
 		"eng": "utilize, business, service, use, employ",
 		"russian": "Употреблять"
 	},
 	{
-		"kandji": "度",
+		"kanji": "度",
 		"on":"ド ト タク -タ.",
 		"kun":"たび",
 		"eng": "degrees, occurrence, time, counter for occurrences",
 		"russian": "Градус"
 	},
 	{
-		"kandji": "強",
+		"kanji": "強",
 		"on":"キョウ ゴウ コワ.",
 		"kun":"つよ.い つよ.まる つよ.める し.いる",
 		"eng": "strong",
 		"russian": "Сильный"
 	},
 	{
-		"kandji": "公",
+		"kanji": "公",
 		"on":"コウ ク オオヤ",
 		"eng": "public, prince, official, governmental",
 		"russian": "Общественный"
 	},
 	{
-		"kandji": "持",
+		"kanji": "持",
 		"on":"ジ モ.テ",
 		"kun":"も.つ -も.ち",
 		"eng": "hold, have",
 		"russian": "Держать"
 	},
 	{
-		"kandji": "野",
+		"kanji": "野",
 		"on":"ヤ ショ",
 		"kun":"の の",
 		"eng": "plains, field, rustic, civilian life",
 		"russian": "Поле"
 	},
 	{
-		"kandji": "以",
+		"kanji": "以",
 		"on":"イ モッ.",
 		"eng": "by means of, because, in view of, compared with",
 		"russian": "Префикс направления"
 	},
 	{
-		"kandji": "思",
+		"kanji": "思",
 		"on":"シ",
 		"kun":"おも.う おもえら.く おぼ.す",
 		"eng": "think",
 		"russian": "Думать"
 	},
 	{
-		"kandji": "家",
+		"kanji": "家",
 		"on":"カ ケ ウ",
 		"kun":"いえ や",
 		"eng": "house, home",
 		"russian": "Дом"
 	},
 	{
-		"kandji": "世",
+		"kanji": "世",
 		"on":"セイ セ ソウ サンジュ",
 		"kun":"よ",
 		"eng": "generation, world, society, public",
 		"russian": "Мир"
 	},
 	{
-		"kandji": "多",
+		"kanji": "多",
 		"on":"タ",
 		"kun":"おお.い まさ.に まさ.る",
 		"eng": "many, frequent, much",
 		"russian": "Много"
 	},
 	{
-		"kandji": "正",
+		"kanji": "正",
 		"on":"セイ ショウ マサ.",
 		"kun":"ただ.しい ただ.す まさ",
 		"eng": "correct, justice, righteous, 10**40",
 		"russian": "Правильный"
 	},
 	{
-		"kandji": "安",
+		"kanji": "安",
 		"on":"アン ヤス.ラ",
 		"kun":"やす.い やす.まる やす",
 		"eng": "relax, cheap, low, quiet, rested, contented, peaceful",
 		"russian": "Дешёвый"
 	},
 	{
-		"kandji": "院",
+		"kanji": "院",
 		"on":"イン",
 		"eng": "Inst., institution, temple, mansion, school",
 		"russian": "Учреждение"
 	},
 	{
-		"kandji": "心",
+		"kanji": "心",
 		"kun":"りっしんべん",
 		"eng": "heart, mind, spirit",
 		"russian": "Сердце"
 	},
 	{
-		"kandji": "界",
+		"kanji": "界",
 		"on":"カイ",
 		"eng": "world",
 		"russian": "Сфера"
 	},
 	{
-		"kandji": "教",
+		"kanji": "教",
 		"on":"キョウ オソ.ワ",
 		"kun":"おし.える",
 		"eng": "teach, faith, doctrine",
 		"russian": "Учить"
 	},
 	{
-		"kandji": "文",
+		"kanji": "文",
 		"on":"ブン モン ア",
 		"kun":"ふみ",
 		"eng": "sentence, literature, style, art, decoration, figures, plan",
 		"russian": "Литература"
 	},
 	{
-		"kandji": "元",
+		"kanji": "元",
 		"on":"ゲン ガン モ",
 		"eng": "beginning, former time, origin",
 		"russian": "Начало"
 	},
 	{
-		"kandji": "重",
+		"kanji": "重",
 		"on":"ジュウ チョウ オ",
 		"kun":"え おも.い おも.り おも.なう かさ.ねる かさ.なる",
 		"eng": "heavy, heap up, pile up, nest of boxes, -fold",
 		"russian": "Тяжёлый"
 	},
 	{
-		"kandji": "近",
+		"kanji": "近",
 		"on":"キン コン チカ.",
 		"eng": "near, early, akin, tantamount",
 		"russian": "Близкий"
 	},
 	{
-		"kandji": "考",
+		"kanji": "考",
 		"on":"コウ カンガ.",
 		"kun":"かんが.える",
 		"eng": "consider, think over",
 		"russian": "Думать"
 	},
 	{
-		"kandji": "画",
+		"kanji": "画",
 		"on":"ガ カク エ カイ",
 		"kun":"えが.く かく.する かぎ.る はかりごと はか.る",
 		"eng": "brush-stroke, picture",
 		"russian": "Картина"
 	},
 	{
-		"kandji": "海",
+		"kanji": "海",
 		"on":"カイ ウ",
 		"eng": "sea, ocean",
 		"russian": "Море"
 	},
 	{
-		"kandji": "売",
+		"kanji": "売",
 		"on":"バイ ウ.レ",
 		"kun":"う.る",
 		"eng": "sell",
 		"russian": "Продавать"
 	},
 	{
-		"kandji": "知",
+		"kanji": "知",
 		"on":"チ シ.ラセ",
 		"kun":"し.る",
 		"eng": "know, wisdom",
 		"russian": "Знать"
 	},
 	{
-		"kandji": "道",
+		"kanji": "道",
 		"on":"ドウ トウ ミ",
 		"eng": "road-way, street, district, journey, course, moral, teachings",
 		"russian": "Дорога"
 	},
 	{
-		"kandji": "集",
+		"kanji": "集",
 		"on":"シュウ ツド.",
 		"kun":"あつ.まる あつ.める",
 		"eng": "gather, meet, congregate, swarm, flock",
 		"russian": "Собирать"
 	},
 	{
-		"kandji": "別",
+		"kanji": "別",
 		"on":"ベツ ワ.ケ",
 		"kun":"わか.れる",
 		"eng": "separate, branch off, diverge, fork, another, extra, specially",
 		"russian": "Отдельный"
 	},
 	{
-		"kandji": "物",
+		"kanji": "物",
 		"on":"ブツ モツ",
 		"kun":"もの もの-",
 		"eng": "thing, object, matter",
 		"russian": "Вещь"
 	},
 	{
-		"kandji": "使",
+		"kanji": "使",
 		"on":"シ",
 		"kun":"つか.う つか.い -つか.い -づか.い",
 		"eng": "use",
 		"russian": "Употреблять"
 	},
 	{
-		"kandji": "品",
+		"kanji": "品",
 		"on":"ヒン ホン",
 		"kun":"しな",
 		"eng": "goods, refinement, dignity, article, counter for meal courses",
 		"russian": "Товар"
 	},
 	{
-		"kandji": "計",
+		"kanji": "計",
 		"on":"ケイ ハカ.ラ",
 		"kun":"はか.る",
 		"eng": "plot, plan, scheme, measure",
 		"russian": "Измерять"
 	},
 	{
-		"kandji": "死",
+		"kanji": "死",
 		"on":"シ",
 		"kun":"し.ぬ し.に-",
 		"eng": "death, die",
 		"russian": "Смерть"
 	},
 	{
-		"kandji": "特",
+		"kanji": "特",
 		"on":"トク",
 		"eng": "special",
 		"russian": "Особый"
 	},
 	{
-		"kandji": "私",
+		"kanji": "私",
 		"on":"シ",
 		"kun":"わたくし わたし",
 		"eng": "private, I, me",
 		"russian": "Я"
 	},
 	{
-		"kandji": "始",
+		"kanji": "始",
 		"on":"シ ハジ.マ",
 		"kun":"はじ.める -はじ.める",
 		"eng": "commence, begin",
 		"russian": "Начало"
 	},
 	{
-		"kandji": "朝",
+		"kanji": "朝",
 		"on":"チョウ ア",
 		"eng": "morning, dynasty, regime, epoch, period, (North) Korea",
 		"russian": "Утро"
 	},
 	{
-		"kandji": "運",
+		"kanji": "運",
 		"on":"ウン",
 		"kun":"はこ.ぶ",
 		"eng": "carry, luck, destiny, fate, lot, transport, progress, advance",
 		"russian": "Судьба"
 	},
 	{
-		"kandji": "終",
+		"kanji": "終",
 		"on":"シュウ ツイ.",
 		"kun":"お.わる -お.わる おわ.る お.える つい",
 		"eng": "end, finish",
 		"russian": "Конец"
 	},
 	{
-		"kandji": "台",
+		"kanji": "台",
 		"on":"ダイ タイ",
 		"kun":"うてな われ つかさ",
 		"eng": "pedestal, a stand, counter for machines and vehicles",
 		"russian": "Подставка"
 	},
 	{
-		"kandji": "広",
+		"kanji": "広",
 		"on":"コウ",
 		"kun":"ひろ.い ひろ.まる ひろ.める ひろ.がる ひろ.げる",
 		"eng": "wide, broad, spacious",
 		"russian": "Широкий"
 	},
 	{
-		"kandji": "住",
+		"kanji": "住",
 		"on":"ジュウ ヂュウ チュウ -ズ.マ",
 		"kun":"す.む す.まう",
 		"eng": "dwell, reside, live, inhabit",
 		"russian": "Жить"
 	},
 	{
-		"kandji": "真",
+		"kanji": "真",
 		"on":"シン マコ",
 		"kun":"ま ま-",
 		"eng": "true, reality, Buddhist sect",
 		"russian": "Правда"
 	},
 	{
-		"kandji": "有",
+		"kanji": "有",
 		"on":"ユウ ウ ア.",
 		"eng": "possess, have, exist, happen, occur, approx",
 		"russian": "Иметь"
 	},
 	{
-		"kandji": "口",
+		"kanji": "口",
 		"on":"コウ ク",
 		"kun":"くち",
 		"eng": "mouth",
 		"russian": "Рот"
 	},
 	{
-		"kandji": "少",
+		"kanji": "少",
 		"on":"ショウ",
 		"kun":"すく.ない すこ.し",
 		"eng": "few, little",
 		"russian": "Мало"
 	},
 	{
-		"kandji": "町",
+		"kanji": "町",
 		"on":"チョウ",
 		"kun":"まち",
 		"eng": "village, town, block, street",
 		"russian": "Городок"
 	},
 	{
-		"kandji": "料",
+		"kanji": "料",
 		"on":"リョウ",
 		"eng": "fee, materials",
 		"russian": "Плата"
 	},
 	{
-		"kandji": "工",
+		"kanji": "工",
 		"on":"コウ ク",
 		"eng": "craft, construction",
 		"russian": "Техника"
 	},
 	{
-		"kandji": "建",
+		"kanji": "建",
 		"on":"ケン コン タ.",
 		"kun":"た.てる た.て -だ.て",
 		"eng": "build",
 		"russian": "Строить"
 	},
 	{
-		"kandji": "空",
+		"kanji": "空",
 		"on":"クウ ムナ.シ",
 		"kun":"そら あ.く あ.き あ.ける から す.く す.かす",
 		"eng": "empty, sky, void, vacant, vacuum",
 		"russian": "Пустота"
 	},
 	{
-		"kandji": "急",
+		"kanji": "急",
 		"on":"キュウ",
 		"kun":"いそ.ぐ いそ.ぎ",
 		"eng": "hurry, emergency, sudden, steep",
 		"russian": "Спешить"
 	},
 	{
-		"kandji": "止",
+		"kanji": "止",
 		"on":"シ -サ.",
 		"kun":"と.まる -ど.まり と.める -と.める -ど.め とど.める とど.め とど.まる や.める や.む -や.む よ.",
 		"eng": "stop, halt",
 		"russian": "Останавливать"
 	},
 	{
-		"kandji": "送",
+		"kanji": "送",
 		"on":"ソウ",
 		"kun":"おく.る",
 		"eng": "escort, send",
 		"russian": "Посылать"
 	},
 	{
-		"kandji": "切",
+		"kanji": "切",
 		"on":"セツ サイ -ギ.",
 		"kun":"き.る -き.る き.り -き.り -ぎ.り き.れる -き.れる き.れ -き.れ",
 		"eng": "cut, cutoff, be sharp",
 		"russian": "Резать"
 	},
 	{
-		"kandji": "転",
+		"kanji": "転",
 		"on":"テン",
 		"kun":"ころ.がる ころ.げる ころ.がす ころ.ぶ まろ.ぶ うたた うつ.る",
 		"eng": "revolve, turn around, change",
 		"russian": "Поворачиваться"
 	},
 	{
-		"kandji": "研",
+		"kanji": "研",
 		"on":"ケン ト.",
 		"eng": "polish, study of, sharpen",
 		"russian": "Точить"
 	},
 	{
-		"kandji": "足",
+		"kanji": "足",
 		"on":"ソク タ.",
 		"kun":"あし た.りる た.る",
 		"eng": "leg, foot, be sufficient, counter for pairs of footwear",
 		"russian": "Нога"
 	},
 	{
-		"kandji": "究",
+		"kanji": "究",
 		"on":"キュウ ク キワ.メ",
 		"eng": "research, study",
 		"russian": "Осваивать"
 	},
 	{
-		"kandji": "楽",
+		"kanji": "楽",
 		"on":"ガク ラク ゴウ コノ.",
 		"kun":"たの.しい たの.しむ",
 		"eng": "music, comfort, ease",
 		"russian": "Удовольствие"
 	},
 	{
-		"kandji": "起",
+		"kanji": "起",
 		"on":"キ",
 		"kun":"お.きる お.こる お.こす おこ.す た.つ",
 		"eng": "rouse, wake up, get up",
 		"russian": "Вставать"
 	},
 	{
-		"kandji": "着",
+		"kanji": "着",
 		"on":"チャク ジャク",
 		"kun":"き.る -ぎ き.せる -き.せ つ.く つ.ける",
 		"eng": "don, arrive, wear, counter for suits of clothing",
 		"russian": "Прибытие"
 	},
 	{
-		"kandji": "店",
+		"kanji": "店",
 		"on":"テン",
 		"kun":"みせ たな",
 		"eng": "store, shop",
 		"russian": "Магазин"
 	},
 	{
-		"kandji": "病",
+		"kanji": "病",
 		"on":"ビョウ ヘイ",
 		"kun":"や.む -や.み やまい",
 		"eng": "ill, sick",
 		"russian": "Болеть"
 	},
 	{
-		"kandji": "質",
+		"kanji": "質",
 		"on":"シツ シチ チ",
 		"kun":"たち ただ.す もと わりふ",
 		"eng": "substance, quality, matter, temperament",
 		"russian": "Качество"
 	},
 	{
-		"kandji": "待",
+		"kanji": "待",
 		"on":"タイ -マ.",
 		"kun":"ま.つ",
 		"eng": "wait, depend on",
 		"russian": "Ждать"
 	},
 	{
-		"kandji": "試",
+		"kanji": "試",
 		"on":"シ",
 		"kun":"こころ.みる ため.す",
 		"eng": "test, try, attempt, experiment, ordeal",
 		"russian": "Испытание"
 	},
 	{
-		"kandji": "族",
+		"kanji": "族",
 		"on":"ゾ",
 		"eng": "tribe, family",
 		"russian": "Семья"
 	},
 	{
-		"kandji": "銀",
+		"kanji": "銀",
 		"on":"ギン シロガ",
 		"eng": "silver",
 		"russian": "Серебро"
 	},
 	{
-		"kandji": "早",
+		"kanji": "早",
 		"on":"ソウ サッ",
 		"kun":"はや.い はや はや- はや.まる はや.める さ",
 		"eng": "early, fast",
 		"russian": "Ранний"
 	},
 	{
-		"kandji": "映",
+		"kanji": "映",
 		"on":"エイ -バ.",
 		"kun":"うつ.る うつ.す は.える",
 		"eng": "reflect, reflection, projection",
 		"russian": "Отражаться"
 	},
 	{
-		"kandji": "親",
+		"kanji": "親",
 		"on":"シン シタ.シ",
 		"kun":"おや おや- した.しい",
 		"eng": "parent, intimacy, relative, familiarity, dealer (cards)",
 		"russian": "Родители"
 	},
 	{
-		"kandji": "験",
+		"kanji": "験",
 		"on":"ケン ゲン",
 		"kun":"あかし しるし ため.す ためし",
 		"eng": "verification, effect, testing",
 		"russian": "Испытывать"
 	},
 	{
-		"kandji": "英",
+		"kanji": "英",
 		"on":"エイ ハナブ",
 		"eng": "England, English",
 		"russian": "Венчик"
 	},
 	{
-		"kandji": "医",
+		"kanji": "医",
 		"on":"イ",
 		"kun":"い.やす い.する くすし",
 		"eng": "doctor, medicine",
 		"russian": "Врач"
 	},
 	{
-		"kandji": "仕",
+		"kanji": "仕",
 		"on":"シ ジ",
 		"kun":"つか.える",
 		"eng": "attend, doing, official, serve",
 		"russian": "Делать"
 	},
 	{
-		"kandji": "去",
+		"kanji": "去",
 		"on":"キョ コ -サ.",
 		"kun":"さ.る",
 		"eng": "gone, past, quit, leave, elapse, eliminate, divorce",
 		"russian": "Уходить"
 	},
 	{
-		"kandji": "味",
+		"kanji": "味",
 		"on":"ミ",
 		"kun":"あじ あじ.わう",
 		"eng": "flavor, taste",
 		"russian": "Вкус"
 	},
 	{
-		"kandji": "写",
+		"kanji": "写",
 		"on":"シャ ジャ",
 		"kun":"うつ.す うつ.る うつ- うつ.し",
 		"eng": "copy, be photographed, describe",
 		"russian": "Копировать"
 	},
 	{
-		"kandji": "字",
+		"kanji": "字",
 		"on":"ジ",
 		"kun":"あざ あざな -な",
 		"eng": "character, letter, word, section of village",
 		"russian": "Иероглиф"
 	},
 	{
-		"kandji": "答",
+		"kanji": "答",
 		"on":"トウ コタ.",
 		"kun":"こた.える",
 		"eng": "solution, answer",
 		"russian": "Ответ"
 	},
 	{
-		"kandji": "夜",
+		"kanji": "夜",
 		"on":"ヤ",
 		"kun":"よ よる",
 		"eng": "night, evening",
 		"russian": "Ночь"
 	},
 	{
-		"kandji": "音",
+		"kanji": "音",
 		"on":"オン イン -ノン",
 		"kun":"おと",
 		"eng": "sound, noise",
 		"russian": "Звук"
 	},
 	{
-		"kandji": "注",
+		"kanji": "注",
 		"on":"チュウ",
 		"kun":"そそ.ぐ さ.す つ.ぐ",
 		"eng": "pour, irrigate, shed (tears), flow into, concentrate on, notes, comment, annotate",
 		"russian": "Лить"
 	},
 	{
-		"kandji": "帰",
+		"kanji": "帰",
 		"on":"キ",
 		"kun":"かえ.る かえ.す おく.る とつ.ぐ",
 		"eng": "homecoming, arrive at, lead to, result in",
 		"russian": "Возвращаться"
 	},
 	{
-		"kandji": "古",
+		"kanji": "古",
 		"on":"コ -フル.",
 		"kun":"ふる.い ふる-",
 		"eng": "old",
 		"russian": "Старый"
 	},
 	{
-		"kandji": "歌",
+		"kanji": "歌",
 		"on":"カ",
 		"kun":"うた うた.う",
 		"eng": "song, sing",
 		"russian": "Песня"
 	},
 	{
-		"kandji": "買",
+		"kanji": "買",
 		"on":"バイ",
 		"kun":"か.う",
 		"eng": "buy",
 		"russian": "Покупать"
 	},
 	{
-		"kandji": "悪",
+		"kanji": "悪",
 		"on":"アク オ",
 		"kun":"わる.い わる- あ.し にく.い -にく.い ああ いずくに いずくんぞ にく.む",
 		"eng": "bad, vice, rascal, false, evil, wrong",
 		"russian": "Плохой"
 	},
 	{
-		"kandji": "図",
+		"kanji": "図",
 		"on":"ズ ト ハカ.",
 		"kun":"え",
 		"eng": "map, drawing, plan, unexpected, accidentally",
 		"russian": "Чертёж"
 	},
 	{
-		"kandji": "週",
+		"kanji": "週",
 		"on":"シュウ",
 		"eng": "week",
 		"russian": "Неделя"
 	},
 	{
-		"kandji": "室",
+		"kanji": "室",
 		"on":"シツ",
 		"kun":"むろ",
 		"eng": "room, apartment, chamber, greenhouse, cellar",
 		"russian": "Комната"
 	},
 	{
-		"kandji": "歩",
+		"kanji": "歩",
 		"on":"ホ ブ フ アユ.",
 		"kun":"ある.く",
 		"eng": "walk, counter for steps",
 		"russian": "Ходить"
 	},
 	{
-		"kandji": "風",
+		"kanji": "風",
 		"on":"フウ フ -カ",
 		"kun":"かぜ かざ-",
 		"eng": "wind, air, style, manner",
 		"russian": "Ветер"
 	},
 	{
-		"kandji": "紙",
+		"kanji": "紙",
 		"on":"シ",
 		"kun":"かみ",
 		"eng": "paper",
 		"russian": "Бумага"
 	},
 	{
-		"kandji": "黒",
+		"kanji": "黒",
 		"on":"コク",
 		"kun":"くろ くろ.ずむ くろ.い",
 		"eng": "black",
 		"russian": "Чёрный"
 	},
 	{
-		"kandji": "花",
+		"kanji": "花",
 		"on":"カ ケ ハ",
 		"eng": "flower",
 		"russian": "Цветок"
 	},
 	{
-		"kandji": "春",
+		"kanji": "春",
 		"on":"シュン ハ",
 		"eng": "springtime, spring (season)",
 		"russian": "Весна"
 	},
 	{
-		"kandji": "赤",
+		"kanji": "赤",
 		"on":"セキ シャク アカ.ラメ",
 		"kun":"あか あか- あか.い あか.らむ",
 		"eng": "red",
 		"russian": "Красный"
 	},
 	{
-		"kandji": "青",
+		"kanji": "青",
 		"on":"セイ ショウ アオ.",
 		"kun":"あお あお-",
 		"eng": "blue, green",
 		"russian": "Голубой"
 	},
 	{
-		"kandji": "館",
+		"kanji": "館",
 		"on":"カン タ",
 		"kun":"やかた",
 		"eng": "building, mansion, large building, palace",
 		"russian": "Здание"
 	},
 	{
-		"kandji": "屋",
+		"kanji": "屋",
 		"on":"オク",
 		"eng": "roof, house, shop, dealer, seller",
 		"russian": "Здание"
 	},
 	{
-		"kandji": "色",
+		"kanji": "色",
 		"on":"ショク シキ イ",
 		"eng": "color",
 		"russian": "Цвет"
 	},
 	{
-		"kandji": "走",
+		"kanji": "走",
 		"on":"ソウ ハシ.",
 		"eng": "run",
 		"russian": "Бежать"
 	},
 	{
-		"kandji": "秋",
+		"kanji": "秋",
 		"on":"シュウ ト",
 		"kun":"あき",
 		"eng": "autumn",
 		"russian": "Осень"
 	},
 	{
-		"kandji": "夏",
+		"kanji": "夏",
 		"on":"カ ガ ゲ",
 		"kun":"なつ",
 		"eng": "summer",
 		"russian": "Лето"
 	},
 	{
-		"kandji": "習",
+		"kanji": "習",
 		"on":"シュウ ジュ",
 		"kun":"なら.う なら.い",
 		"eng": "learn",
 		"russian": "Учиться"
 	},
 	{
-		"kandji": "駅",
+		"kanji": "駅",
 		"on":"エキ",
 		"eng": "station",
 		"russian": "Станция"
 	},
 	{
-		"kandji": "洋",
+		"kanji": "洋",
 		"on":"ヨ",
 		"eng": "ocean, western style",
 		"russian": "Океан"
 	},
 	{
-		"kandji": "旅",
+		"kanji": "旅",
 		"on":"リョ",
 		"kun":"たび",
 		"eng": "trip, travel",
 		"russian": "Путешествие"
 	},
 	{
-		"kandji": "服",
+		"kanji": "服",
 		"on":"フ",
 		"eng": "clothing, admit, obey, discharge",
 		"russian": "Одежда"
 	},
 	{
-		"kandji": "夕",
+		"kanji": "夕",
 		"on":"セキ ユ",
 		"eng": "evening",
 		"russian": "Вечер"
 	},
 	{
-		"kandji": "借",
+		"kanji": "借",
 		"on":"シャク",
 		"kun":"か.りる",
 		"eng": "borrow, rent",
 		"russian": "Брать в долг"
 	},
 	{
-		"kandji": "曜",
+		"kanji": "曜",
 		"on":"ヨ",
 		"eng": "weekday",
 		"russian": "День недели"
 	},
 	{
-		"kandji": "飲",
+		"kanji": "飲",
 		"on":"イン オン",
 		"kun":"の.む -の.み",
 		"eng": "drink, smoke, take",
 		"russian": "Пить"
 	},
 	{
-		"kandji": "肉",
+		"kanji": "肉",
 		"on":"ニク",
 		"eng": "meat",
 		"russian": "Мясо"
 	},
 	{
-		"kandji": "貸",
+		"kanji": "貸",
 		"on":"タイ",
 		"kun":"か.す か.し- かし-",
 		"eng": "lend",
 		"russian": "Одалживать"
 	},
 	{
-		"kandji": "堂",
+		"kanji": "堂",
 		"on":"ドウ",
 		"eng": "public chamber, hall",
 		"russian": "Зал"
 	},
 	{
-		"kandji": "鳥",
+		"kanji": "鳥",
 		"on":"チョウ ト",
 		"eng": "bird, chicken",
 		"russian": "Птица"
 	},
 	{
-		"kandji": "飯",
+		"kanji": "飯",
 		"on":"ハン メ",
 		"eng": "meal, boiled rice",
 		"russian": "Варёный рис"
 	},
 	{
-		"kandji": "勉",
+		"kanji": "勉",
 		"on":"ベン ツト.メ",
 		"eng": "exertion",
 		"russian": "Прилежный"
 	},
 	{
-		"kandji": "冬",
+		"kanji": "冬",
 		"on":"トウ",
 		"kun":"ふゆ",
 		"eng": "winter",
 		"russian": "Зима"
 	},
 	{
-		"kandji": "昼",
+		"kanji": "昼",
 		"on":"チュウ",
 		"kun":"ひる",
 		"eng": "daytime, noon",
 		"russian": "Дневное время"
 	},
 	{
-		"kandji": "茶",
+		"kanji": "茶",
 		"on":"チャ",
 		"eng": "tea",
 		"russian": "Чай"
 	},
 	{
-		"kandji": "弟",
+		"kanji": "弟",
 		"on":"テイ ダイ デ オトウ",
 		"eng": "younger brother, faithful service to elders",
 		"russian": "Младший брат"
 	},
 	{
-		"kandji": "牛",
+		"kanji": "牛",
 		"on":"ギュウ ウ",
 		"eng": "cow",
 		"russian": "Корова"
 	},
 	{
-		"kandji": "魚",
+		"kanji": "魚",
 		"on":"ギョ -ザカ",
 		"kun":"うお さかな",
 		"eng": "fish",
 		"russian": "Рыба"
 	},
 	{
-		"kandji": "兄",
+		"kanji": "兄",
 		"on":"ケイ キョウ ア",
 		"eng": "elder brother, big brother",
 		"russian": "Старший брат"
 	},
 	{
-		"kandji": "犬",
+		"kanji": "犬",
 		"on":"ケン",
 		"kun":"いぬ いぬ-",
 		"eng": "dog",
 		"russian": "Собака"
 	},
 	{
-		"kandji": "妹",
+		"kanji": "妹",
 		"on":"マイ イモウ",
 		"eng": "younger sister",
 		"russian": "Младшая сестра"
 	},
 	{
-		"kandji": "姉",
+		"kanji": "姉",
 		"on":"シ",
 		"kun":"あね はは",
 		"eng": "elder sister",

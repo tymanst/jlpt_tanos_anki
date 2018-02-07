@@ -1,522 +1,522 @@
 [
 	{
-		"kandji": "日",
+		"kanji": "日",
 		"on":"ニチ ジツ -",
 		"kun":"ひ -び",
 		"eng": "day, sun, Japan",
 		"russian": "День"
 	},
 	{
-		"kandji": "一",
+		"kanji": "一",
 		"on":"イチ イツ ヒト.",
 		"kun":"ひと-",
 		"eng": "one",
 		"russian": "Один"
 	},
 	{
-		"kandji": "国",
+		"kanji": "国",
 		"on":"コク ク",
 		"eng": "country",
 		"russian": "Страна"
 	},
 	{
-		"kandji": "人",
+		"kanji": "人",
 		"on":"ジン ニン -",
 		"kun":"ひと -り",
 		"eng": "person",
 		"russian": "Человек"
 	},
 	{
-		"kandji": "年",
+		"kanji": "年",
 		"on":"ネン ト",
 		"eng": "year",
 		"russian": "Год"
 	},
 	{
-		"kandji": "大",
+		"kanji": "大",
 		"on":"ダイ タイ -オオ.イ",
 		"kun":"おお- おお.きい",
 		"eng": "large, big",
 		"russian": "Большой"
 	},
 	{
-		"kandji": "十",
+		"kanji": "十",
 		"on":"ジュウ ジッ ジュッ",
 		"kun":"とお",
 		"eng": "ten",
 		"russian": "Десять"
 	},
 	{
-		"kandji": "二",
+		"kanji": "二",
 		"on":"ニ ジ フタタ.",
 		"kun":"ふた ふた.つ",
 		"eng": "two",
 		"russian": "Два"
 	},
 	{
-		"kandji": "本",
+		"kanji": "本",
 		"on":"ホン モ",
 		"eng": "book, present, main, true, real, counter for long things",
 		"russian": "Книга"
 	},
 	{
-		"kandji": "中",
+		"kanji": "中",
 		"on":"チュウ アタ.",
 		"kun":"なか うち",
 		"eng": "in, inside, middle, mean, center",
 		"russian": "Середина"
 	},
 	{
-		"kandji": "長",
+		"kanji": "長",
 		"on":"チョウ オ",
 		"kun":"なが.い",
 		"eng": "long, leader",
 		"russian": "Длинный"
 	},
 	{
-		"kandji": "出",
+		"kanji": "出",
 		"on":"シュツ スイ イ.ダ",
 		"kun":"で.る -で だ.す -だ.す い.でる",
 		"eng": "exit, leave",
 		"russian": "Выходить"
 	},
 	{
-		"kandji": "三",
+		"kanji": "三",
 		"on":"サン ゾウ ミッ.",
 		"kun":"み み.つ",
 		"eng": "three",
 		"russian": "Три"
 	},
 	{
-		"kandji": "時",
+		"kanji": "時",
 		"on":"ジ -ド",
 		"kun":"とき",
 		"eng": "time, hour",
 		"russian": "Время"
 	},
 	{
-		"kandji": "行",
+		"kanji": "行",
 		"on":"コウ ギョウ アン オコ.ナ",
 		"kun":"い.く ゆ.く -ゆ.き -ゆき -い.き -いき おこな.う",
 		"eng": "going, journey",
 		"russian": "Идти"
 	},
 	{
-		"kandji": "見",
+		"kanji": "見",
 		"on":"ケン",
 		"kun":"み.る み.える み.せる",
 		"eng": "see, hopes, chances, idea, opinion, look at, visible",
 		"russian": "Видеть"
 	},
 	{
-		"kandji": "月",
+		"kanji": "月",
 		"on":"ゲツ ガツ ツ",
 		"eng": "month, moon",
 		"russian": "Месяц"
 	},
 	{
-		"kandji": "後",
+		"kanji": "後",
 		"on":"ゴ コウ オク.レ",
 		"kun":"のち うし.ろ うしろ あと",
 		"eng": "behind, back, later",
 		"russian": "После"
 	},
 	{
-		"kandji": "前",
+		"kanji": "前",
 		"on":"ゼン -マ",
 		"kun":"まえ",
 		"eng": "in front, before",
 		"russian": "Перед"
 	},
 	{
-		"kandji": "生",
+		"kanji": "生",
 		"on":"セイ ショウ -",
 		"kun":"い.きる い.かす い.ける う.まれる う.まれ うまれ う.む お.う は.える は.やす き なま なま- な.る",
 		"eng": "life, genuine, birth",
 		"russian": "Жизнь"
 	},
 	{
-		"kandji": "五",
+		"kanji": "五",
 		"on":"ゴ イツ.",
 		"kun":"いつ",
 		"eng": "five",
 		"russian": "Пять"
 	},
 	{
-		"kandji": "間",
+		"kanji": "間",
 		"on":"カン ケン",
 		"kun":"あいだ ま あい",
 		"eng": "interval, space",
 		"russian": "Интервал"
 	},
 	{
-		"kandji": "上",
+		"kanji": "上",
 		"on":"ジョウ ショウ シャン ヨ.",
 		"kun":"うえ -うえ うわ- かみ あ.げる -あ.げる あ.がる -あ.がる あ.がり -あ.がり のぼ.る のぼ.り のぼ.",
 		"eng": "above, up",
 		"russian": "Верх"
 	},
 	{
-		"kandji": "東",
+		"kanji": "東",
 		"on":"トウ ヒガ",
 		"eng": "east",
 		"russian": "Восток"
 	},
 	{
-		"kandji": "四",
+		"kanji": "四",
 		"on":"シ ヨ",
 		"kun":"よ よ.つ よっ.つ",
 		"eng": "four",
 		"russian": "Четыре"
 	},
 	{
-		"kandji": "今",
+		"kanji": "今",
 		"on":"コン キン イ",
 		"eng": "now",
 		"russian": "Сейчас"
 	},
 	{
-		"kandji": "金",
+		"kanji": "金",
 		"on":"キン コン ゴン -ガ",
 		"kun":"かね かな-",
 		"eng": "gold",
 		"russian": "Золото"
 	},
 	{
-		"kandji": "九",
+		"kanji": "九",
 		"on":"キュウ ク ココノ.",
 		"kun":"ここの",
 		"eng": "nine",
 		"russian": "Девять"
 	},
 	{
-		"kandji": "入",
+		"kanji": "入",
 		"on":"ニュウ ジュ ハイ.",
 		"kun":"い.る -い.る -い.り い.れる -い.れ",
 		"eng": "enter, insert",
 		"russian": "Входить"
 	},
 	{
-		"kandji": "学",
+		"kanji": "学",
 		"on":"ガク マナ.",
 		"eng": "study, learning, science",
 		"russian": "Учиться"
 	},
 	{
-		"kandji": "高",
+		"kanji": "高",
 		"on":"コウ タカ.メ",
 		"kun":"たか.い たか -だか たか.まる",
 		"eng": "tall, high, expensive",
 		"russian": "Высокий"
 	},
 	{
-		"kandji": "円",
+		"kanji": "円",
 		"on":"エン マロ.ヤ",
 		"kun":"まる.い まる まど まど.か",
 		"eng": "circle, yen, round",
 		"russian": "Иена"
 	},
 	{
-		"kandji": "子",
+		"kanji": "子",
 		"on":"シ ス ツ",
 		"kun":"こ -こ",
 		"eng": "child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac",
 		"russian": "Ребёнок"
 	},
 	{
-		"kandji": "外",
+		"kanji": "外",
 		"on":"ガイ ゲ",
 		"kun":"そと ほか はず.す はず.れる と",
 		"eng": "outside",
 		"russian": "Вне"
 	},
 	{
-		"kandji": "八",
+		"kanji": "八",
 		"on":"ハチ ヨ",
 		"kun":"や や.つ やっ.つ",
 		"eng": "eight",
 		"russian": "Восемь"
 	},
 	{
-		"kandji": "六",
+		"kanji": "六",
 		"on":"ロク リク ム",
 		"kun":"む む.つ むっ.つ",
 		"eng": "six",
 		"russian": "Шесть"
 	},
 	{
-		"kandji": "下",
+		"kanji": "下",
 		"on":"カ ゲ オ.リ",
 		"kun":"した しも もと さ.げる さ.がる くだ.る くだ.り くだ.す -くだ.す くだ.さる お.ろす",
 		"eng": "below, down, descend, give, low, inferior",
 		"russian": "Низ"
 	},
 	{
-		"kandji": "来",
+		"kanji": "来",
 		"on":"ライ タイ",
 		"kun":"く.る きた.る きた.す き.たす き.たる き",
 		"eng": "come, due, next, cause, become",
 		"russian": "Приходить"
 	},
 	{
-		"kandji": "気",
+		"kanji": "気",
 		"on":"キ ケ",
 		"kun":"いき",
 		"eng": "spirit, mind",
 		"russian": "Дух"
 	},
 	{
-		"kandji": "小",
+		"kanji": "小",
 		"on":"ショウ",
 		"kun":"ちい.さい こ- お- さ",
 		"eng": "little, small",
 		"russian": "Маленький"
 	},
 	{
-		"kandji": "七",
+		"kanji": "七",
 		"on":"シチ ナ",
 		"kun":"なな なな.つ",
 		"eng": "seven",
 		"russian": "Семь"
 	},
 	{
-		"kandji": "山",
+		"kanji": "山",
 		"on":"サン セン ヤ",
 		"eng": "mountain",
 		"russian": "Гора"
 	},
 	{
-		"kandji": "話",
+		"kanji": "話",
 		"on":"ワ",
 		"kun":"はな.す はなし",
 		"eng": "tale, talk",
 		"russian": "Говорить"
 	},
 	{
-		"kandji": "女",
+		"kanji": "女",
 		"on":"ジョ ニョ ニョウ",
 		"kun":"おんな",
 		"eng": "woman, female",
 		"russian": "Женщина"
 	},
 	{
-		"kandji": "北",
+		"kanji": "北",
 		"on":"ホク キ",
 		"eng": "north",
 		"russian": "Север"
 	},
 	{
-		"kandji": "午",
+		"kanji": "午",
 		"on":"ゴ",
 		"kun":"うま",
 		"eng": "noon, sign of the horse, 11AM-1PM, seventh sign of Chinese zodiac",
 		"russian": "Полдень"
 	},
 	{
-		"kandji": "百",
+		"kanji": "百",
 		"on":"ヒャク ビャク モ",
 		"eng": "hundred",
 		"russian": "Сто"
 	},
 	{
-		"kandji": "書",
+		"kanji": "書",
 		"on":"ショ -ガ",
 		"kun":"か.く -が.き",
 		"eng": "write",
 		"russian": "Писать"
 	},
 	{
-		"kandji": "先",
+		"kanji": "先",
 		"on":"セン マ.",
 		"kun":"さき",
 		"eng": "before, ahead, previous, future, precedence",
 		"russian": "Впереди"
 	},
 	{
-		"kandji": "名",
+		"kanji": "名",
 		"on":"メイ ミョウ -",
 		"kun":"な",
 		"eng": "name, noted, distinguished, reputation",
 		"russian": "Имя"
 	},
 	{
-		"kandji": "川",
+		"kanji": "川",
 		"on":"セン カ",
 		"eng": "stream, river",
 		"russian": "Река"
 	},
 	{
-		"kandji": "千",
+		"kanji": "千",
 		"on":"セン",
 		"eng": "thousand",
 		"russian": "Тысяча"
 	},
 	{
-		"kandji": "水",
+		"kanji": "水",
 		"on":"スイ",
 		"kun":"みず みず",
 		"eng": "water",
 		"russian": "Вода"
 	},
 	{
-		"kandji": "半",
+		"kanji": "半",
 		"on":"ハン ナカ.",
 		"eng": "half, middle, odd number, semi-, part-",
 		"russian": "Половина"
 	},
 	{
-		"kandji": "男",
+		"kanji": "男",
 		"on":"ダン ナン",
 		"kun":"おとこ",
 		"eng": "male",
 		"russian": "Мужчина"
 	},
 	{
-		"kandji": "西",
+		"kanji": "西",
 		"on":"セイ サイ ス ニ",
 		"eng": "west, Spain",
 		"russian": "Запад"
 	},
 	{
-		"kandji": "電",
+		"kanji": "電",
 		"on":"デン",
 		"eng": "electricity",
 		"russian": "Электричество"
 	},
 	{
-		"kandji": "校",
+		"kanji": "校",
 		"on":"コウ キョ",
 		"eng": "exam, school, printing, proof, correction",
 		"russian": "Школа"
 	},
 	{
-		"kandji": "語",
+		"kanji": "語",
 		"on":"ゴ",
 		"kun":"かた.る かた.らう",
 		"eng": "word, speech, language",
 		"russian": "Язык"
 	},
 	{
-		"kandji": "土",
+		"kanji": "土",
 		"on":"ド ト ツ",
 		"eng": "soil, earth, ground, Turkey",
 		"russian": "Земля"
 	},
 	{
-		"kandji": "木",
+		"kanji": "木",
 		"on":"ボク モク",
 		"kun":"き こ",
 		"eng": "tree, wood",
 		"russian": "Дерево"
 	},
 	{
-		"kandji": "聞",
+		"kanji": "聞",
 		"on":"ブン モン",
 		"kun":"き.く き.こえる",
 		"eng": "hear, ask, listen",
 		"russian": "Слышать"
 	},
 	{
-		"kandji": "食",
+		"kanji": "食",
 		"on":"ショク ジキ ハ.",
 		"kun":"く.う く.らう た.べる",
 		"eng": "eat, food",
 		"russian": "Еда"
 	},
 	{
-		"kandji": "車",
+		"kanji": "車",
 		"on":"シャ クル",
 		"eng": "car",
 		"russian": "Автомобиль"
 	},
 	{
-		"kandji": "何",
+		"kanji": "何",
 		"on":"カ",
 		"kun":"なに なん なに- なん",
 		"eng": "what",
 		"russian": "Что"
 	},
 	{
-		"kandji": "南",
+		"kanji": "南",
 		"on":"ナン ナ ミナ",
 		"eng": "south",
 		"russian": "Юг"
 	},
 	{
-		"kandji": "万",
+		"kanji": "万",
 		"on":"マン バン ヨロ",
 		"eng": "ten thousand",
 		"russian": "Десять тысяч"
 	},
 	{
-		"kandji": "毎",
+		"kanji": "毎",
 		"on":"マイ -ゴト.",
 		"kun":"ごと",
 		"eng": "every",
 		"russian": "Каждый"
 	},
 	{
-		"kandji": "白",
+		"kanji": "白",
 		"on":"ハク ビャク シロ.",
 		"kun":"しろ しら-",
 		"eng": "white",
 		"russian": "Белый"
 	},
 	{
-		"kandji": "天",
+		"kanji": "天",
 		"on":"テン",
 		"kun":"あまつ あめ あま",
 		"eng": "heavens, sky, imperial",
 		"russian": "Небо"
 	},
 	{
-		"kandji": "母",
+		"kanji": "母",
 		"on":"ボ",
 		"kun":"はは も",
 		"eng": "mama, mother",
 		"russian": "Мать"
 	},
 	{
-		"kandji": "火",
+		"kanji": "火",
 		"on":"カ",
 		"kun":"ひ -び ほ-",
 		"eng": "fire",
 		"russian": "Огонь"
 	},
 	{
-		"kandji": "右",
+		"kanji": "右",
 		"on":"ウ ユウ ミ",
 		"eng": "right",
 		"russian": "Правый"
 	},
 	{
-		"kandji": "読",
+		"kanji": "読",
 		"on":"ドク トク トウ -ヨ.",
 		"kun":"よ.む",
 		"eng": "read",
 		"russian": "Читать"
 	},
 	{
-		"kandji": "友",
+		"kanji": "友",
 		"on":"ユウ ト",
 		"eng": "friend",
 		"russian": "Друг"
 	},
 	{
-		"kandji": "左",
+		"kanji": "左",
 		"on":"サ シャ ヒダ",
 		"eng": "left",
 		"russian": "Левый"
 	},
 	{
-		"kandji": "休",
+		"kanji": "休",
 		"on":"キュウ",
 		"kun":"やす.む やす.まる やす.める",
 		"eng": "rest, day off, retire, sleep",
 		"russian": "Отдых"
 	},
 	{
-		"kandji": "父",
+		"kanji": "父",
 		"on":"フ",
 		"kun":"ちち",
 		"eng": "father",
