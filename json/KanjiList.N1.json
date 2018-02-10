@@ -103,6 +103,7 @@
 	{
 		"kanji": "藤",
 		"on":"トウ ドウ フ",
+		"kun":"ふじ",
 		"eng": "wisteria",
 		"russian": "Глициния"
 	},
@@ -143,12 +144,14 @@
 	{
 		"kanji": "井",
 		"on":"セイ ショウ",
+		"kun": "い",
 		"eng": "well, well crib, town, community",
 		"russian": "Колодец"
 	},
 	{
 		"kanji": "護",
 		"on":"ゴ マモ.",
+		"kun":"まも.る",
 		"eng": "safeguard, protect",
 		"russian": "Защищать"
 	},
@@ -175,6 +178,7 @@
 	{
 		"kanji": "視",
 		"on":"シ ミ.",
+		"kun": "み.る",
 		"eng": "inspection, regard as, see, look at",
 		"russian": "Зрение"
 	},
@@ -188,18 +192,21 @@
 	{
 		"kanji": "幹",
 		"on":"カン ミ",
+		"kun":"みき",
 		"eng": "tree trunk",
 		"russian": "Ствол"
 	},
 	{
 		"kanji": "独",
 		"on":"ドク トク ヒト.",
+		"kun": "ひと.り",
 		"eng": "single, alone, spontaneously, Germany",
 		"russian": "Сам"
 	},
 	{
 		"kanji": "宮",
 		"on":"キュウ グウ ク クウ ミ",
+		"kun":"みや",
 		"eng": "Shinto shrine, constellations, palace, princess",
 		"russian": "Дворец"
 	},
@@ -232,6 +239,7 @@
 	{
 		"kanji": "環",
 		"on":"カン",
+		"kun"
 		"eng": "ring, circle, link, wheel",
 		"russian": "Кольцо"
 	},

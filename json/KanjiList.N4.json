@@ -57,6 +57,7 @@
 	{
 		"kanji": "業",
 		"on":"ギョウ ゴウ ワ",
+		"kun": "わざ",
 		"eng": "business, vocation, arts, performance",
 		"russian": "Промышленность"
 	},
@@ -111,6 +112,7 @@
 	{
 		"kanji": "力",
 		"on":"リョク リキ リイ チカ",
+		"kun": "ちから",
 		"eng": "power, strong, strain, bear up, exert",
 		"russian": "Сила"
 	},
@@ -145,6 +147,7 @@
 	{
 		"kanji": "京",
 		"on":"キョウ ケイ キン ミヤ",
+		"kun":"みやこ",
 		"eng": "capital, 10**16",
 		"russian": "Столичный город"
 	},
@@ -172,6 +175,7 @@
 	{
 		"kanji": "理",
 		"on":"リ コトワ",
+		"kun": "ことわり",
 		"eng": "logic, arrangement, reason, justice, truth",
 		"russian": "Принцип"
 	},
@@ -185,6 +189,7 @@
 	{
 		"kanji": "田",
 		"on":"デン",
+		"kun":"た",
 		"eng": "rice field, rice paddy",
 		"russian": "Рисовое поле"
 	},
@@ -203,6 +208,7 @@
 	},
 	{
 		"kanji": "意",
+		"on": "イ",
 		"eng": "idea, mind, heart, taste, thought, desire, care, liking",
 		"russian": "Мысль"
 	},
@@ -222,6 +228,7 @@
 	{
 		"kanji": "用",
 		"on":"ヨウ モチ.イ",
+		"kun": "もち.いる",
 		"eng": "utilize, business, service, use, employ",
 		"russian": "Употреблять"
 	},
@@ -242,6 +249,7 @@
 	{
 		"kanji": "公",
 		"on":"コウ ク オオヤ",
+		"kun": "おおやけ",
 		"eng": "public, prince, official, governmental",
 		"russian": "Общественный"
 	},
@@ -262,6 +270,7 @@
 	{
 		"kanji": "以",
 		"on":"イ モッ.",
+		"kun": "もっ.て",
 		"eng": "by means of, because, in view of, compared with",
 		"russian": "Префикс направления"
 	},
@@ -315,7 +324,8 @@
 	},
 	{
 		"kanji": "心",
-		"kun":"りっしんべん",
+		"kun":"こころ",
+		"on":"シン",
 		"eng": "heart, mind, spirit",
 		"russian": "Сердце"
 	},
@@ -342,6 +352,7 @@
 	{
 		"kanji": "元",
 		"on":"ゲン ガン モ",
+		"kun": "もと",
 		"eng": "beginning, former time, origin",
 		"russian": "Начало"
 	},
@@ -355,6 +366,7 @@
 	{
 		"kanji": "近",
 		"on":"キン コン チカ.",
+		"kun":"ちか·い",
 		"eng": "near, early, akin, tantamount",
 		"russian": "Близкий"
 	},
@@ -375,6 +387,7 @@
 	{
 		"kanji": "海",
 		"on":"カイ ウ",
+		"kun":"うみ",
 		"eng": "sea, ocean",
 		"russian": "Море"
 	},
@@ -395,6 +408,7 @@
 	{
 		"kanji": "道",
 		"on":"ドウ トウ ミ",
+		"kun":"みち",
 		"eng": "road-way, street, district, journey, course, moral, teachings",
 		"russian": "Дорога"
 	},
@@ -470,6 +484,7 @@
 	{
 		"kanji": "朝",
 		"on":"チョウ ア",
+		"kun":"あさ",
 		"eng": "morning, dynasty, regime, epoch, period, (North) Korea",
 		"russian": "Утро"
 	},
@@ -518,6 +533,7 @@
 	{
 		"kanji": "有",
 		"on":"ユウ ウ ア.",
+		"kun":"あ.る",
 		"eng": "possess, have, exist, happen, occur, approx",
 		"russian": "Иметь"
 	},
@@ -606,6 +622,7 @@
 	{
 		"kanji": "研",
 		"on":"ケン ト.",
+		"kun":"と.ぐ",
 		"eng": "polish, study of, sharpen",
 		"russian": "Точить"
 	},
@@ -619,6 +636,7 @@
 	{
 		"kanji": "究",
 		"on":"キュウ ク キワ.メ",
+		"kun":"きわ.める",
 		"eng": "research, study",
 		"russian": "Осваивать"
 	},
@@ -687,6 +705,7 @@
 	{
 		"kanji": "銀",
 		"on":"ギン シロガ",
+		"kun":"しろがね",
 		"eng": "silver",
 		"russian": "Серебро"
 	},
@@ -722,7 +741,7 @@
 		"kanji": "英",
 		"on":"エイ ハナブ",
 		"eng": "England, English",
-		"russian": "Венчик"
+		"russian": "Англия"
 	},
 	{
 		"kanji": "医",
@@ -886,6 +905,7 @@
 	{
 		"kanji": "春",
 		"on":"シュン ハ",
+		"kun":"はる",
 		"eng": "springtime, spring (season)",
 		"russian": "Весна"
 	},
@@ -913,18 +933,21 @@
 	{
 		"kanji": "屋",
 		"on":"オク",
+		"kun":"や",
 		"eng": "roof, house, shop, dealer, seller",
 		"russian": "Здание"
 	},
 	{
 		"kanji": "色",
 		"on":"ショク シキ イ",
+		"kun":"いろ",
 		"eng": "color",
 		"russian": "Цвет"
 	},
 	{
 		"kanji": "走",
 		"on":"ソウ ハシ.",
+		"kun":"はし.る",
 		"eng": "run",
 		"russian": "Бежать"
 	},
@@ -970,13 +993,14 @@
 	},
 	{
 		"kanji": "服",
-		"on":"フ",
+		"on":"フク",
 		"eng": "clothing, admit, obey, discharge",
 		"russian": "Одежда"
 	},
 	{
 		"kanji": "夕",
 		"on":"セキ ユ",
+		"kun":"ゆう",
 		"eng": "evening",
 		"russian": "Вечер"
 	},
@@ -990,6 +1014,7 @@
 	{
 		"kanji": "曜",
 		"on":"ヨ",
+		"kun":"てる",
 		"eng": "weekday",
 		"russian": "День недели"
 	},
@@ -1003,6 +1028,7 @@
 	{
 		"kanji": "肉",
 		"on":"ニク",
+		"kun":"しし",
 		"eng": "meat",
 		"russian": "Мясо"
 	},
@@ -1022,18 +1048,21 @@
 	{
 		"kanji": "鳥",
 		"on":"チョウ ト",
+		"kun":"とり",
 		"eng": "bird, chicken",
 		"russian": "Птица"
 	},
 	{
 		"kanji": "飯",
 		"on":"ハン メ",
+		"kun":"めし",
 		"eng": "meal, boiled rice",
 		"russian": "Варёный рис"
 	},
 	{
 		"kanji": "勉",
 		"on":"ベン ツト.メ",
+		"kun":"つと.める",
 		"eng": "exertion",
 		"russian": "Прилежный"
 	},
@@ -1060,12 +1089,14 @@
 	{
 		"kanji": "弟",
 		"on":"テイ ダイ デ オトウ",
+		"kun":"おとうと",
 		"eng": "younger brother, faithful service to elders",
 		"russian": "Младший брат"
 	},
 	{
 		"kanji": "牛",
 		"on":"ギュウ ウ",
+		"kun":"うし",
 		"eng": "cow",
 		"russian": "Корова"
 	},
@@ -1079,6 +1110,7 @@
 	{
 		"kanji": "兄",
 		"on":"ケイ キョウ ア",
+		"kun":"あに",
 		"eng": "elder brother, big brother",
 		"russian": "Старший брат"
 	},
@@ -1092,6 +1124,7 @@
 	{
 		"kanji": "妹",
 		"on":"マイ イモウ",
+		"kun":"いもうと",
 		"eng": "younger sister",
 		"russian": "Младшая сестра"
 	},
