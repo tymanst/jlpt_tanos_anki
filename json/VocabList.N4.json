@@ -1,0 +1,4139 @@
+[
+	{
+		"eng": "Ah",
+		"word": "あ",
+		"russian": "о",
+		"russian_from_eng": "О ч"
+	},
+	{
+		"eng": "like that",
+		"word": "ああ",
+		"russian": "о",
+		"russian_from_eng": "как это"
+	},
+	{
+		"eng": "to greet",
+		"word": "挨拶 あいさつ・する",
+		"russian": "Поздороваться",
+		"russian_from_eng": "приветствовать"
+	},
+	{
+		"eng": "a space",
+		"word": "間",
+		"reading": "あいだ",
+		"russian": "между",
+		"russian_from_eng": "пространство"
+	},
+	{
+		"eng": "to match",
+		"word": "合う",
+		"reading": "あう",
+		"russian": "Чтобы соответствовать",
+		"russian_from_eng": "соответствовать"
+	},
+	{
+		"eng": "infant",
+		"word": "あかちゃん",
+		"russian": "Ребенок",
+		"russian_from_eng": "младенец"
+	},
+	{
+		"eng": "to rise",
+		"word": "上る",
+		"reading": "あがる",
+		"russian": "Поднимитесь вверх",
+		"russian_from_eng": "повышаться"
+	},
+	{
+		"eng": "baby",
+		"word": "赤ん坊",
+		"reading": "あかんぼう",
+		"russian": "Ребенок",
+		"russian_from_eng": "ребенок"
+	},
+	{
+		"eng": "to open, to become empty",
+		"word": "空く",
+		"reading": "あく",
+		"russian": "Пустое",
+		"russian_from_eng": "открыть, стать пустым"
+	},
+	{
+		"eng": "accessory",
+		"word": "アクセサリー",
+		"russian": "аксессуары",
+		"russian_from_eng": "аксессуар"
+	},
+	{
+		"eng": "to give",
+		"word": "あげる",
+		"russian": "Дает",
+		"russian_from_eng": "давать"
+	},
+	{
+		"eng": "shallow,superficial",
+		"word": "浅い",
+		"reading": "あさい",
+		"russian": "мелководный",
+		"russian_from_eng": "мелкий, поверхностный"
+	},
+	{
+		"eng": "flavour",
+		"word": "味",
+		"reading": "あじ",
+		"russian": "вкус",
+		"russian_from_eng": "аромат"
+	},
+	{
+		"eng": "Asia",
+		"word": "アジア",
+		"russian": "Азия",
+		"russian_from_eng": "Азия"
+	},
+	{
+		"eng": "tomorrow",
+		"word": "明日",
+		"reading": "あす",
+		"russian": "завтра",
+		"russian_from_eng": "завтра"
+	},
+	{
+		"eng": "play",
+		"word": "遊び",
+		"reading": "あそび",
+		"russian": "играть",
+		"russian_from_eng": "играть"
+	},
+	{
+		"eng": "to gather",
+		"word": "集る",
+		"reading": "あつまる",
+		"russian": "собирать",
+		"russian_from_eng": "собирать"
+	},
+	{
+		"eng": "to collect something",
+		"word": "集める",
+		"reading": "あつめる",
+		"russian": "Собирать",
+		"russian_from_eng": "собирать что-то"
+	},
+	{
+		"eng": "announcer",
+		"word": "アナウンサー",
+		"russian": "диктор",
+		"russian_from_eng": "диктор"
+	},
+	{
+		"eng": "Africa",
+		"word": "アフリカ",
+		"russian": "Африка",
+		"russian_from_eng": "Африка"
+	},
+	{
+		"eng": "America",
+		"word": "アメリカ",
+		"russian": "Америка",
+		"russian_from_eng": "Америка"
+	},
+	{
+		"eng": "to apologize",
+		"word": "謝る",
+		"reading": "あやまる",
+		"russian": "извиняться",
+		"russian_from_eng": "извиниться"
+	},
+	{
+		"eng": "alcohol",
+		"word": "アルコール",
+		"russian": "алкоголь",
+		"russian_from_eng": "алкоголь"
+	},
+	{
+		"eng": "part-time job",
+		"word": "アルバイト",
+		"russian": "Частичная занятость",
+		"russian_from_eng": "неполный рабочий день"
+	},
+	{
+		"eng": "relief",
+		"word": "安心",
+		"reading": "あんしん",
+		"russian": "Спокойствие духа",
+		"russian_from_eng": "рельеф"
+	},
+	{
+		"eng": "safety",
+		"word": "安全",
+		"reading": "あんぜん",
+		"russian": "безопасности",
+		"russian_from_eng": "безопасность"
+	},
+	{
+		"eng": "such",
+		"word": "あんな",
+		"russian": "Этот вид",
+		"russian_from_eng": "такие"
+	},
+	{
+		"eng": "to guide",
+		"word": "案内",
+		"reading": "あんない・する",
+		"russian": "Руководство",
+		"russian_from_eng": "руководствоваться"
+	},
+	{
+		"eng": "less than",
+		"word": "以下",
+		"reading": "いか",
+		"russian": "ниже",
+		"russian_from_eng": "меньше, чем"
+	},
+	{
+		"eng": "with the exception of",
+		"word": "以外",
+		"reading": "いがい",
+		"russian": "Кроме",
+		"russian_from_eng": "за исключением"
+	},
+	{
+		"eng": "medical science",
+		"word": "医学",
+		"reading": "いがく",
+		"russian": "Медицинская наука",
+		"russian_from_eng": "медицинская наука"
+	},
+	{
+		"eng": "to live",
+		"word": "生きる",
+		"reading": "いきる",
+		"russian": "Жить",
+		"russian_from_eng": "жить"
+	},
+	{
+		"eng": "opinion",
+		"word": "意見",
+		"reading": "いけん",
+		"russian": "мнение",
+		"russian_from_eng": "мнение"
+	},
+	{
+		"eng": "stone",
+		"word": "石",
+		"reading": "いし",
+		"russian": "камень",
+		"russian_from_eng": "камень"
+	},
+	{
+		"eng": "to tease",
+		"word": "いじめる",
+		"russian": "дразнить",
+		"russian_from_eng": "дразнить"
+	},
+	{
+		"eng": "more than,this is all",
+		"word": "以上",
+		"reading": "いじょう",
+		"russian": "более",
+		"russian_from_eng": "больше, это все"
+	},
+	{
+		"eng": "to hurry",
+		"word": "急ぐ",
+		"reading": "いそぐ",
+		"russian": "Поторопись",
+		"russian_from_eng": "спешить"
+	},
+	{
+		"eng": "once",
+		"word": "致す",
+		"russian": "Будет делать",
+		"russian_from_eng": "один раз"
+	},
+	{
+		"eng": "with utmost effort",
+		"word": "一生懸命",
+		"reading": "いっしょうけんめい",
+		"russian": "Очень трудно",
+		"russian_from_eng": "с максимальными усилиями"
+	},
+	{
+		"eng": "full",
+		"word": "いっぱい",
+		"russian": "Много",
+		"russian_from_eng": "полный"
+	},
+	{
+		"eng": "thread",
+		"word": "糸",
+		"reading": "いと",
+		"russian": "нить",
+		"russian_from_eng": "нить"
+	},
+	{
+		"eng": "within",
+		"word": "以内",
+		"reading": "いない",
+		"russian": "в",
+		"russian_from_eng": "в"
+	},
+	{
+		"eng": "countryside",
+		"word": "田舎",
+		"reading": "いなか",
+		"russian": "Сельская местность",
+		"russian_from_eng": "сельская местность"
+	},
+	{
+		"eng": "to pray",
+		"word": "祈る",
+		"reading": "いのる",
+		"russian": "Молиться",
+		"russian_from_eng": "молиться"
+	},
+	{
+		"eng": "to plant,to grow",
+		"word": "いらっしゃる",
+		"russian": "прийти",
+		"russian_from_eng": "растение, расти"
+	},
+	{
+		"eng": "to visit",
+		"word": "うかがう",
+		"russian": "Чтобы следить за",
+		"russian_from_eng": "посетить"
+	},
+	{
+		"eng": "receipt",
+		"word": "受付",
+		"reading": "うけつけ",
+		"russian": "принятие",
+		"russian_from_eng": "получение"
+	},
+	{
+		"eng": "to take a lesson or test",
+		"word": "受ける",
+		"reading": "うける",
+		"russian": "Получить",
+		"russian_from_eng": "взять урок или тест"
+	},
+	{
+		"eng": "to move",
+		"word": "動く",
+		"reading": "うごく",
+		"russian": "Переместить",
+		"russian_from_eng": "двигаться"
+	},
+	{
+		"eng": "a lie",
+		"word": "うそ",
+		"russian": "Ложь",
+		"russian_from_eng": "ложь"
+	},
+	{
+		"eng": "within",
+		"word": "うち",
+		"russian": "из",
+		"russian_from_eng": "в"
+	},
+	{
+		"eng": "to hit",
+		"word": "打つ",
+		"reading": "うつ",
+		"russian": "Чтобы попасть",
+		"russian_from_eng": "ударить"
+	},
+	{
+		"eng": "beautiful",
+		"word": "美しい",
+		"reading": "うつくしい",
+		"russian": "красивый",
+		"russian_from_eng": "красивый"
+	},
+	{
+		"eng": "to copy or photograph",
+		"word": "写す",
+		"reading": "うつす",
+		"russian": "Фотографировать",
+		"russian_from_eng": "копировать или фотографировать"
+	},
+	{
+		"eng": "to move house or transfer",
+		"word": "移る",
+		"reading": "うつる",
+		"russian": "Переместить",
+		"russian_from_eng": "перемещать дом или переводить"
+	},
+	{
+		"eng": "arm",
+		"word": "腕",
+		"reading": "うで",
+		"russian": "рука",
+		"russian_from_eng": "рука"
+	},
+	{
+		"eng": "delicious",
+		"word": "うまい",
+		"russian": "хорошо",
+		"russian_from_eng": "очень вкусный"
+	},
+	{
+		"eng": "reverse side",
+		"word": "裏",
+		"reading": "うら",
+		"russian": "назад",
+		"russian_from_eng": "обратная сторона"
+	},
+	{
+		"eng": "place where things are sold",
+		"word": "売り場",
+		"reading": "うりば",
+		"russian": "отдел",
+		"russian_from_eng": "место, где вещи проданы"
+	},
+	{
+		"eng": "glad",
+		"word": "うれしい",
+		"russian": "Я счастлив.",
+		"russian_from_eng": "рад"
+	},
+	{
+		"eng": "to drive",
+		"word": "うん",
+		"russian": "да",
+		"russian_from_eng": "ездить"
+	},
+	{
+		"eng": "driver",
+		"word": "運転手",
+		"reading": "うんてんしゅ",
+		"russian": "Водитель",
+		"russian_from_eng": "водитель"
+	},
+	{
+		"eng": "to exercise",
+		"word": "運動",
+		"reading": "うんどう・する",
+		"russian": "движение",
+		"russian_from_eng": "осуществлять"
+	},
+	{
+		"eng": "escalator",
+		"word": "エスカレーター",
+		"russian": "эскалатор",
+		"russian_from_eng": "эскалатор"
+	},
+	{
+		"eng": "branch, twig",
+		"word": "枝",
+		"reading": "えだ",
+		"russian": "Ветвь",
+		"russian_from_eng": "ветка, ветка"
+	},
+	{
+		"eng": "to choose",
+		"word": "選ぶ",
+		"reading": "えらぶ",
+		"russian": "Выбрать",
+		"russian_from_eng": "выбирать"
+	},
+	{
+		"eng": "to be reserved, to be restrained",
+		"word": "遠慮",
+		"reading": "えんりょ・する",
+		"russian": "Воздержитесь от",
+		"russian_from_eng": "быть зарезервированным, быть сдержанным"
+	},
+	{
+		"eng": "congratulation",
+		"word": "おいでになる",
+		"russian": "Приходите",
+		"russian_from_eng": "поздравление"
+	},
+	{
+		"eng": "motorcycle",
+		"word": "オートバイ",
+		"russian": "мотоцикл",
+		"russian_from_eng": "мотоцикл"
+	},
+	{
+		"eng": "owing to",
+		"word": "おかげ",
+		"russian": "спасибо",
+		"russian_from_eng": "благодаря"
+	},
+	{
+		"eng": "strange or funny",
+		"word": "おかしい",
+		"russian": "смешной",
+		"russian_from_eng": "странный или смешной"
+	},
+	{
+		"eng": "one hundred million",
+		"word": "億",
+		"reading": "おく",
+		"russian": "миллиард",
+		"russian_from_eng": "сто миллионов"
+	},
+	{
+		"eng": "rooftop",
+		"word": "屋上",
+		"reading": "おくじょう",
+		"russian": "крыша",
+		"russian_from_eng": "крыша"
+	},
+	{
+		"eng": "gift",
+		"word": "贈り物",
+		"reading": "おくりもの",
+		"russian": "Подарок",
+		"russian_from_eng": "подарок"
+	},
+	{
+		"eng": "to send",
+		"word": "送る",
+		"reading": "おくる",
+		"russian": "послать",
+		"russian_from_eng": "отправить"
+	},
+	{
+		"eng": "to be late",
+		"word": "遅れる",
+		"reading": "おくれる",
+		"russian": "Будьте опоздать",
+		"russian_from_eng": "опаздывать"
+	},
+	{
+		"eng": "to wake",
+		"word": "起す",
+		"reading": "おこす",
+		"russian": "Просыпаться",
+		"russian_from_eng": "проснуться"
+	},
+	{
+		"eng": "to do",
+		"word": "行う",
+		"reading": "おこなう",
+		"russian": "Сделать",
+		"russian_from_eng": "делать"
+	},
+	{
+		"eng": "to get angry,to be angry",
+		"word": "怒る",
+		"reading": "おこる",
+		"russian": "Получить angy",
+		"russian_from_eng": "злиться, злиться"
+	},
+	{
+		"eng": "closet",
+		"word": "押し入れ",
+		"reading": "おしいれ",
+		"russian": "чулан",
+		"russian_from_eng": "стенной шкаф"
+	},
+	{
+		"eng": "young lady",
+		"word": "お嬢さん",
+		"reading": "おじょうさん",
+		"russian": "дочь",
+		"russian_from_eng": "девушка"
+	},
+	{
+		"eng": "to fall or drop",
+		"word": "お宅",
+		"russian": "Ваш дом",
+		"russian_from_eng": "упасть или упасть"
+	},
+	{
+		"eng": "husband",
+		"word": "おっしゃる",
+		"russian": "Вы говорите",
+		"russian_from_eng": "муж"
+	},
+	{
+		"eng": "change from purchase, balance",
+		"word": "おつり",
+		"russian": "Изменение",
+		"russian_from_eng": "изменение от покупки, баланс"
+	},
+	{
+		"eng": "sound,note",
+		"word": "音",
+		"reading": "おと",
+		"russian": "звук",
+		"russian_from_eng": "звук, заметка"
+	},
+	{
+		"eng": "to drop",
+		"word": "落す",
+		"reading": "おとす",
+		"russian": "Отбросить",
+		"russian_from_eng": "упасть"
+	},
+	{
+		"eng": "a dance",
+		"word": "踊り",
+		"reading": "おどり",
+		"russian": "танец",
+		"russian_from_eng": "танцы"
+	},
+	{
+		"eng": "to dance",
+		"word": "踊る",
+		"reading": "おどる",
+		"russian": "Танцевать",
+		"russian_from_eng": "танцевать"
+	},
+	{
+		"eng": "to be surprised",
+		"word": "驚く",
+		"reading": "おどろく",
+		"russian": "Удивляться",
+		"russian_from_eng": "удивляться"
+	},
+	{
+		"eng": "festival",
+		"word": "お祭り",
+		"reading": "おまつり",
+		"russian": "Фестиваль",
+		"russian_from_eng": "фестиваль"
+	},
+	{
+		"eng": "calling on someone who is ill,enquiry",
+		"word": "お見舞い",
+		"reading": "おみまい",
+		"russian": "симпатия",
+		"russian_from_eng": "призывая кого-то, кто болен, запрос"
+	},
+	{
+		"eng": "souvenir",
+		"word": "お土産",
+		"reading": "おみやげ",
+		"russian": "сувенир",
+		"russian_from_eng": "сувенир"
+	},
+	{
+		"eng": "to remember",
+		"word": "思い出す",
+		"reading": "おもいだす",
+		"russian": "Напомнить",
+		"russian_from_eng": "помнить"
+	},
+	{
+		"eng": "to think,to feel",
+		"word": "思う",
+		"reading": "おもう",
+		"russian": "Думать",
+		"russian_from_eng": "думать, чувствовать"
+	},
+	{
+		"eng": "toy",
+		"word": "おもちゃ",
+		"russian": "игрушечный",
+		"russian_from_eng": "игрушка"
+	},
+	{
+		"eng": "the front",
+		"word": "表",
+		"reading": "おもて",
+		"russian": "Стол",
+		"russian_from_eng": "фронт"
+	},
+	{
+		"eng": "parents",
+		"word": "親",
+		"reading": "おや",
+		"russian": "родитель",
+		"russian_from_eng": "родители"
+	},
+	{
+		"eng": "to get off",
+		"word": "下りる",
+		"reading": "おりる",
+		"russian": "Спускаться",
+		"russian_from_eng": "выйти"
+	},
+	{
+		"eng": "to break or to fold",
+		"word": "折る",
+		"reading": "おる",
+		"russian": "Сгибать",
+		"russian_from_eng": "сломать или сложить"
+	},
+	{
+		"eng": "expression of gratitude",
+		"word": "お礼",
+		"reading": "おれい",
+		"russian": "спасибо",
+		"russian_from_eng": "выражение благодарности"
+	},
+	{
+		"eng": "to break or be folded",
+		"word": "折れる",
+		"reading": "おれる",
+		"russian": "Разбить",
+		"russian_from_eng": "сломать или сложить"
+	},
+	{
+		"eng": "the end",
+		"word": "終わり",
+		"reading": "おわり",
+		"russian": "Конец",
+		"russian_from_eng": "конец"
+	},
+	{
+		"eng": "curtain",
+		"word": "カーテン",
+		"russian": "занавес",
+		"russian_from_eng": "занавес"
+	},
+	{
+		"eng": "coast",
+		"word": "海岸",
+		"reading": "かいがん",
+		"russian": "побережье",
+		"russian_from_eng": "побережье"
+	},
+	{
+		"eng": "meeting",
+		"word": "会議",
+		"reading": "かいぎ",
+		"russian": "конференция",
+		"russian_from_eng": "встреча"
+	},
+	{
+		"eng": "meeting room",
+		"word": "会議室",
+		"reading": "かいぎしつ",
+		"russian": "Конференц-зал",
+		"russian_from_eng": "конференц-зал"
+	},
+	{
+		"eng": "assembly hall or meeting place",
+		"word": "会場",
+		"reading": "かいじょう",
+		"russian": "Место встречи",
+		"russian_from_eng": "актовый зал или место встречи"
+	},
+	{
+		"eng": "conversation",
+		"word": "会話",
+		"reading": "かいわ",
+		"russian": "разговор",
+		"russian_from_eng": "разговор"
+	},
+	{
+		"eng": "return",
+		"word": "帰り",
+		"reading": "かえり",
+		"russian": "возвращение",
+		"russian_from_eng": "возвращение"
+	},
+	{
+		"eng": "to change",
+		"word": "変える",
+		"reading": "かえる",
+		"russian": "Чтобы изменить",
+		"russian_from_eng": "изменить"
+	},
+	{
+		"eng": "science",
+		"word": "科学",
+		"reading": "かがく",
+		"russian": "наука",
+		"russian_from_eng": "наука"
+	},
+	{
+		"eng": "mirror",
+		"word": "鏡",
+		"reading": "かがみ",
+		"russian": "зеркало",
+		"russian_from_eng": "зеркало"
+	},
+	{
+		"eng": "to hang something",
+		"word": "掛ける",
+		"reading": "かける",
+		"russian": "Умножение",
+		"russian_from_eng": "повесить что-нибудь"
+	},
+	{
+		"eng": "to decorate",
+		"word": "飾る",
+		"reading": "かざる",
+		"russian": "Украсить",
+		"russian_from_eng": "украшать"
+	},
+	{
+		"eng": "fire",
+		"word": "火事",
+		"reading": "かじ",
+		"russian": "Огонь",
+		"russian_from_eng": "огонь"
+	},
+	{
+		"eng": "petrol",
+		"word": "ガス",
+		"russian": "газ",
+		"russian_from_eng": "бензин"
+	},
+	{
+		"eng": "petrol",
+		"word": "ガソリン",
+		"russian": "бензин",
+		"russian_from_eng": "бензин"
+	},
+	{
+		"eng": "petrol station",
+		"word": "ガソリンスタンド",
+		"russian": "Автозаправка",
+		"russian_from_eng": "автозаправочная станция"
+	},
+	{
+		"eng": "hard",
+		"word": "堅/硬/固い",
+		"reading": "かたい",
+		"russian": "Жесткий / жесткий / жесткий",
+		"russian_from_eng": "жесткий"
+	},
+	{
+		"eng": "shape",
+		"word": "形",
+		"reading": "かたち",
+		"russian": "форма",
+		"russian_from_eng": "форма"
+	},
+	{
+		"eng": "to tidy up",
+		"word": "片付ける",
+		"reading": "かたづける",
+		"russian": "Убирать",
+		"russian_from_eng": "убирать"
+	},
+	{
+		"eng": "section manager",
+		"word": "課長",
+		"reading": "かちょう",
+		"russian": "Менеджер раздела",
+		"russian_from_eng": "менеджер раздела"
+	},
+	{
+		"eng": "to win",
+		"word": "勝つ",
+		"reading": "かつ",
+		"russian": "Чтобы выиграть",
+		"russian_from_eng": "выиграть"
+	},
+	{
+		"eng": "appearance",
+		"word": "かっこう",
+		"russian": "Школьный грейдер",
+		"russian_from_eng": "внешний вид"
+	},
+	{
+		"eng": "housewife",
+		"word": "家内",
+		"reading": "かない",
+		"russian": "Внутри дома",
+		"russian_from_eng": "домохозяйка"
+	},
+	{
+		"eng": "sad",
+		"word": "悲しい",
+		"reading": "かなしい",
+		"russian": "грустный",
+		"russian_from_eng": "грустный"
+	},
+	{
+		"eng": "certainly,necessarily",
+		"word": "必ず",
+		"reading": "かならず",
+		"russian": "конечно",
+		"russian_from_eng": "конечно, обязательно"
+	},
+	{
+		"eng": "rich man",
+		"word": "お・金持ち",
+		"reading": "かねもち/おかねもち",
+		"russian": "Богатый человек",
+		"russian_from_eng": "богатый человек"
+	},
+	{
+		"eng": "she,girlfriend",
+		"word": "彼女",
+		"reading": "かのじょ",
+		"russian": "она",
+		"russian_from_eng": "она, подруга"
+	},
+	{
+		"eng": "wall",
+		"word": "壁",
+		"reading": "かべ",
+		"russian": "Стена",
+		"russian_from_eng": "стена"
+	},
+	{
+		"eng": "to mind",
+		"word": "かまう",
+		"russian": "Я кусаю",
+		"russian_from_eng": "думать"
+	},
+	{
+		"eng": "hair",
+		"word": "髪",
+		"reading": "かみ",
+		"russian": "волосы",
+		"russian_from_eng": "волосы"
+	},
+	{
+		"eng": "to bite,to chew",
+		"word": "噛む",
+		"reading": "かむ",
+		"russian": "Укусить",
+		"russian_from_eng": "укусить, жевать"
+	},
+	{
+		"eng": "to commute",
+		"word": "通う",
+		"reading": "かよう",
+		"russian": "Пройти",
+		"russian_from_eng": "коммутировать"
+	},
+	{
+		"eng": "a glass pane",
+		"word": "ガラス",
+		"russian": "стекло",
+		"russian_from_eng": "стеклянная панель"
+	},
+	{
+		"eng": "he,boyfriend",
+		"word": "彼",
+		"reading": "かれ",
+		"russian": "он",
+		"russian_from_eng": "он парень"
+	},
+	{
+		"eng": "they",
+		"word": "彼ら",
+		"reading": "かれら",
+		"russian": "они",
+		"russian_from_eng": "они"
+	},
+	{
+		"eng": "to get dry",
+		"word": "乾く",
+		"reading": "かわく",
+		"russian": "Сушить",
+		"russian_from_eng": "высыхать"
+	},
+	{
+		"eng": "substitute,alternate",
+		"word": "代わり",
+		"reading": "かわり",
+		"russian": "суррогат",
+		"russian_from_eng": "замена, альтернативный"
+	},
+	{
+		"eng": "to change",
+		"word": "変わる",
+		"reading": "かわる",
+		"russian": "Чтобы изменить",
+		"russian_from_eng": "изменить"
+	},
+	{
+		"eng": "to consider",
+		"word": "考える",
+		"reading": "かんがえる",
+		"russian": "Подумать о",
+		"russian_from_eng": "рассмотреть"
+	},
+	{
+		"eng": "relationship",
+		"word": "関係",
+		"reading": "かんけい",
+		"russian": "Отношения",
+		"russian_from_eng": "отношения"
+	},
+	{
+		"eng": "female nurse",
+		"word": "看護婦",
+		"reading": "かんごふ",
+		"russian": "Медсестра",
+		"russian_from_eng": "женщина-медсестра"
+	},
+	{
+		"eng": "simple",
+		"word": "簡単",
+		"reading": "かんたん",
+		"russian": "простой",
+		"russian_from_eng": "простой"
+	},
+	{
+		"eng": "spirit,mood",
+		"word": "気",
+		"reading": "き",
+		"russian": "уход",
+		"russian_from_eng": "дух, настроение"
+	},
+	{
+		"eng": "opportunity",
+		"word": "機会",
+		"reading": "きかい",
+		"russian": "возможность",
+		"russian_from_eng": "возможность"
+	},
+	{
+		"eng": "danger",
+		"word": "危険",
+		"reading": "きけん",
+		"russian": "опасность",
+		"russian_from_eng": "опасность"
+	},
+	{
+		"eng": "to be heard",
+		"word": "聞こえる",
+		"reading": "きこえる",
+		"russian": "Слушать",
+		"russian_from_eng": "быть услышанным"
+	},
+	{
+		"eng": "steam train",
+		"word": "汽車",
+		"reading": "きしゃ",
+		"russian": "Поезд",
+		"russian_from_eng": "паровоз"
+	},
+	{
+		"eng": "art,technology,skill",
+		"word": "技術",
+		"reading": "ぎじゅつ",
+		"russian": "технология",
+		"russian_from_eng": "искусство, технология, умение"
+	},
+	{
+		"eng": "season",
+		"word": "季節",
+		"reading": "きせつ",
+		"russian": "Сезон",
+		"russian_from_eng": "сезон"
+	},
+	{
+		"eng": "regulations",
+		"word": "規則",
+		"reading": "きそく",
+		"russian": "правило",
+		"russian_from_eng": "правила"
+	},
+	{
+		"eng": "surely",
+		"word": "きっと",
+		"russian": "конечно",
+		"russian_from_eng": "конечно"
+	},
+	{
+		"eng": "silk",
+		"word": "絹",
+		"reading": "きぬ",
+		"russian": "шелк",
+		"russian_from_eng": "шелк"
+	},
+	{
+		"eng": "strict",
+		"word": "厳しい",
+		"reading": "きびしい",
+		"russian": "тяжелый",
+		"russian_from_eng": "строгий"
+	},
+	{
+		"eng": "mood",
+		"word": "気分",
+		"reading": "きぶん",
+		"russian": "настроение",
+		"russian_from_eng": "настроение"
+	},
+	{
+		"eng": "to be decided",
+		"word": "決る",
+		"reading": "きまる",
+		"russian": "Чтобы решить",
+		"russian_from_eng": "будет принято решение"
+	},
+	{
+		"eng": "to decide",
+		"word": "君",
+		"russian": "вы",
+		"russian_from_eng": "принять решение"
+	},
+	{
+		"eng": "feeling,mood",
+		"word": "気持ち",
+		"reading": "きもち",
+		"russian": "Чувство",
+		"russian_from_eng": "чувство, настроение"
+	},
+	{
+		"eng": "kimono",
+		"word": "着物",
+		"reading": "きもの",
+		"russian": "кимоно",
+		"russian_from_eng": "кимоно"
+	},
+	{
+		"eng": "guest,customer",
+		"word": "客",
+		"reading": "きゃく",
+		"russian": "Клиент",
+		"russian_from_eng": "гость, клиент"
+	},
+	{
+		"eng": "urgent, steep",
+		"word": "急",
+		"reading": "きゅう",
+		"russian": "внезапный",
+		"russian_from_eng": "срочный, крутой"
+	},
+	{
+		"eng": "speedy, express",
+		"word": "急行",
+		"reading": "きゅうこう",
+		"russian": "экспресс",
+		"russian_from_eng": "быстрый, экспресс"
+	},
+	{
+		"eng": "education",
+		"word": "教育",
+		"reading": "きょういく",
+		"russian": "образование",
+		"russian_from_eng": "образование"
+	},
+	{
+		"eng": "church",
+		"word": "教会",
+		"reading": "きょうかい",
+		"russian": "Церковь",
+		"russian_from_eng": "церковь"
+	},
+	{
+		"eng": "competition",
+		"word": "競争",
+		"reading": "きょうそう",
+		"russian": "конкуренция",
+		"russian_from_eng": "конкуренция"
+	},
+	{
+		"eng": "an interest",
+		"word": "興味",
+		"reading": "きょうみ",
+		"russian": "заинтересованный",
+		"russian_from_eng": "интерес"
+	},
+	{
+		"eng": "neighbourhood",
+		"word": "近所",
+		"reading": "きんじょ",
+		"russian": "окрестности",
+		"russian_from_eng": "окрестности"
+	},
+	{
+		"eng": "condition,health",
+		"word": "具合",
+		"reading": "ぐあい",
+		"russian": "состояние",
+		"russian_from_eng": "состояние, здоровье"
+	},
+	{
+		"eng": "air,atmosphere",
+		"word": "空気",
+		"reading": "くうき",
+		"russian": "воздуха",
+		"russian_from_eng": "воздушная атмосфера"
+	},
+	{
+		"eng": "airport",
+		"word": "空港",
+		"reading": "くうこう",
+		"russian": "аэропорт",
+		"russian_from_eng": "аэропорт"
+	},
+	{
+		"eng": "grass",
+		"word": "草",
+		"reading": "くさ",
+		"russian": "трава",
+		"russian_from_eng": "трава"
+	},
+	{
+		"eng": "neck",
+		"word": "くださる",
+		"russian": "Дай нам",
+		"russian_from_eng": "шея"
+	},
+	{
+		"eng": "cloud",
+		"word": "雲",
+		"reading": "くも",
+		"russian": "облако",
+		"russian_from_eng": "облако"
+	},
+	{
+		"eng": "to compare",
+		"word": "比べる",
+		"reading": "くらべる",
+		"russian": "Сравнить",
+		"russian_from_eng": "сравнить"
+	},
+	{
+		"eng": "to give",
+		"word": "くれる",
+		"russian": "Дай мне",
+		"russian_from_eng": "давать"
+	},
+	{
+		"eng": "to get dark,to come to an end",
+		"word": "暮れる",
+		"reading": "くれる",
+		"russian": "Быть сумерки",
+		"russian_from_eng": "потемнеться, подойти к концу"
+	},
+	{
+		"eng": "suffix for familiar young male",
+		"word": "君",
+		"reading": "くん",
+		"russian": "вы",
+		"russian_from_eng": "суффикс для знакомого молодого мужчины"
+	},
+	{
+		"eng": "hair or fur",
+		"word": "毛",
+		"reading": "け",
+		"russian": "волосы",
+		"russian_from_eng": "волосы или мех"
+	},
+	{
+		"eng": "to plan",
+		"word": "計画",
+		"reading": "けいかく・する",
+		"russian": "План",
+		"russian_from_eng": "планировать"
+	},
+	{
+		"eng": "to experience",
+		"word": "経験",
+		"reading": "けいけん・する",
+		"russian": "опыт",
+		"russian_from_eng": "испытать"
+	},
+	{
+		"eng": "finance,economy",
+		"word": "経済",
+		"reading": "けいざい",
+		"russian": "экономика",
+		"russian_from_eng": "финансы, экономика"
+	},
+	{
+		"eng": "police",
+		"word": "警察",
+		"reading": "けいさつ",
+		"russian": "Полиция",
+		"russian_from_eng": "полиция"
+	},
+	{
+		"eng": "cake",
+		"word": "ケーキ",
+		"russian": "Торт",
+		"russian_from_eng": "торт"
+	},
+	{
+		"eng": "to injure",
+		"word": "けが・する",
+		"russian": "Чтобы получить травму",
+		"russian_from_eng": "ранить"
+	},
+	{
+		"eng": "scene,landscape",
+		"word": "景色",
+		"reading": "けしき",
+		"russian": "Декорации",
+		"russian_from_eng": "сцена, пейзаж"
+	},
+	{
+		"eng": "eraser",
+		"word": "消しゴム",
+		"reading": "けしゴム",
+		"russian": "ластик",
+		"russian_from_eng": "ластик"
+	},
+	{
+		"eng": "lodging",
+		"word": "下宿",
+		"reading": "げしゅく",
+		"russian": "Пансионат",
+		"russian_from_eng": "жилье"
+	},
+	{
+		"eng": "never",
+		"word": "決して",
+		"reading": "けっして",
+		"russian": "никогда",
+		"russian_from_eng": "никогда"
+	},
+	{
+		"eng": "however",
+		"word": "けれど/けれども",
+		"russian": "Но / Но",
+		"russian_from_eng": "однако"
+	},
+	{
+		"eng": "cause,source",
+		"word": "原因",
+		"reading": "げんいん",
+		"russian": "причина",
+		"russian_from_eng": "причина, источник"
+	},
+	{
+		"eng": "to quarrel",
+		"word": "けんか・する",
+		"russian": "Чтобы сражаться",
+		"russian_from_eng": "ссориться"
+	},
+	{
+		"eng": "research",
+		"word": "研究",
+		"reading": "けんきゅう",
+		"russian": "исследования",
+		"russian_from_eng": "исследование"
+	},
+	{
+		"eng": "study room,laboratory",
+		"word": "研究室",
+		"reading": "けんきゅうしつ",
+		"russian": "лаборатория",
+		"russian_from_eng": "кабинет, лаборатория"
+	},
+	{
+		"eng": "sightseeing",
+		"word": "見物",
+		"reading": "けんぶつ",
+		"russian": "Взгляд",
+		"russian_from_eng": "осмотр достопримечательностей"
+	},
+	{
+		"eng": "child",
+		"word": "子",
+		"reading": "こ",
+		"russian": "ребенок",
+		"russian_from_eng": "ребенок"
+	},
+	{
+		"eng": "this way",
+		"word": "こう",
+		"russian": "Как это",
+		"russian_from_eng": "таким образом"
+	},
+	{
+		"eng": "outskirts",
+		"word": "郊外",
+		"reading": "こうがい",
+		"russian": "предместья",
+		"russian_from_eng": "окраина"
+	},
+	{
+		"eng": "lecture",
+		"word": "講義",
+		"reading": "こうぎ",
+		"russian": "Лекция",
+		"russian_from_eng": "лекция"
+	},
+	{
+		"eng": "the manufacturing industry",
+		"word": "工業",
+		"reading": "こうぎょう",
+		"russian": "промышленность",
+		"russian_from_eng": "обрабатывающая промышленность"
+	},
+	{
+		"eng": "high school",
+		"word": "高校",
+		"reading": "こうこう",
+		"russian": "Средняя школа",
+		"russian_from_eng": "средняя школа"
+	},
+	{
+		"eng": "high school student",
+		"word": "高校生",
+		"reading": "こうこうせい",
+		"russian": "Студент средней школы",
+		"russian_from_eng": "ученик средней школы"
+	},
+	{
+		"eng": "factory",
+		"word": "工場",
+		"reading": "こうじょう",
+		"russian": "завод",
+		"russian_from_eng": "завод"
+	},
+	{
+		"eng": "headmaster",
+		"word": "校長",
+		"reading": "こうちょう",
+		"russian": "принципал",
+		"russian_from_eng": "директор"
+	},
+	{
+		"eng": "traffic,transportation",
+		"word": "交通",
+		"reading": "こうつう",
+		"russian": "трафик",
+		"russian_from_eng": "транспорт, транспорт"
+	},
+	{
+		"eng": "auditorium",
+		"word": "講堂",
+		"reading": "こうどう",
+		"russian": "зрительный зал",
+		"russian_from_eng": "зрительный зал"
+	},
+	{
+		"eng": "high school",
+		"word": "高等学校",
+		"reading": "こうとうがっこう",
+		"russian": "Средняя школа",
+		"russian_from_eng": "средняя школа"
+	},
+	{
+		"eng": "government worker",
+		"word": "公務員",
+		"reading": "こうむいん",
+		"russian": "Государственный служащий",
+		"russian_from_eng": "правительственный работник"
+	},
+	{
+		"eng": "international",
+		"word": "国際",
+		"reading": "こくさい",
+		"russian": "международный",
+		"russian_from_eng": "международный"
+	},
+	{
+		"eng": "core,heart",
+		"word": "心",
+		"reading": "こころ",
+		"russian": "Сердце",
+		"russian_from_eng": "сердце, сердце"
+	},
+	{
+		"eng": "to break-down",
+		"word": "御主人",
+		"russian": "Ваш муж",
+		"russian_from_eng": "к разрушению"
+	},
+	{
+		"eng": "knowing,acquaintance",
+		"word": "ご存じ",
+		"reading": "ごぞんじ",
+		"russian": "Вы знаете",
+		"russian_from_eng": "знание, знакомство"
+	},
+	{
+		"eng": "response",
+		"word": "答",
+		"reading": "こたえ",
+		"russian": "ответ",
+		"russian_from_eng": "ответ"
+	},
+	{
+		"eng": "a feast",
+		"word": "ごちそう",
+		"russian": "Праздник",
+		"russian_from_eng": "праздник"
+	},
+	{
+		"eng": "thing,matter",
+		"word": "こと",
+		"russian": "это",
+		"russian_from_eng": "вещь, материя"
+	},
+	{
+		"eng": "small bird",
+		"word": "小鳥",
+		"reading": "ことり",
+		"russian": "Птица",
+		"russian_from_eng": "маленькая птица"
+	},
+	{
+		"eng": "the other day,recently",
+		"word": "このあいだ",
+		"russian": "В течение этого периода",
+		"russian_from_eng": "на днях, недавно"
+	},
+	{
+		"eng": "these days,nowadays",
+		"word": "このごろ",
+		"russian": "В эти дни",
+		"russian_from_eng": "в эти дни, в наши дни"
+	},
+	{
+		"eng": "small, fine",
+		"word": "細かい",
+		"reading": "こまかい",
+		"russian": "хорошо",
+		"russian_from_eng": "маленький, тонкий"
+	},
+	{
+		"eng": "rubbish",
+		"word": "ごみ",
+		"russian": "отказываться",
+		"russian_from_eng": "мусор"
+	},
+	{
+		"eng": "to be crowded",
+		"word": "込む",
+		"reading": "こむ",
+		"russian": "Включить",
+		"russian_from_eng": "быть переполненным"
+	},
+	{
+		"eng": "uncooked rice",
+		"word": "米",
+		"reading": "こめ",
+		"russian": "рисовый",
+		"russian_from_eng": "неочищенный рис"
+	},
+	{
+		"eng": "after this",
+		"word": "ごらんになる",
+		"russian": "Увидеть",
+		"russian_from_eng": "после этого"
+	},
+	{
+		"eng": "frightening",
+		"word": "怖い",
+		"reading": "こわい",
+		"russian": "Боюсь,",
+		"russian_from_eng": "пугающий"
+	},
+	{
+		"eng": "to break",
+		"word": "壊す",
+		"reading": "こわす",
+		"russian": "Уничтожить",
+		"russian_from_eng": "сломать"
+	},
+	{
+		"eng": "to be broken",
+		"word": "壊れる",
+		"reading": "こわれる",
+		"russian": "Разбить",
+		"russian_from_eng": "быть сломанным"
+	},
+	{
+		"eng": "concert",
+		"word": "コンサート",
+		"russian": "концерт",
+		"russian_from_eng": "концерт"
+	},
+	{
+		"eng": "now,next time",
+		"word": "今度",
+		"reading": "こんど",
+		"russian": "На этот раз",
+		"russian_from_eng": "сейчас, в следующий раз"
+	},
+	{
+		"eng": "computer",
+		"word": "コンピュータ/コンピューター",
+		"russian": "Компьютер / компьютер",
+		"russian_from_eng": "компьютер"
+	},
+	{
+		"eng": "tonight",
+		"word": "今夜",
+		"reading": "こんや",
+		"russian": "сегодня вечером",
+		"russian_from_eng": "сегодня вечером"
+	},
+	{
+		"eng": "latest,nowadays",
+		"word": "最近",
+		"reading": "さいきん",
+		"russian": "в последнее время",
+		"russian_from_eng": "последние, в настоящее время"
+	},
+	{
+		"eng": "last,end",
+		"word": "最後",
+		"reading": "さいご",
+		"russian": "последний",
+		"russian_from_eng": "последний, конец"
+	},
+	{
+		"eng": "beginning,first",
+		"word": "最初",
+		"reading": "さいしょ",
+		"russian": "первый",
+		"russian_from_eng": "начало, первое"
+	},
+	{
+		"eng": "slope,hill",
+		"word": "坂",
+		"reading": "さか",
+		"russian": "возвышенность",
+		"russian_from_eng": "склон, холм"
+	},
+	{
+		"eng": "to look for",
+		"word": "探す",
+		"reading": "さがす",
+		"russian": "надеяться на",
+		"russian_from_eng": "искать"
+	},
+	{
+		"eng": "to get down,to descend",
+		"word": "下る",
+		"reading": "さがる",
+		"russian": "Спуститься",
+		"russian_from_eng": "спуститься, спуститься"
+	},
+	{
+		"eng": "popularity,prosperous",
+		"word": "盛ん",
+		"reading": "さかん",
+		"russian": "процветающий",
+		"russian_from_eng": "популярность, процветание"
+	},
+	{
+		"eng": "to hang,to lower,to move back",
+		"word": "下げる",
+		"reading": "さげる",
+		"russian": "Опустить",
+		"russian_from_eng": "повесить, опуститься, вернуться назад"
+	},
+	{
+		"eng": "some time ago",
+		"word": "差し上げる",
+		"russian": "Откажитесь",
+		"russian_from_eng": "некоторое время назад"
+	},
+	{
+		"eng": "lonely",
+		"word": "寂しい",
+		"reading": "さびしい",
+		"russian": "Ощущение одиночества",
+		"russian_from_eng": "одиноко"
+	},
+	{
+		"eng": "the month after next",
+		"word": "さ来月",
+		"reading": "さらいげつ",
+		"russian": "В следующем месяце",
+		"russian_from_eng": "месяц после следующего"
+	},
+	{
+		"eng": "the week after next",
+		"word": "さ来週",
+		"reading": "さらいしゅう",
+		"russian": "На следующей неделе",
+		"russian_from_eng": "неделя после следующей"
+	},
+	{
+		"eng": "salad",
+		"word": "サラダ",
+		"russian": "Салат",
+		"russian_from_eng": "салат"
+	},
+	{
+		"eng": "to make noise,to be excited",
+		"word": "騒ぐ",
+		"reading": "さわぐ",
+		"russian": "Сделать шум",
+		"russian_from_eng": "шуметь, возбуждать"
+	},
+	{
+		"eng": "to touch",
+		"word": "触る",
+		"reading": "さわる",
+		"russian": "потрогать",
+		"russian_from_eng": "прикоснуться"
+	},
+	{
+		"eng": "industry",
+		"word": "産業",
+		"reading": "さんぎょう",
+		"russian": "промышленность",
+		"russian_from_eng": "промышленность"
+	},
+	{
+		"eng": "sandal",
+		"word": "サンダル",
+		"russian": "сандалии",
+		"russian_from_eng": "сандал"
+	},
+	{
+		"eng": "sandwich",
+		"word": "サンドイッチ",
+		"russian": "сандвич",
+		"russian_from_eng": "сэндвич"
+	},
+	{
+		"eng": "disappointment",
+		"word": "残念",
+		"reading": "ざんねん",
+		"russian": "Так плохо",
+		"russian_from_eng": "разочарование"
+	},
+	{
+		"eng": "city",
+		"word": "市",
+		"reading": "し",
+		"russian": "Город",
+		"russian_from_eng": "город"
+	},
+	{
+		"eng": "character",
+		"word": "字",
+		"reading": "じ",
+		"russian": "характер",
+		"russian_from_eng": "характер"
+	},
+	{
+		"eng": "match,game",
+		"word": "試合",
+		"reading": "しあい",
+		"russian": "игры",
+		"russian_from_eng": "матч, игра"
+	},
+	{
+		"eng": "method",
+		"word": "仕方",
+		"reading": "しかた",
+		"russian": "способ",
+		"russian_from_eng": "метод"
+	},
+	{
+		"eng": "a particular",
+		"word": "しかる",
+		"russian": "бранить",
+		"russian_from_eng": "в частности"
+	},
+	{
+		"eng": "examination",
+		"word": "試験",
+		"reading": "しけん",
+		"russian": "Тест",
+		"russian_from_eng": "экспертиза"
+	},
+	{
+		"eng": "accident",
+		"word": "事故",
+		"reading": "じこ",
+		"russian": "Авария",
+		"russian_from_eng": "авария"
+	},
+	{
+		"eng": "earthquake",
+		"word": "地震",
+		"reading": "じしん",
+		"russian": "Землетрясение",
+		"russian_from_eng": "землетрясение"
+	},
+	{
+		"eng": "era",
+		"word": "時代",
+		"reading": "じだい",
+		"russian": "эпоха",
+		"russian_from_eng": "эпоха"
+	},
+	{
+		"eng": "underwear",
+		"word": "下着",
+		"reading": "したぎ",
+		"russian": "нижнее белье",
+		"russian_from_eng": "нижнее белье"
+	},
+	{
+		"eng": "to prepare",
+		"word": "支度",
+		"reading": "したく・する",
+		"russian": "подготовка",
+		"russian_from_eng": "подготовить"
+	},
+	{
+		"eng": "firmly,steadily",
+		"word": "しっかり",
+		"russian": "наглухо",
+		"russian_from_eng": "твердо, неуклонно"
+	},
+	{
+		"eng": "failure,mistake",
+		"word": "失敗",
+		"reading": "しっぱい",
+		"russian": "ошибка",
+		"russian_from_eng": "ошибка, ошибка"
+	},
+	{
+		"eng": "dictionary",
+		"word": "辞典",
+		"reading": "じてん",
+		"russian": "Словарь",
+		"russian_from_eng": "словарь"
+	},
+	{
+		"eng": "goods",
+		"word": "品物",
+		"reading": "しなもの",
+		"russian": "товары",
+		"russian_from_eng": "товары"
+	},
+	{
+		"eng": "little while",
+		"word": "しばらく",
+		"russian": "Некоторое время",
+		"russian_from_eng": "мало"
+	},
+	{
+		"eng": "island",
+		"word": "島",
+		"reading": "しま",
+		"russian": "остров",
+		"russian_from_eng": "остров"
+	},
+	{
+		"eng": "citizen",
+		"word": "市民",
+		"reading": "しみん",
+		"russian": "гражданин",
+		"russian_from_eng": "гражданин"
+	},
+	{
+		"eng": "office",
+		"word": "事務所",
+		"reading": "じむしょ",
+		"russian": "Офис",
+		"russian_from_eng": "офис"
+	},
+	{
+		"eng": "society,public",
+		"word": "社会",
+		"reading": "しゃかい",
+		"russian": "общество",
+		"russian_from_eng": "общество, общественность"
+	},
+	{
+		"eng": "company president",
+		"word": "社長",
+		"reading": "しゃちょう",
+		"russian": "Президент",
+		"russian_from_eng": "президент компании"
+	},
+	{
+		"eng": "hindrance,intrusion",
+		"word": "じゃま",
+		"russian": "помеха",
+		"russian_from_eng": "помеха, вторжение"
+	},
+	{
+		"eng": "jam",
+		"word": "ジャム",
+		"russian": "джем",
+		"russian_from_eng": "джем"
+	},
+	{
+		"eng": "freedom",
+		"word": "自由",
+		"reading": "じゆう",
+		"russian": "свобода",
+		"russian_from_eng": "свобода"
+	},
+	{
+		"eng": "custom,manners",
+		"word": "習慣",
+		"reading": "しゅうかん",
+		"russian": "габитус",
+		"russian_from_eng": "обычай, манеры"
+	},
+	{
+		"eng": "an address,a residence",
+		"word": "住所",
+		"reading": "じゅうしょ",
+		"russian": "адрес",
+		"russian_from_eng": "адрес, место жительства"
+	},
+	{
+		"eng": "judo",
+		"word": "柔道",
+		"reading": "じゅうどう",
+		"russian": "дзюдо",
+		"russian_from_eng": "Judd"
+	},
+	{
+		"eng": "enough",
+		"word": "十分",
+		"reading": "じゅうぶん",
+		"russian": "достаточно",
+		"russian_from_eng": "достаточно"
+	},
+	{
+		"eng": "to attend",
+		"word": "出席",
+		"reading": "しゅっせき・する",
+		"russian": "посещаемость",
+		"russian_from_eng": "посещать"
+	},
+	{
+		"eng": "to depart",
+		"word": "出発",
+		"reading": "しゅっぱつ・する",
+		"russian": "выезд",
+		"russian_from_eng": "вылететь"
+	},
+	{
+		"eng": "hobby",
+		"word": "趣味",
+		"reading": "しゅみ",
+		"russian": "Хобби",
+		"russian_from_eng": "хобби"
+	},
+	{
+		"eng": "to prepare",
+		"word": "準備",
+		"reading": "じゅんび・する",
+		"russian": "подготовка",
+		"russian_from_eng": "подготовить"
+	},
+	{
+		"eng": "introduction",
+		"word": "紹介",
+		"reading": "しょうかい",
+		"russian": "введение",
+		"russian_from_eng": "введение"
+	},
+	{
+		"eng": "elementary school",
+		"word": "小学校",
+		"reading": "しょうがっこう",
+		"russian": "Начальная школа",
+		"russian_from_eng": "начальная школа"
+	},
+	{
+		"eng": "novel",
+		"word": "小説",
+		"reading": "しょうせつ",
+		"russian": "Роман",
+		"russian_from_eng": "роман"
+	},
+	{
+		"eng": "to invite",
+		"word": "招待",
+		"reading": "しょうたい・する",
+		"russian": "приглашение",
+		"russian_from_eng": "пригласить"
+	},
+	{
+		"eng": "to consent",
+		"word": "承知",
+		"reading": "しょうち・する",
+		"russian": "согласие",
+		"russian_from_eng": "согласиться"
+	},
+	{
+		"eng": "future,prospects",
+		"word": "将来",
+		"reading": "しょうらい",
+		"russian": "будущее",
+		"russian_from_eng": "будущее, перспективы"
+	},
+	{
+		"eng": "to have a meal",
+		"word": "食事",
+		"reading": "しょくじ・する",
+		"russian": "еда",
+		"russian_from_eng": "поесть"
+	},
+	{
+		"eng": "groceries",
+		"word": "食料品",
+		"reading": "しょくりょうひん",
+		"russian": "бакалея",
+		"russian_from_eng": "бакалейные товары"
+	},
+	{
+		"eng": "woman",
+		"word": "女性",
+		"reading": "じょせい",
+		"russian": "женщина",
+		"russian_from_eng": "женщина"
+	},
+	{
+		"eng": "to notify",
+		"word": "知らせる",
+		"reading": "しらせる",
+		"russian": "Чтобы сообщить",
+		"russian_from_eng": "уведомлять"
+	},
+	{
+		"eng": "to investigate",
+		"word": "調べる",
+		"reading": "しらべる",
+		"russian": "Изучить",
+		"russian_from_eng": "расследовать"
+	},
+	{
+		"eng": "population",
+		"word": "人口",
+		"reading": "じんこう",
+		"russian": "население",
+		"russian_from_eng": "население"
+	},
+	{
+		"eng": "Shinto shrine",
+		"word": "神社",
+		"reading": "じんじゃ",
+		"russian": "Святыня",
+		"russian_from_eng": "Синтоистская святыня"
+	},
+	{
+		"eng": "kindness",
+		"word": "親切",
+		"reading": "しんせつ",
+		"russian": "доброжелательность",
+		"russian_from_eng": "доброта"
+	},
+	{
+		"eng": "to worry",
+		"word": "心配",
+		"reading": "しんぱい・する",
+		"russian": "беспокоиться",
+		"russian_from_eng": "беспокоиться"
+	},
+	{
+		"eng": "newspaper company",
+		"word": "新聞社",
+		"reading": "しんぶんしゃ",
+		"russian": "Газетная компания",
+		"russian_from_eng": "газетная компания"
+	},
+	{
+		"eng": "swimming",
+		"word": "水泳",
+		"reading": "すいえい",
+		"russian": "плавание",
+		"russian_from_eng": "плавание"
+	},
+	{
+		"eng": "water supply",
+		"word": "水道",
+		"reading": "すいどう",
+		"russian": "Водоснабжение",
+		"russian_from_eng": "водоснабжение"
+	},
+	{
+		"eng": "extremely",
+		"word": "ずいぶん",
+		"russian": "Хорошая сделка",
+		"russian_from_eng": "очень"
+	},
+	{
+		"eng": "mathematics,arithmetic",
+		"word": "数学",
+		"reading": "すうがく",
+		"russian": "математика",
+		"russian_from_eng": "математика, арифметика"
+	},
+	{
+		"eng": "suit",
+		"word": "スーツ",
+		"russian": "Костюм",
+		"russian_from_eng": "костюм"
+	},
+	{
+		"eng": "suitcase",
+		"word": "スーツケース",
+		"russian": "чемодан",
+		"russian_from_eng": "чемодан"
+	},
+	{
+		"eng": "to exceed",
+		"word": "過ぎる",
+		"reading": "すぎる",
+		"russian": "Слишком много",
+		"russian_from_eng": "превышать"
+	},
+	{
+		"eng": "to become empty",
+		"word": "すく",
+		"russian": "легче",
+		"russian_from_eng": "стать пустым"
+	},
+	{
+		"eng": "screen",
+		"word": "スクリーン",
+		"russian": "экран",
+		"russian_from_eng": "экран"
+	},
+	{
+		"eng": "terrific",
+		"word": "凄い",
+		"reading": "すごい",
+		"russian": "большой",
+		"russian_from_eng": "потрясающий"
+	},
+	{
+		"eng": "to make progress",
+		"word": "進む",
+		"reading": "すすむ",
+		"russian": "Идите вперед",
+		"russian_from_eng": "добиваться прогресса"
+	},
+	{
+		"eng": "completely",
+		"word": "すっかり",
+		"russian": "полностью",
+		"russian_from_eng": "полностью"
+	},
+	{
+		"eng": "straight,all of a sudden",
+		"word": "すっと",
+		"russian": "Все вместе",
+		"russian_from_eng": "прямо, внезапно"
+	},
+	{
+		"eng": "steak",
+		"word": "ステーキ",
+		"russian": "стейк",
+		"russian_from_eng": "стейк"
+	},
+	{
+		"eng": "to throw away",
+		"word": "捨てる",
+		"reading": "すてる",
+		"russian": "Отброшено",
+		"russian_from_eng": "выбросить"
+	},
+	{
+		"eng": "stereo",
+		"word": "ステレオ",
+		"russian": "стерео",
+		"russian_from_eng": "стерео"
+	},
+	{
+		"eng": "sand",
+		"word": "砂",
+		"reading": "すな",
+		"russian": "песок",
+		"russian_from_eng": "песок"
+	},
+	{
+		"eng": "wonderful",
+		"word": "すばらしい",
+		"russian": "Это замечательно",
+		"russian_from_eng": "замечательный"
+	},
+	{
+		"eng": "to slide,to slip",
+		"word": "滑る",
+		"reading": "すべる",
+		"russian": "Сдвинуть",
+		"russian_from_eng": "скользить, скользить"
+	},
+	{
+		"eng": "corner,nook",
+		"word": "隅",
+		"reading": "すみ",
+		"russian": "угол",
+		"russian_from_eng": "уголок, уголок"
+	},
+	{
+		"eng": "to finish",
+		"word": "済む",
+		"reading": "すむ",
+		"russian": "нужно",
+		"russian_from_eng": "закончить"
+	},
+	{
+		"eng": "pickpocket",
+		"word": "すり",
+		"russian": "карманник",
+		"russian_from_eng": "карманник"
+	},
+	{
+		"eng": "then",
+		"word": "すると",
+		"russian": "тогда",
+		"russian_from_eng": "то"
+	},
+	{
+		"eng": "to live",
+		"word": "生活",
+		"reading": "せいかつ・する",
+		"russian": "жизнь",
+		"russian_from_eng": "жить"
+	},
+	{
+		"eng": "to produce",
+		"word": "生産",
+		"reading": "せいさん・する",
+		"russian": "производство",
+		"russian_from_eng": "производить"
+	},
+	{
+		"eng": "politics,government",
+		"word": "政治",
+		"reading": "せいじ",
+		"russian": "политика",
+		"russian_from_eng": "политика, правительство"
+	},
+	{
+		"eng": "western countries",
+		"word": "西洋",
+		"reading": "せいよう",
+		"russian": "Запад",
+		"russian_from_eng": "западные страны"
+	},
+	{
+		"eng": "the world",
+		"word": "世界",
+		"reading": "せかい",
+		"russian": "Мир",
+		"russian_from_eng": "мире"
+	},
+	{
+		"eng": "seat",
+		"word": "席",
+		"reading": "せき",
+		"russian": "сиденье",
+		"russian_from_eng": "сиденье"
+	},
+	{
+		"eng": "explanation",
+		"word": "説明",
+		"reading": "せつめい",
+		"russian": "объяснение",
+		"russian_from_eng": "объяснение"
+	},
+	{
+		"eng": "back of the body",
+		"word": "背中",
+		"reading": "せなか",
+		"russian": "назад",
+		"russian_from_eng": "задняя часть тела"
+	},
+	{
+		"eng": "without fail",
+		"word": "ぜひ",
+		"russian": "Во что бы то ни стало",
+		"russian_from_eng": "непременно"
+	},
+	{
+		"eng": "to look after",
+		"word": "世話",
+		"reading": "せわ・する",
+		"russian": "Глядя после того, как",
+		"russian_from_eng": "ухаживать"
+	},
+	{
+		"eng": "line",
+		"word": "線",
+		"reading": "せん",
+		"russian": "линия",
+		"russian_from_eng": "линия"
+	},
+	{
+		"eng": "not entirely (used in a negative sentence)",
+		"word": "ぜんぜん",
+		"russian": "На всех",
+		"russian_from_eng": "не полностью (используется в отрицательном предложении)"
+	},
+	{
+		"eng": "war",
+		"word": "戦争",
+		"reading": "せんそう",
+		"russian": "война",
+		"russian_from_eng": "война"
+	},
+	{
+		"eng": "senior",
+		"word": "先輩",
+		"reading": "せんぱい",
+		"russian": "старший",
+		"russian_from_eng": "старший"
+	},
+	{
+		"eng": "really",
+		"word": "そう",
+		"russian": "так",
+		"russian_from_eng": "на самом деле"
+	},
+	{
+		"eng": "to discuss",
+		"word": "相談",
+		"reading": "そうだん・する",
+		"russian": "консультация",
+		"russian_from_eng": "обсуждать"
+	},
+	{
+		"eng": "to rear,to bring up",
+		"word": "育てる",
+		"reading": "そだてる",
+		"russian": "Поднять",
+		"russian_from_eng": "поднять, поднять"
+	},
+	{
+		"eng": "graduation",
+		"word": "卒業",
+		"reading": "そつぎょう",
+		"russian": "градация",
+		"russian_from_eng": "градация"
+	},
+	{
+		"eng": "grandfather",
+		"word": "祖父",
+		"reading": "そふ",
+		"russian": "дед",
+		"russian_from_eng": "дед"
+	},
+	{
+		"eng": "soft",
+		"word": "ソフト",
+		"russian": "программное обеспечение",
+		"russian_from_eng": "мягкий"
+	},
+	{
+		"eng": "grandmother",
+		"word": "祖母",
+		"reading": "そぼ",
+		"russian": "бабушка",
+		"russian_from_eng": "бабушка"
+	},
+	{
+		"eng": "because of that",
+		"word": "それで",
+		"russian": "Тогда",
+		"russian_from_eng": "из-за этого"
+	},
+	{
+		"eng": "moreover",
+		"word": "それに",
+		"russian": "И кроме того",
+		"russian_from_eng": "кроме того"
+	},
+	{
+		"eng": "to that extent",
+		"word": "それほど",
+		"russian": "так",
+		"russian_from_eng": "в той степени"
+	},
+	{
+		"eng": "gradually,soon",
+		"word": "そろそろ",
+		"russian": "Почти время",
+		"russian_from_eng": "постепенно, скоро"
+	},
+	{
+		"eng": "that sort of",
+		"word": "そんな",
+		"russian": "такие",
+		"russian_from_eng": "такого рода"
+	},
+	{
+		"eng": "so much,like that",
+		"word": "そんなに",
+		"russian": "Так много",
+		"russian_from_eng": "так много, вот так"
+	},
+	{
+		"eng": "to leave hospital",
+		"word": "退院",
+		"reading": "たいいん・する",
+		"russian": "Покидая больницу",
+		"russian_from_eng": "покинуть больницу"
+	},
+	{
+		"eng": "university student",
+		"word": "大学生",
+		"reading": "だいがくせい",
+		"russian": "Студент университета",
+		"russian_from_eng": "студент университета"
+	},
+	{
+		"eng": "important,valuable,serious matter",
+		"word": "大事",
+		"reading": "だいじ",
+		"russian": "значение",
+		"russian_from_eng": "важный, ценный, серьезный вопрос"
+	},
+	{
+		"eng": "generally",
+		"word": "大体",
+		"reading": "だいたい",
+		"russian": "в целом",
+		"russian_from_eng": "в целом"
+	},
+	{
+		"eng": "usually",
+		"word": "たいてい",
+		"russian": "почти",
+		"russian_from_eng": "обычно"
+	},
+	{
+		"eng": "type,style",
+		"word": "タイプ",
+		"russian": "тип",
+		"russian_from_eng": "тип, стиль"
+	},
+	{
+		"eng": "greatly",
+		"word": "大分",
+		"reading": "だいぶ",
+		"russian": "много",
+		"russian_from_eng": "значительно"
+	},
+	{
+		"eng": "typhoon",
+		"word": "台風",
+		"reading": "たいふう",
+		"russian": "тайфун",
+		"russian_from_eng": "тайфун"
+	},
+	{
+		"eng": "to break down",
+		"word": "倒れる",
+		"reading": "たおれる",
+		"russian": "падение",
+		"russian_from_eng": "сломать"
+	},
+	{
+		"eng": "so,therefore",
+		"word": "だから",
+		"russian": "так",
+		"russian_from_eng": "поэтому, следовательно"
+	},
+	{
+		"eng": "definite",
+		"word": "確か",
+		"reading": "たしか",
+		"russian": "конечно",
+		"russian_from_eng": "определенный"
+	},
+	{
+		"eng": "to add a number",
+		"word": "足す",
+		"reading": "たす",
+		"russian": "Добавить",
+		"russian_from_eng": "добавить число"
+	},
+	{
+		"eng": "to visit",
+		"word": "訪ねる",
+		"reading": "たずねる",
+		"russian": "Чтобы посетить",
+		"russian_from_eng": "посетить"
+	},
+	{
+		"eng": "to ask",
+		"word": "尋ねる",
+		"reading": "たずねる",
+		"russian": "Спросить",
+		"russian_from_eng": "спросить"
+	},
+	{
+		"eng": "correct",
+		"word": "正しい",
+		"reading": "ただしい",
+		"russian": "правильный",
+		"russian_from_eng": "правильный"
+	},
+	{
+		"eng": "Japanese straw mat",
+		"word": "畳",
+		"reading": "たたみ",
+		"russian": "таты",
+		"russian_from_eng": "Японский соломенный мат"
+	},
+	{
+		"eng": "to stand something up",
+		"word": "立てる",
+		"reading": "たてる",
+		"russian": "Стоять",
+		"russian_from_eng": "выдержать что-то"
+	},
+	{
+		"eng": "to build",
+		"word": "建てる",
+		"reading": "たてる",
+		"russian": "Создать",
+		"russian_from_eng": "строить"
+	},
+	{
+		"eng": "for example",
+		"word": "例えば",
+		"reading": "たとえば",
+		"russian": "Например,",
+		"russian_from_eng": "например,"
+	},
+	{
+		"eng": "shelves",
+		"word": "棚",
+		"reading": "たな",
+		"russian": "Полка",
+		"russian_from_eng": "полки"
+	},
+	{
+		"eng": "joy",
+		"word": "楽しみ",
+		"reading": "たのしみ",
+		"russian": "удовольствие",
+		"russian_from_eng": "радость"
+	},
+	{
+		"eng": "to enjoy oneself",
+		"word": "楽む",
+		"reading": "たのしむ",
+		"russian": "Чтобы наслаждаться",
+		"russian_from_eng": "наслаждаться собой"
+	},
+	{
+		"eng": "occasionally",
+		"word": "たまに",
+		"russian": "редко",
+		"russian_from_eng": "иногда"
+	},
+	{
+		"eng": "in order to",
+		"word": "為",
+		"reading": "ため",
+		"russian": "потому что",
+		"russian_from_eng": "для того чтобы"
+	},
+	{
+		"eng": "no good",
+		"word": "だめ",
+		"russian": "Нет хорошего",
+		"russian_from_eng": "нет хорошего"
+	},
+	{
+		"eng": "to be enough",
+		"word": "足りる",
+		"reading": "たりる",
+		"russian": "Достаточно",
+		"russian_from_eng": "хватит"
+	},
+	{
+		"eng": "male",
+		"word": "男性",
+		"reading": "だんせい",
+		"russian": "Человек",
+		"russian_from_eng": "мужчина"
+	},
+	{
+		"eng": "heating",
+		"word": "暖房",
+		"reading": "だんぼう",
+		"russian": "отопление",
+		"russian_from_eng": "отопление"
+	},
+	{
+		"eng": "blood",
+		"word": "血",
+		"reading": "ち",
+		"russian": "кровь",
+		"russian_from_eng": "кровь"
+	},
+	{
+		"eng": "to check",
+		"word": "チェック・する",
+		"russian": "Проверить",
+		"russian_from_eng": "проверять"
+	},
+	{
+		"eng": "strength,power",
+		"word": "力",
+		"reading": "ちから",
+		"russian": "Сила",
+		"russian_from_eng": "сила, мощь"
+	},
+	{
+		"eng": "not at all (used with a negative verb)",
+		"word": "ちっとも",
+		"russian": "Немного",
+		"russian_from_eng": "не на всех (используется с отрицательным глаголом)"
+	},
+	{
+		"eng": "suffix for familiar female person",
+		"word": "ちゃん",
+		"russian": "Chan",
+		"russian_from_eng": "суффикс для знакомой женщины"
+	},
+	{
+		"eng": "caution",
+		"word": "注意",
+		"reading": "ちゅうい",
+		"russian": "предосторожность",
+		"russian_from_eng": "осторожность"
+	},
+	{
+		"eng": "junior high school,middle school",
+		"word": "中学校",
+		"reading": "ちゅうがっこう",
+		"russian": "Средняя школа",
+		"russian_from_eng": "средняя школа, средняя школа"
+	},
+	{
+		"eng": "injection",
+		"word": "注射",
+		"reading": "ちゅうしゃ",
+		"russian": "впрыскивание",
+		"russian_from_eng": "впрыскивание"
+	},
+	{
+		"eng": "parking lot",
+		"word": "駐車場",
+		"reading": "ちゅうしゃじょう",
+		"russian": "Автостоянка",
+		"russian_from_eng": "автостоянка"
+	},
+	{
+		"eng": "geography",
+		"word": "地理",
+		"reading": "ちり",
+		"russian": "география",
+		"russian_from_eng": "география"
+	},
+	{
+		"eng": "to seize",
+		"word": "捕まえる",
+		"reading": "つかまえる",
+		"russian": "задвижка",
+		"russian_from_eng": "захватить"
+	},
+	{
+		"eng": "moon",
+		"word": "つき",
+		"russian": "везение",
+		"russian_from_eng": "луна"
+	},
+	{
+		"eng": "to be attached",
+		"word": "付く",
+		"reading": "つく",
+		"russian": "Присоединить",
+		"russian_from_eng": "прикрепляться"
+	},
+	{
+		"eng": "to soak,to pickle",
+		"word": "漬ける",
+		"reading": "つける",
+		"russian": "Рассолить",
+		"russian_from_eng": "вымачивать, мариновать"
+	},
+	{
+		"eng": "circumstances,convenience",
+		"word": "都合",
+		"reading": "つごう",
+		"russian": "удобство",
+		"russian_from_eng": "обстоятельства, удобство"
+	},
+	{
+		"eng": "to report",
+		"word": "伝える",
+		"reading": "つたえる",
+		"russian": "Передавать",
+		"russian_from_eng": "сообщать"
+	},
+	{
+		"eng": "to be continued",
+		"word": "続く",
+		"reading": "つづく",
+		"russian": "Продолжить",
+		"russian_from_eng": "следует продолжить"
+	},
+	{
+		"eng": "to continue",
+		"word": "続ける",
+		"reading": "つづける",
+		"russian": "Продолжить",
+		"russian_from_eng": "продолжать"
+	},
+	{
+		"eng": "to wrap",
+		"word": "包む",
+		"reading": "つつむ",
+		"russian": "Wrap",
+		"russian_from_eng": "обертывать"
+	},
+	{
+		"eng": "intention",
+		"word": "妻",
+		"russian": "жена",
+		"russian_from_eng": "намерение"
+	},
+	{
+		"eng": "to fish",
+		"word": "釣る",
+		"reading": "つる",
+		"russian": "Ловить рыбу",
+		"russian_from_eng": "ловить рыбу"
+	},
+	{
+		"eng": "to lead",
+		"word": "連れる",
+		"reading": "つれる",
+		"russian": "Принимать",
+		"russian_from_eng": "вести"
+	},
+	{
+		"eng": "polite",
+		"word": "丁寧",
+		"reading": "ていねい",
+		"russian": "любезный",
+		"russian_from_eng": "вежливый"
+	},
+	{
+		"eng": "text,text book",
+		"word": "テキスト",
+		"russian": "текст",
+		"russian_from_eng": "текст, учебник"
+	},
+	{
+		"eng": "suitability",
+		"word": "適当",
+		"reading": "てきとう",
+		"russian": "подходит",
+		"russian_from_eng": "пригодность"
+	},
+	{
+		"eng": "as much as possible",
+		"word": "できるだけ",
+		"russian": "Насколько вы можете",
+		"russian_from_eng": "насколько это возможно"
+	},
+	{
+		"eng": "to assist",
+		"word": "手伝う",
+		"reading": "てつだう",
+		"russian": "Чтобы помочь",
+		"russian_from_eng": "оказывать помощь"
+	},
+	{
+		"eng": "tennis",
+		"word": "テニス",
+		"russian": "теннис",
+		"russian_from_eng": "теннис"
+	},
+	{
+		"eng": "glove",
+		"word": "手袋",
+		"reading": "てぶくろ",
+		"russian": "перчатки",
+		"russian_from_eng": "перчатка"
+	},
+	{
+		"eng": "temple",
+		"word": "寺",
+		"reading": "てら",
+		"russian": "Храм",
+		"russian_from_eng": "храм"
+	},
+	{
+		"eng": "point,dot",
+		"word": "点",
+		"reading": "てん",
+		"russian": "точка",
+		"russian_from_eng": "точка, точка"
+	},
+	{
+		"eng": "shop assistant",
+		"word": "店員",
+		"reading": "てんいん",
+		"russian": "клерк",
+		"russian_from_eng": "продавец"
+	},
+	{
+		"eng": "weather forecast",
+		"word": "天気予報",
+		"reading": "てんきよほう",
+		"russian": "Прогноз погоды",
+		"russian_from_eng": "прогноз погоды"
+	},
+	{
+		"eng": "electric light",
+		"word": "電灯",
+		"reading": "でんとう",
+		"russian": "Электрический свет",
+		"russian_from_eng": "электрический свет"
+	},
+	{
+		"eng": "telegram",
+		"word": "電報",
+		"reading": "でんぽう",
+		"russian": "телеграмма",
+		"russian_from_eng": "телеграмма"
+	},
+	{
+		"eng": "exhibition",
+		"word": "展覧会",
+		"reading": "てんらんかい",
+		"russian": "Выставка",
+		"russian_from_eng": "выставка"
+	},
+	{
+		"eng": "metropolitan",
+		"word": "都",
+		"reading": "と",
+		"russian": "капитал",
+		"russian_from_eng": "митрополит"
+	},
+	{
+		"eng": "tool,means",
+		"word": "道具",
+		"reading": "どうぐ",
+		"russian": "инструмент",
+		"russian_from_eng": "инструмент, средство"
+	},
+	{
+		"eng": "finally, after all",
+		"word": "とうとう",
+		"russian": "в конце концов",
+		"russian_from_eng": "наконец, в конце концов"
+	},
+	{
+		"eng": "zoo",
+		"word": "動物園",
+		"reading": "どうぶつえん",
+		"russian": "Зоопарк",
+		"russian_from_eng": "зоопарк"
+	},
+	{
+		"eng": "distant",
+		"word": "遠く",
+		"reading": "とおく",
+		"russian": "Далеко",
+		"russian_from_eng": "отдаленный"
+	},
+	{
+		"eng": "to go through",
+		"word": "通る",
+		"reading": "とおる",
+		"russian": "Пройти",
+		"russian_from_eng": "пройти"
+	},
+	{
+		"eng": "particularly,especially",
+		"word": "特に",
+		"reading": "とくに",
+		"russian": "В частности",
+		"russian_from_eng": "особенно, особенно"
+	},
+	{
+		"eng": "special",
+		"word": "特別",
+		"reading": "とくべつ",
+		"russian": "специальные",
+		"russian_from_eng": "специальные"
+	},
+	{
+		"eng": "barber",
+		"word": "とこや",
+		"russian": "Yukaya",
+		"russian_from_eng": "цирюльник"
+	},
+	{
+		"eng": "on the way",
+		"word": "途中",
+		"reading": "とちゅう",
+		"russian": "En маршрут",
+		"russian_from_eng": "по пути"
+	},
+	{
+		"eng": "limited express train (faster than an express train)",
+		"word": "特急",
+		"reading": "とっきゅう",
+		"russian": "Ограниченный экспресс",
+		"russian_from_eng": "ограниченный экспресс (быстрее, чем экспресс)"
+	},
+	{
+		"eng": "to reach",
+		"word": "届ける",
+		"reading": "とどける",
+		"russian": "доставить",
+		"russian_from_eng": "достичь"
+	},
+	{
+		"eng": "to lodge at",
+		"word": "泊まる",
+		"reading": "とまる",
+		"russian": "Чтобы остаться",
+		"russian_from_eng": "поселиться в"
+	},
+	{
+		"eng": "to stop something",
+		"word": "止める",
+		"reading": "とめる",
+		"russian": "Остановить",
+		"russian_from_eng": "остановить что-то"
+	},
+	{
+		"eng": "to exchange",
+		"word": "取り替える",
+		"reading": "とりかえる",
+		"russian": "Чтобы заменить",
+		"russian_from_eng": "обменять"
+	},
+	{
+		"eng": "thief",
+		"word": "泥棒",
+		"reading": "どろぼう",
+		"russian": "Вор",
+		"russian_from_eng": "вор"
+	},
+	{
+		"eng": "more and more",
+		"word": "どんどん",
+		"russian": "постоянно",
+		"russian_from_eng": "все больше и больше"
+	},
+	{
+		"eng": "to fix,to repair",
+		"word": "直す",
+		"reading": "なおす",
+		"russian": "Исправить",
+		"russian_from_eng": "исправить, отремонтировать"
+	},
+	{
+		"eng": "to be fixed,to be repaired",
+		"word": "直る",
+		"reading": "なおる",
+		"russian": "Исцелиться",
+		"russian_from_eng": "быть исправленным, подлежащим ремонту"
+	},
+	{
+		"eng": "to be cured,to heal",
+		"word": "治る",
+		"reading": "なおる",
+		"russian": "Лечить",
+		"russian_from_eng": "вылечиться, залечить"
+	},
+	{
+		"eng": "considerably",
+		"word": "中々",
+		"reading": "なかなか",
+		"russian": "Средний s",
+		"russian_from_eng": "значительно"
+	},
+	{
+		"eng": "to weep",
+		"word": "泣く",
+		"reading": "なく",
+		"russian": "Плакать",
+		"russian_from_eng": "плакать"
+	},
+	{
+		"eng": "to disappear,to get lost",
+		"word": "無くなる",
+		"reading": "なくなる",
+		"russian": "Чтобы исчезнуть",
+		"russian_from_eng": "исчезнуть, потеряться"
+	},
+	{
+		"eng": "to die",
+		"word": "亡くなる",
+		"reading": "なくなる",
+		"russian": "Чтобы умереть",
+		"russian_from_eng": "умереть"
+	},
+	{
+		"eng": "to throw or cast away",
+		"word": "投げる",
+		"reading": "なげる",
+		"russian": "бросать",
+		"russian_from_eng": "бросать или бросать"
+	},
+	{
+		"eng": "to sound",
+		"word": "なさる",
+		"russian": "Сделать",
+		"russian_from_eng": "звучать"
+	},
+	{
+		"eng": "as much as possible",
+		"word": "なるべく",
+		"russian": "Как можно больше",
+		"russian_from_eng": "насколько это возможно"
+	},
+	{
+		"eng": "now I understand",
+		"word": "なるほど",
+		"russian": "Понимаю",
+		"russian_from_eng": "теперь я понимаю"
+	},
+	{
+		"eng": "to grow accustomed to",
+		"word": "慣れる",
+		"reading": "なれる",
+		"russian": "Привыкайте",
+		"russian_from_eng": "привыкнуть к"
+	},
+	{
+		"eng": "a smell",
+		"word": "におい",
+		"russian": "обоняние",
+		"russian_from_eng": "запах"
+	},
+	{
+		"eng": "bitter",
+		"word": "苦い",
+		"reading": "にがい",
+		"russian": "ожесточенный",
+		"russian_from_eng": "горький"
+	},
+	{
+		"eng": "two storied",
+		"word": "二階建て",
+		"reading": "にかいだて",
+		"russian": "Два рассказа",
+		"russian_from_eng": "двухэтажный"
+	},
+	{
+		"eng": "to escape",
+		"word": "逃げる",
+		"reading": "にげる",
+		"russian": "Бежать",
+		"russian_from_eng": "бежать"
+	},
+	{
+		"eng": "journal",
+		"word": "日記",
+		"reading": "にっき",
+		"russian": "Дневник",
+		"russian_from_eng": "журнал"
+	},
+	{
+		"eng": "to hospitalise",
+		"word": "入院",
+		"reading": "にゅういん・する",
+		"russian": "госпитализация",
+		"russian_from_eng": "госпитализировать"
+	},
+	{
+		"eng": "to enter school or university",
+		"word": "入学",
+		"reading": "にゅうがく・する",
+		"russian": "Зачисление",
+		"russian_from_eng": "поступить в школу или университет"
+	},
+	{
+		"eng": "to be similar",
+		"word": "似る",
+		"reading": "にる",
+		"russian": "походить",
+		"russian_from_eng": "быть похожим"
+	},
+	{
+		"eng": "doll, figure",
+		"word": "人形",
+		"reading": "にんぎょう",
+		"russian": "Кукла",
+		"russian_from_eng": "кукла, фигура"
+	},
+	{
+		"eng": "to steal",
+		"word": "盗む",
+		"reading": "ぬすむ",
+		"russian": "красть",
+		"russian_from_eng": "украсть"
+	},
+	{
+		"eng": "to paint,to plaster",
+		"word": "塗る",
+		"reading": "ぬる",
+		"russian": "Покрасить",
+		"russian_from_eng": "краска, штукатурка"
+	},
+	{
+		"eng": "to get wet",
+		"word": "ぬれる",
+		"russian": "Намочите",
+		"russian_from_eng": "промокнуть"
+	},
+	{
+		"eng": "price",
+		"word": "ねだん",
+		"russian": "цена",
+		"russian_from_eng": "цена"
+	},
+	{
+		"eng": "fever",
+		"word": "熱",
+		"reading": "ねつ",
+		"russian": "зной",
+		"russian_from_eng": "лихорадка"
+	},
+	{
+		"eng": "enthusiasm",
+		"word": "ねっしん",
+		"russian": "Камень",
+		"russian_from_eng": "энтузиазм"
+	},
+	{
+		"eng": "sleeping in late",
+		"word": "寝坊",
+		"reading": "ねぼう",
+		"russian": "Сон в конце",
+		"russian_from_eng": "спать в последнее время"
+	},
+	{
+		"eng": "sleepy",
+		"word": "眠い",
+		"reading": "ねむい",
+		"russian": "Я сонный",
+		"russian_from_eng": "сонный"
+	},
+	{
+		"eng": "to sleep",
+		"word": "眠る",
+		"reading": "ねむる",
+		"russian": "Спать",
+		"russian_from_eng": "спать"
+	},
+	{
+		"eng": "to remain",
+		"word": "残る",
+		"reading": "のこる",
+		"russian": "Оставаться",
+		"russian_from_eng": "оставаться"
+	},
+	{
+		"eng": "throat",
+		"word": "のど",
+		"russian": "горло",
+		"russian_from_eng": "горло"
+	},
+	{
+		"eng": "to change between buses or trains",
+		"word": "乗り換える",
+		"reading": "のりかえる",
+		"russian": "Передать",
+		"russian_from_eng": "для переключения между автобусами или поездами"
+	},
+	{
+		"eng": "vehicle",
+		"word": "乗り物",
+		"reading": "のりもの",
+		"russian": "Автомобиль",
+		"russian_from_eng": "автомобиль"
+	},
+	{
+		"eng": "leaf",
+		"word": "葉",
+		"reading": "は",
+		"russian": "лист",
+		"russian_from_eng": "лист"
+	},
+	{
+		"eng": "situation",
+		"word": "場合",
+		"reading": "ばあい",
+		"russian": "случай",
+		"russian_from_eng": "ситуация"
+	},
+	{
+		"eng": "part time",
+		"word": "パート",
+		"russian": "часть",
+		"russian_from_eng": "неполный рабочий день"
+	},
+	{
+		"eng": "double",
+		"word": "倍",
+		"reading": "ばい",
+		"russian": "двойной",
+		"russian_from_eng": "двойной"
+	},
+	{
+		"eng": "dentist",
+		"word": "拝見",
+		"russian": "посмотреть",
+		"russian_from_eng": "дантист"
+	},
+	{
+		"eng": "to transport",
+		"word": "運ぶ",
+		"reading": "はこぶ",
+		"russian": "Переносить",
+		"russian_from_eng": "транспортировать"
+	},
+	{
+		"eng": "to begin",
+		"word": "始める",
+		"reading": "はじめる",
+		"russian": "Чтобы начать",
+		"russian_from_eng": "начать"
+	},
+	{
+		"eng": "location",
+		"word": "場所",
+		"reading": "ばしょ",
+		"russian": "расположение",
+		"russian_from_eng": "место"
+	},
+	{
+		"eng": "it should be so",
+		"word": "はず",
+		"russian": "Предполагается, что",
+		"russian_from_eng": "это должно быть так"
+	},
+	{
+		"eng": "embarrassed",
+		"word": "恥ずかしい",
+		"reading": "はずかしい",
+		"russian": "Это смущает",
+		"russian_from_eng": "смущенный"
+	},
+	{
+		"eng": "personal computer",
+		"word": "パソコン",
+		"russian": "Персональный компьютер",
+		"russian_from_eng": "персональный компьютер"
+	},
+	{
+		"eng": "pronunciation",
+		"word": "発音",
+		"reading": "はつおん",
+		"russian": "произношение",
+		"russian_from_eng": "произношение"
+	},
+	{
+		"eng": "clearly",
+		"word": "はっきり",
+		"russian": "очевидно",
+		"russian_from_eng": "явно"
+	},
+	{
+		"eng": "cherry-blossom viewing",
+		"word": "花見",
+		"reading": "はなみ",
+		"russian": "Цветочный вид",
+		"russian_from_eng": "вишневый цвет"
+	},
+	{
+		"eng": "woods,forester",
+		"word": "林",
+		"reading": "はやし",
+		"russian": "лес",
+		"russian_from_eng": "лес, лесник"
+	},
+	{
+		"eng": "to pay",
+		"word": "払う",
+		"reading": "はらう",
+		"russian": "Платить",
+		"russian_from_eng": "платить"
+	},
+	{
+		"eng": "television or radio program",
+		"word": "番組",
+		"reading": "ばんぐみ",
+		"russian": "программа",
+		"russian_from_eng": "телевизионная или радиопрограмма"
+	},
+	{
+		"eng": "opposition",
+		"word": "反対",
+		"reading": "はんたい",
+		"russian": "оппозиция",
+		"russian_from_eng": "оппозиция"
+	},
+	{
+		"eng": "handbag　",
+		"word": "ハンドバッグ",
+		"russian": "сумка",
+		"russian_from_eng": "сумка"
+	},
+	{
+		"eng": "day, sun",
+		"word": "日",
+		"reading": "ひ",
+		"russian": "день",
+		"russian_from_eng": "день, солнце"
+	},
+	{
+		"eng": "fire",
+		"word": "火",
+		"reading": "ひ",
+		"russian": "огонь",
+		"russian_from_eng": "огонь"
+	},
+	{
+		"eng": "piano",
+		"word": "ピアノ",
+		"russian": "пиано",
+		"russian_from_eng": "пиано"
+	},
+	{
+		"eng": "to grow cold",
+		"word": "冷える",
+		"reading": "ひえる",
+		"russian": "Охладить",
+		"russian_from_eng": "простужаться"
+	},
+	{
+		"eng": "light",
+		"word": "光",
+		"reading": "ひかり",
+		"russian": "свет",
+		"russian_from_eng": "свет"
+	},
+	{
+		"eng": "to shine,to glitter",
+		"word": "光る",
+		"reading": "ひかる",
+		"russian": "Чтобы сиять",
+		"russian_from_eng": "блеск, блеск"
+	},
+	{
+		"eng": "drawer,drawing out",
+		"word": "引き出し",
+		"reading": "ひきだし",
+		"russian": "векселедатель",
+		"russian_from_eng": "выдвижной ящик, вытяжка"
+	},
+	{
+		"eng": "to withdraw",
+		"word": "引き出す",
+		"reading": "ひきだす",
+		"russian": "Отменить",
+		"russian_from_eng": "отозвать"
+	},
+	{
+		"eng": "beard",
+		"word": "ひげ",
+		"russian": "бакенбарды",
+		"russian_from_eng": "борода"
+	},
+	{
+		"eng": "airport",
+		"word": "飛行場",
+		"reading": "ひこうじょう",
+		"russian": "аэропорт",
+		"russian_from_eng": "аэропорт"
+	},
+	{
+		"eng": "after a long time",
+		"word": "久しぶり",
+		"reading": "ひさしぶり",
+		"russian": "Долгое время",
+		"russian_from_eng": "после долгого времени"
+	},
+	{
+		"eng": "art gallery",
+		"word": "美術館",
+		"reading": "びじゅつかん",
+		"russian": "Музей",
+		"russian_from_eng": "художественная галерея"
+	},
+	{
+		"eng": "extremely",
+		"word": "非常に",
+		"reading": "ひじょうに",
+		"russian": "очень",
+		"russian_from_eng": "очень"
+	},
+	{
+		"eng": "to be surprised",
+		"word": "びっくり・する",
+		"russian": "Удивляться",
+		"russian_from_eng": "удивляться"
+	},
+	{
+		"eng": "to move house",
+		"word": "引っ越す",
+		"reading": "ひっこす",
+		"russian": "Переместить",
+		"russian_from_eng": "перемещать дом"
+	},
+	{
+		"eng": "necessary",
+		"word": "必要",
+		"reading": "ひつよう",
+		"russian": "нужно",
+		"russian_from_eng": "необходимо"
+	},
+	{
+		"eng": "awful",
+		"word": "ひどい",
+		"russian": "плохой",
+		"russian_from_eng": "ужасный"
+	},
+	{
+		"eng": "to open an event",
+		"word": "開く",
+		"reading": "ひらく",
+		"russian": "Открыть",
+		"russian_from_eng": "открыть мероприятие"
+	},
+	{
+		"eng": "building or bill",
+		"word": "ビル",
+		"russian": "здание",
+		"russian_from_eng": "строительство или счет"
+	},
+	{
+		"eng": "daytime,during the day",
+		"word": "昼間",
+		"reading": "ひるま",
+		"russian": "дневное время",
+		"russian_from_eng": "днем, днем"
+	},
+	{
+		"eng": "noon break",
+		"word": "昼休み",
+		"reading": "ひるやすみ",
+		"russian": "Перерыв на обед",
+		"russian_from_eng": "полдень"
+	},
+	{
+		"eng": "to pick up,to gather",
+		"word": "拾う",
+		"reading": "ひろう",
+		"russian": "Забрать",
+		"russian_from_eng": "подобрать, собрать"
+	},
+	{
+		"eng": "fax",
+		"word": "ファックス",
+		"russian": "факс",
+		"russian_from_eng": "факс"
+	},
+	{
+		"eng": "to increase",
+		"word": "増える",
+		"reading": "ふえる",
+		"russian": "Увеличить",
+		"russian_from_eng": "увеличить"
+	},
+	{
+		"eng": "deep",
+		"word": "深い",
+		"reading": "ふかい",
+		"russian": "глубоко",
+		"russian_from_eng": "глубоко"
+	},
+	{
+		"eng": "complexity,complication",
+		"word": "複雑",
+		"reading": "ふくざつ",
+		"russian": "сложность",
+		"russian_from_eng": "сложность, сложность"
+	},
+	{
+		"eng": "revision",
+		"word": "復習",
+		"reading": "ふくしゅう",
+		"russian": "обзор",
+		"russian_from_eng": "пересмотр"
+	},
+	{
+		"eng": "head of a section",
+		"word": "部長",
+		"reading": "ぶちょう",
+		"russian": "отдел",
+		"russian_from_eng": "глава секции"
+	},
+	{
+		"eng": "usually, or a train that stops at every station",
+		"word": "普通",
+		"reading": "ふつう",
+		"russian": "обычно",
+		"russian_from_eng": "обычно, поезд, который останавливается на каждой станции"
+	},
+	{
+		"eng": "grapes",
+		"word": "ぶどう",
+		"russian": "виноград",
+		"russian_from_eng": "виноград"
+	},
+	{
+		"eng": "to become fat",
+		"word": "太る",
+		"reading": "ふとる",
+		"russian": "Чтобы набрать вес",
+		"russian_from_eng": "стать толстым"
+	},
+	{
+		"eng": "Japanese bedding, futon",
+		"word": "布団",
+		"reading": "ふとん",
+		"russian": "футон",
+		"russian_from_eng": "Японские постельные принадлежности, футон"
+	},
+	{
+		"eng": "ship",
+		"word": "舟",
+		"reading": "ふね",
+		"russian": "лодка",
+		"russian_from_eng": "корабль"
+	},
+	{
+		"eng": "inconvenience",
+		"word": "不便",
+		"reading": "ふべん",
+		"russian": "неудобство",
+		"russian_from_eng": "неудобство"
+	},
+	{
+		"eng": "to step on",
+		"word": "踏む",
+		"reading": "ふむ",
+		"russian": "Шаг вперед",
+		"russian_from_eng": "наступить"
+	},
+	{
+		"eng": "to start to rain",
+		"word": "降り出す",
+		"reading": "ふりだす",
+		"russian": "Чтобы спуститься",
+		"russian_from_eng": "начать дождь"
+	},
+	{
+		"eng": "present",
+		"word": "プレゼント",
+		"russian": "Presents",
+		"russian_from_eng": "настоящее время"
+	},
+	{
+		"eng": "culture",
+		"word": "文化",
+		"reading": "ぶんか",
+		"russian": "культура",
+		"russian_from_eng": "культура"
+	},
+	{
+		"eng": "literature",
+		"word": "文学",
+		"reading": "ぶんがく",
+		"russian": "литература",
+		"russian_from_eng": "литература"
+	},
+	{
+		"eng": "grammar",
+		"word": "文法",
+		"reading": "ぶんぽう",
+		"russian": "грамматика",
+		"russian_from_eng": "грамматика"
+	},
+	{
+		"eng": "different",
+		"word": "別",
+		"reading": "べつ",
+		"russian": "различный",
+		"russian_from_eng": "другой"
+	},
+	{
+		"eng": "bell",
+		"word": "ベル",
+		"russian": "колокол",
+		"russian_from_eng": "колокол"
+	},
+	{
+		"eng": "strange",
+		"word": "変",
+		"reading": "へん",
+		"russian": "странный",
+		"russian_from_eng": "странный"
+	},
+	{
+		"eng": "reply",
+		"word": "返事",
+		"reading": "へんじ",
+		"russian": "ответить",
+		"russian_from_eng": "ответить"
+	},
+	{
+		"eng": "trade",
+		"word": "貿易",
+		"reading": "ぼうえき",
+		"russian": "внешнеторговый",
+		"russian_from_eng": "торговля"
+	},
+	{
+		"eng": "to broadcast",
+		"word": "放送",
+		"reading": "ほうそう・する",
+		"russian": "вещания",
+		"russian_from_eng": "транслировать"
+	},
+	{
+		"eng": "law",
+		"word": "法律",
+		"reading": "ほうりつ",
+		"russian": "закон",
+		"russian_from_eng": "закон"
+	},
+	{
+		"eng": "I (used by males)",
+		"word": "僕",
+		"reading": "ぼく",
+		"russian": "Я",
+		"russian_from_eng": "I (используется мужчинами)"
+	},
+	{
+		"eng": "star",
+		"word": "星",
+		"reading": "ほし",
+		"russian": "Звезда",
+		"russian_from_eng": "звезда"
+	},
+	{
+		"eng": "extent",
+		"word": "ほど",
+		"russian": "о",
+		"russian_from_eng": "степень"
+	},
+	{
+		"eng": "mostly",
+		"word": "ほとんど",
+		"russian": "почти",
+		"russian_from_eng": "главным образом"
+	},
+	{
+		"eng": "to praise",
+		"word": "ほめる",
+		"russian": "похвала",
+		"russian_from_eng": "хвалить"
+	},
+	{
+		"eng": "translation",
+		"word": "翻訳",
+		"reading": "ほんやく",
+		"russian": "перевод",
+		"russian_from_eng": "перевод"
+	},
+	{
+		"eng": "to lose",
+		"word": "参る",
+		"russian": "Продолжать",
+		"russian_from_eng": "терять"
+	},
+	{
+		"eng": "serious",
+		"word": "まじめ",
+		"russian": "Серьезность",
+		"russian_from_eng": "серьезный"
+	},
+	{
+		"eng": "first of all",
+		"word": "まず",
+		"russian": "Прежде всего",
+		"russian_from_eng": "в первую очередь"
+	},
+	{
+		"eng": "or,otherwise",
+		"word": "または",
+		"russian": "или",
+		"russian_from_eng": "или, в противном случае (в противном случае)"
+	},
+	{
+		"eng": "to make a mistake",
+		"word": "間違える",
+		"reading": "まちがえる",
+		"russian": "Ошибки",
+		"russian_from_eng": "совершить ошибку"
+	},
+	{
+		"eng": "to be in time for",
+		"word": "間に合う",
+		"reading": "まにあう",
+		"russian": "Сделать это",
+		"russian_from_eng": "успеть"
+	},
+	{
+		"eng": "surroundings",
+		"word": "周り",
+		"reading": "まわり",
+		"russian": "окружение",
+		"russian_from_eng": "окружение"
+	},
+	{
+		"eng": "to go around",
+		"word": "回る",
+		"reading": "まわる",
+		"russian": "Пойти",
+		"russian_from_eng": "ходить"
+	},
+	{
+		"eng": "comic",
+		"word": "漫画",
+		"reading": "まんが",
+		"russian": "мультипликация",
+		"russian_from_eng": "комический"
+	},
+	{
+		"eng": "middle",
+		"word": "真中",
+		"reading": "まんなか",
+		"russian": "В середине",
+		"russian_from_eng": "средний"
+	},
+	{
+		"eng": "to be in sight",
+		"word": "見える",
+		"reading": "みえる",
+		"russian": "Может видеть",
+		"russian_from_eng": "быть в поле зрения"
+	},
+	{
+		"eng": "lake",
+		"word": "湖",
+		"reading": "みずうみ",
+		"russian": "Озеро",
+		"russian_from_eng": "озеро"
+	},
+	{
+		"eng": "bean paste",
+		"word": "味噌",
+		"reading": "みそ",
+		"russian": "Мисо",
+		"russian_from_eng": "фасоль"
+	},
+	{
+		"eng": "to be discovered",
+		"word": "見つかる",
+		"reading": "みつかる",
+		"russian": "Быть найденным",
+		"russian_from_eng": "быть обнаруженным"
+	},
+	{
+		"eng": "to discover",
+		"word": "見つける",
+		"reading": "みつける",
+		"russian": "Чтобы узнать",
+		"russian_from_eng": "открыть"
+	},
+	{
+		"eng": "everybody",
+		"word": "皆",
+		"reading": "みな",
+		"russian": "все",
+		"russian_from_eng": "все"
+	},
+	{
+		"eng": "harbour",
+		"word": "港",
+		"reading": "みなと",
+		"russian": "гавань",
+		"russian_from_eng": "гавань"
+	},
+	{
+		"eng": "to face",
+		"word": "向かう",
+		"reading": "むかう",
+		"russian": "Голова для",
+		"russian_from_eng": "противостоять"
+	},
+	{
+		"eng": "to go out to meet",
+		"word": "迎える",
+		"reading": "むかえる",
+		"russian": "Поздороваться",
+		"russian_from_eng": "выходить навстречу"
+	},
+	{
+		"eng": "olden days, former",
+		"word": "昔",
+		"reading": "むかし",
+		"russian": "Старые дни",
+		"russian_from_eng": "старые, бывшие"
+	},
+	{
+		"eng": "insect",
+		"word": "虫",
+		"reading": "むし",
+		"russian": "насекомое",
+		"russian_from_eng": "насекомое"
+	},
+	{
+		"eng": "impossible",
+		"word": "息子",
+		"russian": "Сын",
+		"russian_from_eng": "невозможно"
+	},
+	{
+		"eng": "rare",
+		"word": "召し上がる",
+		"russian": "Я буду есть",
+		"russian_from_eng": "Это"
+	},
+	{
+		"eng": "soon",
+		"word": "申し上げる",
+		"russian": "Сказать",
+		"russian_from_eng": "скоро"
+	},
+	{
+		"eng": "if",
+		"word": "もし",
+		"russian": "если",
+		"russian_from_eng": "Там е"
+	},
+	{
+		"eng": "of course",
+		"word": "もちろん",
+		"russian": "Конечно,",
+		"russian_from_eng": "конечно,"
+	},
+	{
+		"eng": "extremely",
+		"word": "もっとも",
+		"russian": "самая",
+		"russian_from_eng": "очень"
+	},
+	{
+		"eng": "to turn back",
+		"word": "戻る",
+		"reading": "もどる",
+		"russian": "возвращение",
+		"russian_from_eng": "повернуть назад"
+	},
+	{
+		"eng": "cotton",
+		"word": "木綿",
+		"reading": "もめん",
+		"russian": "хлопок",
+		"russian_from_eng": "хлопок"
+	},
+	{
+		"eng": "to receive",
+		"word": "もらう",
+		"russian": "Получить",
+		"russian_from_eng": "получать"
+	},
+	{
+		"eng": "forest",
+		"word": "森",
+		"reading": "もり",
+		"russian": "Лес",
+		"russian_from_eng": "лес"
+	},
+	{
+		"eng": "to bake,to grill",
+		"word": "焼く",
+		"reading": "やく",
+		"russian": "выпекать",
+		"russian_from_eng": "запекать, на гриле"
+	},
+	{
+		"eng": "promise",
+		"word": "約束",
+		"reading": "やくそく",
+		"russian": "Обещание",
+		"russian_from_eng": "обещание"
+	},
+	{
+		"eng": "to be helpful",
+		"word": "役に立つ",
+		"reading": "やくにたつ",
+		"russian": "Будьте полезны",
+		"russian_from_eng": "быть полезным"
+	},
+	{
+		"eng": "to burn,to be roasted",
+		"word": "焼ける",
+		"reading": "やける",
+		"russian": "Сжечь",
+		"russian_from_eng": "гореть, поджариваться"
+	},
+	{
+		"eng": "kind",
+		"word": "優しい",
+		"reading": "やさしい",
+		"russian": "дружеский",
+		"russian_from_eng": "вид"
+	},
+	{
+		"eng": "to become thin",
+		"word": "痩せる",
+		"reading": "やせる",
+		"russian": "Похудеть",
+		"russian_from_eng": "стать тонким"
+	},
+	{
+		"eng": "at last",
+		"word": "やっと",
+		"russian": "едва",
+		"russian_from_eng": "наконец"
+	},
+	{
+		"eng": "as I thought,absolutely",
+		"word": "やはり/やっぱり",
+		"russian": "Снова / в конце концов",
+		"russian_from_eng": "как я думал, абсолютно"
+	},
+	{
+		"eng": "to stop",
+		"word": "止む",
+		"reading": "やむ",
+		"russian": "Остановить",
+		"russian_from_eng": "прекратить"
+	},
+	{
+		"eng": "to stop",
+		"word": "止める",
+		"reading": "やめる",
+		"russian": "Остановить",
+		"russian_from_eng": "прекратить"
+	},
+	{
+		"eng": "soft",
+		"word": "柔らかい",
+		"reading": "やわらかい",
+		"russian": "мягкий",
+		"russian_from_eng": "мягкий"
+	},
+	{
+		"eng": "hot water",
+		"word": "湯",
+		"reading": "ゆ",
+		"russian": "Горячая вода",
+		"russian_from_eng": "горячая вода"
+	},
+	{
+		"eng": "to export",
+		"word": "輸出",
+		"reading": "ゆしゅつ・する",
+		"russian": "экспорт",
+		"russian_from_eng": "экспортировать"
+	},
+	{
+		"eng": "to import",
+		"word": "輸入",
+		"reading": "ゆにゅう・する",
+		"russian": "импорт",
+		"russian_from_eng": "импортировать"
+	},
+	{
+		"eng": "finger",
+		"word": "指",
+		"reading": "ゆび",
+		"russian": "палец",
+		"russian_from_eng": "палец"
+	},
+	{
+		"eng": "finger ring",
+		"word": "指輪",
+		"reading": "ゆびわ",
+		"russian": "Кольцо",
+		"russian_from_eng": "пальцевое кольцо"
+	},
+	{
+		"eng": "dream",
+		"word": "夢",
+		"reading": "ゆめ",
+		"russian": "Мечта",
+		"russian_from_eng": "сон"
+	},
+	{
+		"eng": "to shake,to sway",
+		"word": "揺れる",
+		"reading": "ゆれる",
+		"russian": "раскачивание",
+		"russian_from_eng": "дрожать, качаться"
+	},
+	{
+		"eng": "use",
+		"word": "用",
+		"reading": "よう",
+		"russian": "использование",
+		"russian_from_eng": "использование"
+	},
+	{
+		"eng": "preparation",
+		"word": "用意",
+		"reading": "ようい",
+		"russian": "подготовка",
+		"russian_from_eng": "подготовка"
+	},
+	{
+		"eng": "things to do",
+		"word": "用事",
+		"reading": "ようじ",
+		"russian": "Путеводитель",
+		"russian_from_eng": "вещи, чтобы сделать"
+	},
+	{
+		"eng": "to get dirty",
+		"word": "汚れる",
+		"reading": "よごれる",
+		"russian": "Стать грязным",
+		"russian_from_eng": "порвать"
+	},
+	{
+		"eng": "preparation for a lesson",
+		"word": "予習",
+		"reading": "よしゅう",
+		"russian": "приготовительный",
+		"russian_from_eng": "подготовка к уроку"
+	},
+	{
+		"eng": "arrangement",
+		"word": "予定",
+		"reading": "よてい",
+		"russian": "планы",
+		"russian_from_eng": "расположение"
+	},
+	{
+		"eng": "reservation",
+		"word": "予約",
+		"reading": "よやく",
+		"russian": "бронирование",
+		"russian_from_eng": "бронирование"
+	},
+	{
+		"eng": "to visit",
+		"word": "寄る",
+		"reading": "よる",
+		"russian": "Приблизьтесь",
+		"russian_from_eng": "посетить"
+	},
+	{
+		"eng": "to be delighted",
+		"word": "喜ぶ",
+		"reading": "よろこぶ",
+		"russian": "Будьте довольны",
+		"russian_from_eng": "быть в восторге"
+	},
+	{
+		"eng": "reason",
+		"word": "よろしい",
+		"russian": "Все в порядке",
+		"russian_from_eng": "причина"
+	},
+	{
+		"eng": "utilization",
+		"word": "利用",
+		"reading": "りよう",
+		"russian": "использование",
+		"russian_from_eng": "использование"
+	},
+	{
+		"eng": "both sides",
+		"word": "両方",
+		"reading": "りょうほう",
+		"russian": "обе",
+		"russian_from_eng": "обе стороны"
+	},
+	{
+		"eng": "Japanese hotel",
+		"word": "旅館",
+		"reading": "りょかん",
+		"russian": "Отель",
+		"russian_from_eng": "Японский отель"
+	},
+	{
+		"eng": "absence",
+		"word": "留守",
+		"reading": "るす",
+		"russian": "отсутствие",
+		"russian_from_eng": "отсутствие"
+	},
+	{
+		"eng": "air conditioning",
+		"word": "冷房",
+		"reading": "れいぼう",
+		"russian": "охлаждение",
+		"russian_from_eng": "кондиционер"
+	},
+	{
+		"eng": "history",
+		"word": "歴史",
+		"reading": "れきし",
+		"russian": "история",
+		"russian_from_eng": "история"
+	},
+	{
+		"eng": "register",
+		"word": "レジ",
+		"russian": "кассовый аппарат",
+		"russian_from_eng": "регистр"
+	},
+	{
+		"eng": "report",
+		"word": "レポート/リポート",
+		"russian": "Отчет / отчет",
+		"russian_from_eng": "доклад"
+	},
+	{
+		"eng": "contact",
+		"word": "連絡",
+		"reading": "れんらく",
+		"russian": "связь",
+		"russian_from_eng": "контакт"
+	},
+	{
+		"eng": "word processor",
+		"word": "ワープロ",
+		"russian": "Текстовый процессор",
+		"russian_from_eng": "текстовый процессор"
+	},
+	{
+		"eng": "to boil,to heat",
+		"word": "沸かす",
+		"reading": "わかす",
+		"russian": "кипятить",
+		"russian_from_eng": "кипятить, нагревать"
+	},
+	{
+		"eng": "to separate",
+		"word": "別れる",
+		"reading": "わかれる",
+		"russian": "Разрушить",
+		"russian_from_eng": "отделять"
+	},
+	{
+		"eng": "to boil, to grow hot,to get excited",
+		"word": "沸く",
+		"reading": "わく",
+		"russian": "кипятить",
+		"russian_from_eng": "кипятить, расти горячим, возбудиться"
+	},
+	{
+		"eng": "meaning,reason",
+		"word": "訳",
+		"reading": "わけ",
+		"russian": "Перевод",
+		"russian_from_eng": "смысл, разум"
+	},
+	{
+		"eng": "lost article",
+		"word": "忘れ物",
+		"reading": "わすれもの",
+		"russian": "Потерянная статья",
+		"russian_from_eng": "потерянная статья"
+	},
+	{
+		"eng": "to laugh,to smile",
+		"word": "笑う",
+		"reading": "わらう",
+		"russian": "Смеяться",
+		"russian_from_eng": "смеяться, улыбаться"
+	},
+	{
+		"eng": "rate,ratio,percentage",
+		"word": "割合",
+		"reading": "わりあい",
+		"russian": "соотношение",
+		"russian_from_eng": "процент, процент, процент"
+	},
+	{
+		"eng": "to break",
+		"word": "割れる",
+		"reading": "われる",
+		"russian": "Разбить",
+		"russian_from_eng": "сломать"
+	},
+	{
+		"eng": "way of swimming",
+		"word": "泳ぎ方",
+		"reading": "およぎかた",
+		"russian": "Как плавать",
+		"russian_from_eng": "способ плавания"
+	}
+]

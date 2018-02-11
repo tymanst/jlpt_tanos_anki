@@ -40,7 +40,7 @@ def get_docx_text(path):
 
     return '\n\n'.join(paragraphs)
 
-def group(file_name):
+def kanji_list_group(file_name):
     array = get_docx_text('docx/' + file_name + '.docx').split('\n')
     array = [i for i in array if i]
 
@@ -62,16 +62,45 @@ def group(file_name):
             buffer[type] = el
     return result
 
-
+def vocab_list_group(file_name):
+    array = get_docx_text('docx/' + file_name + '.docx').split('\n')
+    array = [i for i in array if i]
+    array = array[5:]
+    eng_pattern = re.compile(u'[a-zA-Z0-9]+')
+    res = []
+    buff = []
+    for el in array:
+        if eng_pattern.match(el):
+            try:
+                val = {'eng':el}
+                val['word'] = buff[0]
+                if len(buff) == 2:
+                    val['reading'] = buff[1]
+                res.append(val)
+                buff = []
+            except:
+                print('Error')
+                for el in res:
+                    print(el)
+                return 0
+        else:
+            buff.append(el)
+    for i, el in enumerate(res):
+        res[i]['russian'] = translator.translate(el['word'], dest='ru', src='ja').text
+        res[i]['russian_from_eng'] = translator.translate(el['eng'], dest='ru', src='ja').text
+    with open('json/' + file_name + '.json', 'w+') as outfile:
+        json.dump(res, outfile)
+    return len(res)
 
 def vocabList(data):
     for el in data:
         translator = Translator()
-        el['rus'] = translator.translate(el['kanji'], dst="ru", src='jp')
+
     return data
+res = 0
+for i in range(1,6):
+    vocab_list_group('VocabList.N4')
 
-
-print(group('VocabList.N4'))
 
     # for i, el in enumerate(result):
     #     a = os.popen(YARXI_PL + el['kandji']).readline()

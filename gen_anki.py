@@ -57,6 +57,8 @@ def main():
 
     deck_name = "KanjiList.N4"
     data = load_json("json/"+ deck_name +".json")
+    print(len(data))
+    return 0
     deck_name = deck_name + '.tanos-chaos'
     deck = genanki.Deck(gen_id(deck_name), deck_name)
     for el in data:
